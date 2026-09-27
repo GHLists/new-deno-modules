@@ -13,15 +13,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 10:19 UTC
+## Latest list — 2026-09-27 12:20 UTC
 
-New modules created between 2026-09-27 09:19 UTC and 2026-09-27 10:19 UTC.
+New modules created between 2026-09-27 11:19 UTC and 2026-09-27 12:20 UTC.
 
-[Full CSV](data/new-deno-modules-2026-09-27T10-19-30-541928Z.csv)
+[Full CSV](data/new-deno-modules-2026-09-27T12-20-22-78631Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-09-27 09:59:47 | [vinicunca/node-utils](https://jsr.io/vinicunca/node-utils) |  |  |  |
+| 2026-09-27 11:26:33 | [timmo001/effect-herdr](https://jsr.io/timmo001/effect-herdr) |  |  |  |
+| 2026-09-27 11:33:52 | [sandovalfenix/whatsappbridge](https://jsr.io/sandovalfenix/whatsappbridge) | 0.3.0 | 82 |  |
+| 2026-09-27 11:38:04 | [remix-kbn/ui-pinch-pan](https://jsr.io/remix-kbn/ui-pinch-pan) |  |  |  |
 
 ## Data source
 
