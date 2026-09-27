@@ -13,7 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-_No list has been generated yet._
+## Latest list — 2026-09-27 10:19 UTC
+
+New modules created between 2026-09-27 09:19 UTC and 2026-09-27 10:19 UTC.
+
+[Full CSV](data/new-deno-modules-2026-09-27T10-19-30-541928Z.csv)
+
+| Created (UTC) | Package | Version | Score | Description |
+| :------------ | :------ | :------ | ----: | :---------- |
+| 2026-09-27 09:59:47 | [vinicunca/node-utils](https://jsr.io/vinicunca/node-utils) |  |  |  |
 
 ## Data source
 
