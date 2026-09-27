@@ -13,16 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 13:21 UTC
+## Latest list — 2026-09-27 16:22 UTC
 
-New modules created between 2026-09-27 12:20 UTC and 2026-09-27 13:21 UTC.
+New modules created between 2026-09-27 15:22 UTC and 2026-09-27 16:22 UTC.
 
-[Full CSV](data/new-deno-modules-2026-09-27T13-21-53-272021Z.csv)
+[Full CSV](data/new-deno-modules-2026-09-27T16-22-18-773173Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-09-27 12:36:59 | [sileanhell/vite-plugin-tailwind-mangle](https://jsr.io/sileanhell/vite-plugin-tailwind-mangle) | 0.1.0 | 64 |  |
-| 2026-09-27 12:52:35 | [dw24/gsign](https://jsr.io/dw24/gsign) | 0.1.0 | 76 |  |
+| 2026-09-27 15:38:51 | [denorid/openapi](https://jsr.io/denorid/openapi) |  |  |  |
 
 ## Data source
 
