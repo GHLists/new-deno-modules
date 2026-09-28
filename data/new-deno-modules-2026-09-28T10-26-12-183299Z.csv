@@ -1,0 +1,5 @@
+created_at,package,version,score,description
+2026-09-28T09:21:36.104181Z,hyapi/plugin-rate-limit,,,
+2026-09-28T09:24:04.867124Z,hyapi/plugin-cors,,,
+2026-09-28T09:24:18.27136Z,hyapi/plugin-csrf,,,
+2026-09-28T09:24:26.104521Z,hyapi/plugin-oidc,,,

@@ -13,18 +13,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 09:19 UTC
+## Latest list — 2026-09-28 10:26 UTC
 
-New modules created between 2026-09-28 08:19 UTC and 2026-09-28 09:19 UTC.
+New modules created between 2026-09-28 09:19 UTC and 2026-09-28 10:26 UTC.
 
-[Full CSV](data/new-deno-modules-2026-09-28T09-19-27-049552Z.csv)
+[Full CSV](data/new-deno-modules-2026-09-28T10-26-12-183299Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-09-28 08:36:20 | [hono/deno](https://jsr.io/hono/deno) | 1.0.2 | 76 |  |
-| 2026-09-28 08:36:55 | [hono/netlify](https://jsr.io/hono/netlify) | 1.0.1 | 76 |  |
-| 2026-09-28 09:15:36 | [hyapi/core](https://jsr.io/hyapi/core) |  |  |  |
-| 2026-09-28 09:18:59 | [hyapi/cli](https://jsr.io/hyapi/cli) |  |  |  |
+| 2026-09-28 09:21:36 | [hyapi/plugin-rate-limit](https://jsr.io/hyapi/plugin-rate-limit) |  |  |  |
+| 2026-09-28 09:24:04 | [hyapi/plugin-cors](https://jsr.io/hyapi/plugin-cors) |  |  |  |
+| 2026-09-28 09:24:18 | [hyapi/plugin-csrf](https://jsr.io/hyapi/plugin-csrf) |  |  |  |
+| 2026-09-28 09:24:26 | [hyapi/plugin-oidc](https://jsr.io/hyapi/plugin-oidc) |  |  |  |
 
 ## Data source
 
