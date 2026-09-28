@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 18:22 UTC
+## Latest list — 2026-09-28 23:20 UTC
 
-New modules created between 2026-09-28 17:21 UTC and 2026-09-28 18:22 UTC.
+New modules created between 2026-09-28 22:22 UTC and 2026-09-28 23:20 UTC.
 
-[Full CSV](data/new-deno-modules-2026-09-28T18-22-16-152869Z.csv)
+[Full CSV](data/new-deno-modules-2026-09-28T23-20-42-572164Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-09-28 17:24:32 | [nodef/extra-iterable](https://jsr.io/nodef/extra-iterable) |  |  | An iterable is a sequence of values. |
+| 2026-09-28 22:58:54 | [bonakodo/svelte-check](https://jsr.io/bonakodo/svelte-check) | 0.1.0 | 70 |  |
 
 ## Data source
 
