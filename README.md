@@ -13,15 +13,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 00:21 UTC
+## Latest list — 2026-09-28 02:19 UTC
 
-New modules created between 2026-09-27 23:22 UTC and 2026-09-28 00:21 UTC.
+New modules created between 2026-09-28 01:21 UTC and 2026-09-28 02:19 UTC.
 
-[Full CSV](data/new-deno-modules-2026-09-28T00-21-52-012315Z.csv)
+[Full CSV](data/new-deno-modules-2026-09-28T02-19-23-046488Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-09-27 23:49:41 | [mary/dromi](https://jsr.io/mary/dromi) | 0.1.0 | 100 | write Deno web servers with Vite |
+| 2026-09-28 01:42:48 | [synergy-js/infusion](https://jsr.io/synergy-js/infusion) |  |  |  |
+| 2026-09-28 01:45:36 | [synergy-js/router](https://jsr.io/synergy-js/router) |  |  |  |
+| 2026-09-28 02:01:08 | [synergy-js/composites](https://jsr.io/synergy-js/composites) |  |  |  |
 
 ## Data source
 
