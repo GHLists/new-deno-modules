@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 14:20 UTC
+## Latest list — 2026-09-28 15:19 UTC
 
-New modules created between 2026-09-28 13:22 UTC and 2026-09-28 14:20 UTC.
+New modules created between 2026-09-28 14:20 UTC and 2026-09-28 15:19 UTC.
 
-[Full CSV](data/new-deno-modules-2026-09-28T14-20-24-226313Z.csv)
+[Full CSV](data/new-deno-modules-2026-09-28T15-19-13-784804Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-09-28 13:38:26 | [stdext/xml](https://jsr.io/stdext/xml) | 0.1.0 | 58 |  |
+| 2026-09-28 14:23:44 | [monivero/sdk](https://jsr.io/monivero/sdk) |  |  | Monivero client SDK: the server client (sessions, results) and the session-toke… |
 
 ## Data source
 
