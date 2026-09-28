@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 17:21 UTC
+## Latest list — 2026-09-28 18:22 UTC
 
-New modules created between 2026-09-28 16:19 UTC and 2026-09-28 17:21 UTC.
+New modules created between 2026-09-28 17:21 UTC and 2026-09-28 18:22 UTC.
 
-[Full CSV](data/new-deno-modules-2026-09-28T17-21-34-812038Z.csv)
+[Full CSV](data/new-deno-modules-2026-09-28T18-22-16-152869Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-09-28 17:16:31 | [r0dn3ys/mcsr-api](https://jsr.io/r0dn3ys/mcsr-api) |  |  |  |
+| 2026-09-28 17:24:32 | [nodef/extra-iterable](https://jsr.io/nodef/extra-iterable) |  |  | An iterable is a sequence of values. |
 
 ## Data source
 
