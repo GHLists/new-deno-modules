@@ -1,0 +1,2 @@
+created_at,package,version,score,description
+2026-09-28T03:30:41.007284Z,ghostry/fabricator-census,0.0.1,100,"Take a census of real data and get @ghostry/fabricator schema suggestions — distributions, presence weights, string lengths and compositions, enums — with PostgreSQL sampling and aggregate helpers."

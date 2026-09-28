@@ -13,17 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 02:19 UTC
+## Latest list — 2026-09-28 04:21 UTC
 
-New modules created between 2026-09-28 01:21 UTC and 2026-09-28 02:19 UTC.
+New modules created between 2026-09-28 03:20 UTC and 2026-09-28 04:21 UTC.
 
-[Full CSV](data/new-deno-modules-2026-09-28T02-19-23-046488Z.csv)
+[Full CSV](data/new-deno-modules-2026-09-28T04-21-37-923657Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-09-28 01:42:48 | [synergy-js/infusion](https://jsr.io/synergy-js/infusion) |  |  |  |
-| 2026-09-28 01:45:36 | [synergy-js/router](https://jsr.io/synergy-js/router) |  |  |  |
-| 2026-09-28 02:01:08 | [synergy-js/composites](https://jsr.io/synergy-js/composites) |  |  |  |
+| 2026-09-28 03:30:41 | [ghostry/fabricator-census](https://jsr.io/ghostry/fabricator-census) | 0.0.1 | 100 | Take a census of real data and get @ghostry/fabricator schema suggestions — dis… |
 
 ## Data source
 
