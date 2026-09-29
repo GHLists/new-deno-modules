@@ -1,0 +1,2 @@
+created_at,package,version,score,description
+2026-09-29T21:47:39.341258Z,oddsquad/vite-plugin-lit,0.7.0,88,"Vite plugin providing true HMR for Lit components, plus CSS helpers and a DevTools panel"
