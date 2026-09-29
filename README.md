@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 22:18 UTC
+## Latest list — 2026-09-29 23:20 UTC
 
-New modules created between 2026-09-29 21:22 UTC and 2026-09-29 22:18 UTC.
+New modules created between 2026-09-29 22:18 UTC and 2026-09-29 23:20 UTC.
 
-[Full CSV](data/new-deno-modules-2026-09-29T22-18-45-299585Z.csv)
+[Full CSV](data/new-deno-modules-2026-09-29T23-20-58-809468Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-09-29 21:47:39 | [oddsquad/vite-plugin-lit](https://jsr.io/oddsquad/vite-plugin-lit) | 0.7.0 | 88 | Vite plugin providing true HMR for Lit components, plus CSS helpers and a DevTo… |
+| 2026-09-29 22:55:49 | [markdown-for-agents/sveltekit](https://jsr.io/markdown-for-agents/sveltekit) |  |  |  |
 
 ## Data source
 
