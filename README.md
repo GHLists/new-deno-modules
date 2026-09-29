@@ -13,16 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 08:26 UTC
+## Latest list — 2026-09-29 11:20 UTC
 
-New modules created between 2026-09-29 07:21 UTC and 2026-09-29 08:26 UTC.
+New modules created between 2026-09-29 10:19 UTC and 2026-09-29 11:20 UTC.
 
-[Full CSV](data/new-deno-modules-2026-09-29T08-26-35-442656Z.csv)
+[Full CSV](data/new-deno-modules-2026-09-29T11-20-40-297744Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-09-29 08:17:05 | [qingshaner/utility-orpc](https://jsr.io/qingshaner/utility-orpc) |  |  |  |
-| 2026-09-29 08:21:19 | [nodef/extra-map](https://jsr.io/nodef/extra-map) | 3.3.0 | 100 | A group of functions for working with Maps. |
+| 2026-09-29 10:36:54 | [nodef/extra-set](https://jsr.io/nodef/extra-set) | 3.3.0 | 100 | A pack of functions for working with Sets. |
 
 ## Data source
 
