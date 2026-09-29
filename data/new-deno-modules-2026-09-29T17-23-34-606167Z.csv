@@ -1,0 +1,5 @@
+created_at,package,version,score,description
+2026-09-29T16:40:22.477078Z,nodef/extra-lists,4.2.0,100,A collection of functions for operating upon Lists.
+2026-09-29T17:03:46.013604Z,wxn0brp/db,0.120.2,76,"A modular, embedded database for developers who want control over their data storage."
+2026-09-29T17:05:38.965792Z,nodef/extra-wordnet,,,WordNet is a lexical database of semantic relations between words.
+2026-09-29T17:13:06.802979Z,gamerelay/sdk,,,

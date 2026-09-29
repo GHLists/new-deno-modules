@@ -13,15 +13,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 14:22 UTC
+## Latest list — 2026-09-29 17:23 UTC
 
-New modules created between 2026-09-29 13:21 UTC and 2026-09-29 14:22 UTC.
+New modules created between 2026-09-29 16:20 UTC and 2026-09-29 17:23 UTC.
 
-[Full CSV](data/new-deno-modules-2026-09-29T14-22-54-256258Z.csv)
+[Full CSV](data/new-deno-modules-2026-09-29T17-23-34-606167Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-09-29 13:52:57 | [siol-data/linkml-connector](https://jsr.io/siol-data/linkml-connector) | 2.0.1 | 58 |  |
+| 2026-09-29 16:40:22 | [nodef/extra-lists](https://jsr.io/nodef/extra-lists) | 4.2.0 | 100 | A collection of functions for operating upon Lists. |
+| 2026-09-29 17:03:46 | [wxn0brp/db](https://jsr.io/wxn0brp/db) | 0.120.2 | 76 | A modular, embedded database for developers who want control over their data st… |
+| 2026-09-29 17:05:38 | [nodef/extra-wordnet](https://jsr.io/nodef/extra-wordnet) |  |  | WordNet is a lexical database of semantic relations between words. |
+| 2026-09-29 17:13:06 | [gamerelay/sdk](https://jsr.io/gamerelay/sdk) |  |  |  |
 
 ## Data source
 
