@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 11:20 UTC
+## Latest list — 2026-09-29 14:22 UTC
 
-New modules created between 2026-09-29 10:19 UTC and 2026-09-29 11:20 UTC.
+New modules created between 2026-09-29 13:21 UTC and 2026-09-29 14:22 UTC.
 
-[Full CSV](data/new-deno-modules-2026-09-29T11-20-40-297744Z.csv)
+[Full CSV](data/new-deno-modules-2026-09-29T14-22-54-256258Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-09-29 10:36:54 | [nodef/extra-set](https://jsr.io/nodef/extra-set) | 3.3.0 | 100 | A pack of functions for working with Sets. |
+| 2026-09-29 13:52:57 | [siol-data/linkml-connector](https://jsr.io/siol-data/linkml-connector) | 2.0.1 | 58 |  |
 
 ## Data source
 
