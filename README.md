@@ -13,17 +13,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 06:20 UTC
+## Latest list — 2026-09-29 08:26 UTC
 
-New modules created between 2026-09-29 05:20 UTC and 2026-09-29 06:20 UTC.
+New modules created between 2026-09-29 07:21 UTC and 2026-09-29 08:26 UTC.
 
-[Full CSV](data/new-deno-modules-2026-09-29T06-20-25-953304Z.csv)
+[Full CSV](data/new-deno-modules-2026-09-29T08-26-35-442656Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-09-29 05:29:52 | [manojgowdain/ssdiskdb](https://jsr.io/manojgowdain/ssdiskdb) |  |  |  |
-| 2026-09-29 05:38:22 | [sabilmurti/amneshia](https://jsr.io/sabilmurti/amneshia) | 3.0.2 | 100 | Deterministic, Git-Native Knowledge Graph & Truth Maintenance Engine for AI Age… |
-| 2026-09-29 06:00:56 | [nodef/extra-array-view](https://jsr.io/nodef/extra-array-view) | 1.2.0 | 100 | An array view is a proxy to an underlying array. |
+| 2026-09-29 08:17:05 | [qingshaner/utility-orpc](https://jsr.io/qingshaner/utility-orpc) |  |  |  |
+| 2026-09-29 08:21:19 | [nodef/extra-map](https://jsr.io/nodef/extra-map) | 3.3.0 | 100 | A group of functions for working with Maps. |
 
 ## Data source
 
