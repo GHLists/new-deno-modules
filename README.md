@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 02:21 UTC
+## Latest list — 2026-09-30 04:21 UTC
 
-New modules created between 2026-09-30 01:19 UTC and 2026-09-30 02:21 UTC.
+New modules created between 2026-09-30 03:22 UTC and 2026-09-30 04:21 UTC.
 
-[Full CSV](data/new-deno-modules-2026-09-30T02-21-47-526163Z.csv)
+[Full CSV](data/new-deno-modules-2026-09-30T04-21-02-585162Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-09-30 01:30:38 | [taraxvoid/voidflow](https://jsr.io/taraxvoid/voidflow) | 0.7.0 | 100 | Re-usable GitHub workflows for Astro builds / deploys with lint, build, deploys… |
+| 2026-09-30 03:49:39 | [kinngyo/skia-canvas](https://jsr.io/kinngyo/skia-canvas) |  |  |  |
 
 ## Data source
 
