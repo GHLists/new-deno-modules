@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 17:23 UTC
+## Latest list — 2026-09-30 21:20 UTC
 
-New modules created between 2026-09-30 16:23 UTC and 2026-09-30 17:23 UTC.
+New modules created between 2026-09-30 20:22 UTC and 2026-09-30 21:20 UTC.
 
-[Full CSV](data/new-deno-modules-2026-09-30T17-23-04-678023Z.csv)
+[Full CSV](data/new-deno-modules-2026-09-30T21-20-35-444267Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-09-30 17:12:04 | [yaks/fp](https://jsr.io/yaks/fp) |  |  |  |
+| 2026-09-30 20:22:35 | [compootor/stooart](https://jsr.io/compootor/stooart) |  |  | Yet another rootour for Stoopid tokens |
 
 ## Data source
 
