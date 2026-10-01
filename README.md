@@ -13,18 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 17:20 UTC
+## Latest list — 2026-10-01 18:21 UTC
 
-New modules created between 2026-10-01 16:21 UTC and 2026-10-01 17:20 UTC.
+New modules created between 2026-10-01 17:20 UTC and 2026-10-01 18:21 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-01T17-20-51-488036Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-01T18-21-52-200555Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-01 16:27:34 | [mrprolopstar/prodcalendar](https://jsr.io/mrprolopstar/prodcalendar) | 0.1.2 | 88 |  |
-| 2026-10-01 16:30:18 | [timmo001/effect-ha](https://jsr.io/timmo001/effect-ha) | 0.1.0 | 52 |  |
-| 2026-10-01 16:30:57 | [timmo001/effect-ha-bridge](https://jsr.io/timmo001/effect-ha-bridge) | 0.1.0 | 52 |  |
-| 2026-10-01 17:18:32 | [hooksmith/html](https://jsr.io/hooksmith/html) |  |  | HTML parsing and metadata extraction utilities for Hooksmith |
+| 2026-10-01 18:01:32 | [lzear/repo-lint](https://jsr.io/lzear/repo-lint) | 4.5.0 | 64 |  |
 
 ## Data source
 
