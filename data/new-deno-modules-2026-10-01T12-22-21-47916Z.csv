@@ -1,0 +1,2 @@
+created_at,package,version,score,description
+2026-10-01T11:41:55.20361Z,keynub/licdongle,1.1.1,94,"Client for the KeyNub USB license dongle: genuineness check, license records, hardware counters and dongle-bound encryption, through Deno.dlopen over the SDK's flat C API."
