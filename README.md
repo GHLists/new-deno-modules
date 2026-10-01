@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 12:22 UTC
+## Latest list — 2026-10-01 14:19 UTC
 
-New modules created between 2026-10-01 11:19 UTC and 2026-10-01 12:22 UTC.
+New modules created between 2026-10-01 13:21 UTC and 2026-10-01 14:19 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-01T12-22-21-47916Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-01T14-19-30-003942Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-01 11:41:55 | [keynub/licdongle](https://jsr.io/keynub/licdongle) | 1.1.1 | 94 | Client for the KeyNub USB license dongle: genuineness check, license records, h… |
+| 2026-10-01 13:44:22 | [bearmetal/anodized](https://jsr.io/bearmetal/anodized) |  |  |  |
 
 ## Data source
 
