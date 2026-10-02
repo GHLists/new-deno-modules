@@ -1,0 +1,3 @@
+created_at,package,version,score,description
+2026-10-02T12:01:25.32954Z,zuke/argo-rollouts,,,"Typed Argo Rollouts (kubectl argo rollouts) task wrappers for Zuke builds — set image, promote, abort, status and more via an injection-free settings-lambda API."
+2026-10-02T12:02:11.154294Z,zuke/canary,,,"Canary releases for Zuke builds — stage a candidate, raise its exposure step by step, bake and analyze each step, then promote it or roll it back through one rollback, on any platform through a small adapter."

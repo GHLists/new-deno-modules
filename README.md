@@ -13,15 +13,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 07:21 UTC
+## Latest list — 2026-10-02 12:20 UTC
 
-New modules created between 2026-10-02 06:20 UTC and 2026-10-02 07:21 UTC.
+New modules created between 2026-10-02 11:22 UTC and 2026-10-02 12:20 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-02T07-21-13-451577Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-02T12-20-19-689509Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-02 06:23:04 | [ltgc/midi-parser-ecosystem](https://jsr.io/ltgc/midi-parser-ecosystem) | 0.0.1 | 82 | 💪 Robust compatibility layers for existing MIDI parsers/converters, powered by… |
+| 2026-10-02 12:01:25 | [zuke/argo-rollouts](https://jsr.io/zuke/argo-rollouts) |  |  | Typed Argo Rollouts (kubectl argo rollouts) task wrappers for Zuke builds — set… |
+| 2026-10-02 12:02:11 | [zuke/canary](https://jsr.io/zuke/canary) |  |  | Canary releases for Zuke builds — stage a candidate, raise its exposure step by… |
 
 ## Data source
 
