@@ -13,16 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 14:22 UTC
+## Latest list — 2026-10-02 19:22 UTC
 
-New modules created between 2026-10-02 13:18 UTC and 2026-10-02 14:22 UTC.
+New modules created between 2026-10-02 18:18 UTC and 2026-10-02 19:22 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-02T14-22-25-14339Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-02T19-22-36-296421Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-02 13:21:21 | [bxnes/format](https://jsr.io/bxnes/format) |  |  |  |
-| 2026-10-02 13:27:45 | [kuboon/bgm](https://jsr.io/kuboon/bgm) | 0.1.0 | 94 | Game background music on the Web Audio API, with no dependencies. |
+| 2026-10-02 18:46:33 | [pinta365/discord](https://jsr.io/pinta365/discord) | 0.1.0 | 100 | A small, modern Discord library for Deno. |
 
 ## Data source
 
