@@ -13,16 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 12:20 UTC
+## Latest list — 2026-10-02 13:18 UTC
 
-New modules created between 2026-10-02 11:22 UTC and 2026-10-02 12:20 UTC.
+New modules created between 2026-10-02 12:20 UTC and 2026-10-02 13:18 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-02T12-20-19-689509Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-02T13-18-53-80797Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-02 12:01:25 | [zuke/argo-rollouts](https://jsr.io/zuke/argo-rollouts) |  |  | Typed Argo Rollouts (kubectl argo rollouts) task wrappers for Zuke builds — set… |
-| 2026-10-02 12:02:11 | [zuke/canary](https://jsr.io/zuke/canary) |  |  | Canary releases for Zuke builds — stage a candidate, raise its exposure step by… |
+| 2026-10-02 13:01:29 | [liuxspro/tianditu](https://jsr.io/liuxspro/tianditu) | 0.1.0 | 64 |  |
 
 ## Data source
 
