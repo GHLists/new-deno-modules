@@ -1,0 +1,5 @@
+created_at,package,version,score,description
+2026-10-02T21:27:48.543412Z,tundraconnect/telegram,0.1.1,100,Typed Telegram Bot API client: send messages and fetch the bot's own identity.
+2026-10-02T21:27:53.99456Z,tundraconnect/resend,0.1.0,100,"Typed Resend client: send single and batch transactional email with idempotency keys, retrieve delivery status, reschedule or cancel scheduled email, and verify Svix-signed webhooks."
+2026-10-02T21:28:00.811745Z,tundraconnect/google-web-risk,0.1.0,100,"Typed Google Web Risk client: check a URL against Google's malware, phishing and unwanted-software lists with the Lookup API's uris:search, under a hard per-call deadline."
+2026-10-02T21:28:09.131373Z,tundraconnect/urlhaus,0.1.0,100,"Typed URLhaus (abuse.ch) client: look up URLs, hosts and payloads in the malware-URL database, with not-listed results instead of errors and a hard per-call deadline."
