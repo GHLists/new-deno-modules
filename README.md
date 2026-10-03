@@ -13,16 +13,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 10:18 UTC
+## Latest list — 2026-10-03 12:21 UTC
 
-New modules created between 2026-10-03 09:19 UTC and 2026-10-03 10:18 UTC.
+New modules created between 2026-10-03 11:19 UTC and 2026-10-03 12:21 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-03T10-18-54-588383Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-03T12-21-41-73474Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-03 09:27:49 | [oh/core](https://jsr.io/oh/core) | 0.1.0 | 52 |  |
-| 2026-10-03 09:58:07 | [verihook/verihook](https://jsr.io/verihook/verihook) | 1.15.0 | 58 |  |
+| 2026-10-03 12:10:51 | [von/evrima-rcon](https://jsr.io/von/evrima-rcon) |  |  |  |
+| 2026-10-03 12:16:39 | [remix-kbn/data-table-d1](https://jsr.io/remix-kbn/data-table-d1) | 0.1.0 | 82 |  |
 
 ## Data source
 
