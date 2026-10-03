@@ -13,18 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 22:20 UTC
+## Latest list — 2026-10-03 01:19 UTC
 
-New modules created between 2026-10-02 21:22 UTC and 2026-10-02 22:20 UTC.
+New modules created between 2026-10-03 00:18 UTC and 2026-10-03 01:19 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-02T22-20-13-838616Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-03T01-19-31-126962Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-02 21:27:48 | [tundraconnect/telegram](https://jsr.io/tundraconnect/telegram) | 0.1.1 | 100 | Typed Telegram Bot API client: send messages and fetch the bot's own identity. |
-| 2026-10-02 21:27:53 | [tundraconnect/resend](https://jsr.io/tundraconnect/resend) | 0.1.0 | 100 | Typed Resend client: send single and batch transactional email with idempotency… |
-| 2026-10-02 21:28:00 | [tundraconnect/google-web-risk](https://jsr.io/tundraconnect/google-web-risk) | 0.1.0 | 100 | Typed Google Web Risk client: check a URL against Google's malware, phishing an… |
-| 2026-10-02 21:28:09 | [tundraconnect/urlhaus](https://jsr.io/tundraconnect/urlhaus) | 0.1.0 | 100 | Typed URLhaus (abuse.ch) client: look up URLs, hosts and payloads in the malwar… |
+| 2026-10-03 01:07:07 | [banksia/okf](https://jsr.io/banksia/okf) |  |  |  |
 
 ## Data source
 
