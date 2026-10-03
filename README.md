@@ -13,16 +13,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 12:21 UTC
+## Latest list — 2026-10-03 14:23 UTC
 
-New modules created between 2026-10-03 11:19 UTC and 2026-10-03 12:21 UTC.
+New modules created between 2026-10-03 13:19 UTC and 2026-10-03 14:23 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-03T12-21-41-73474Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-03T14-23-32-898145Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-03 12:10:51 | [von/evrima-rcon](https://jsr.io/von/evrima-rcon) |  |  |  |
-| 2026-10-03 12:16:39 | [remix-kbn/data-table-d1](https://jsr.io/remix-kbn/data-table-d1) | 0.1.0 | 82 |  |
+| 2026-10-03 13:20:27 | [yaks/lens](https://jsr.io/yaks/lens) |  |  |  |
+| 2026-10-03 13:33:58 | [skmtc/gen-effect-schema](https://jsr.io/skmtc/gen-effect-schema) | 0.1.0 | 29 |  |
+| 2026-10-03 13:34:37 | [skmtc/gen-effect-http](https://jsr.io/skmtc/gen-effect-http) | 0.1.0 | 41 |  |
 
 ## Data source
 
