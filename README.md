@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 01:19 UTC
+## Latest list — 2026-10-03 08:22 UTC
 
-New modules created between 2026-10-03 00:18 UTC and 2026-10-03 01:19 UTC.
+New modules created between 2026-10-03 07:21 UTC and 2026-10-03 08:22 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-03T01-19-31-126962Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-03T08-22-04-914075Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-03 01:07:07 | [banksia/okf](https://jsr.io/banksia/okf) |  |  |  |
+| 2026-10-03 07:26:14 | [setu-ts/diagnostics-plugin](https://jsr.io/setu-ts/diagnostics-plugin) |  |  |  |
 
 ## Data source
 
