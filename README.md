@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 15:19 UTC
+## Latest list — 2026-10-03 21:19 UTC
 
-New modules created between 2026-10-03 14:23 UTC and 2026-10-03 15:19 UTC.
+New modules created between 2026-10-03 20:21 UTC and 2026-10-03 21:19 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-03T15-19-53-90211Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-03T21-19-34-346574Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-03 14:27:31 | [devtorusorg/ezrez](https://jsr.io/devtorusorg/ezrez) |  |  |  |
+| 2026-10-03 20:37:55 | [sabryio/orpc-tauri](https://jsr.io/sabryio/orpc-tauri) | 0.1.0 | 41 |  |
 
 ## Data source
 
