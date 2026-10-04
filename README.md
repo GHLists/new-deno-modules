@@ -13,15 +13,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 21:19 UTC
+## Latest list — 2026-10-04 08:20 UTC
 
-New modules created between 2026-10-03 20:21 UTC and 2026-10-03 21:19 UTC.
+New modules created between 2026-10-04 07:19 UTC and 2026-10-04 08:20 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-03T21-19-34-346574Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-04T08-20-15-934484Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-03 20:37:55 | [sabryio/orpc-tauri](https://jsr.io/sabryio/orpc-tauri) | 0.1.0 | 41 |  |
+| 2026-10-04 07:29:14 | [stdext/event](https://jsr.io/stdext/event) |  |  | The event package contains extensions for events, such as CustomEventTarget |
+| 2026-10-04 07:29:21 | [stdext/fs](https://jsr.io/stdext/fs) |  |  | Provides fs utilities and helpers, such as file cache |
+| 2026-10-04 07:29:24 | [stdext/ffi](https://jsr.io/stdext/ffi) |  |  | Contains utilities for interacting with FFI, such as dlopen with remote file ca… |
+| 2026-10-04 08:09:54 | [hobproj/hosting](https://jsr.io/hobproj/hosting) | 0.1.0 | 82 |  |
 
 ## Data source
 

@@ -1,0 +1,5 @@
+created_at,package,version,score,description
+2026-10-04T07:29:14.789431Z,stdext/event,,,"The event package contains extensions for events, such as CustomEventTarget"
+2026-10-04T07:29:21.919442Z,stdext/fs,,,"Provides fs utilities and helpers, such as file cache"
+2026-10-04T07:29:24.381561Z,stdext/ffi,,,"Contains utilities for interacting with FFI, such as dlopen with remote file caching"
+2026-10-04T08:09:54.738215Z,hobproj/hosting,0.1.0,82,
