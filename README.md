@@ -13,15 +13,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 13:19 UTC
+## Latest list — 2026-10-04 16:22 UTC
 
-New modules created between 2026-10-04 12:22 UTC and 2026-10-04 13:19 UTC.
+New modules created between 2026-10-04 15:21 UTC and 2026-10-04 16:22 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-04T13-19-57-728696Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-04T16-22-04-070363Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-04 12:26:50 | [azulamb/weapn](https://jsr.io/azulamb/weapn) | 0.3.0 | 70 |  |
+| 2026-10-04 15:21:29 | [wormblossom/macromania-webtt](https://jsr.io/wormblossom/macromania-webtt) | 0.1.0 | 58 |  |
+| 2026-10-04 15:44:56 | [viviengraffin/translation-vue](https://jsr.io/viviengraffin/translation-vue) | 2.0.1 | 52 |  |
+| 2026-10-04 15:45:09 | [dssutg/dss-ui-kit](https://jsr.io/dssutg/dss-ui-kit) |  |  |  |
 
 ## Data source
 
