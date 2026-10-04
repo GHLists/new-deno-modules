@@ -1,0 +1,5 @@
+created_at,package,version,score,description
+2026-10-04T17:28:58.453807Z,tundraconnect/cloudflare-dns,0.1.0,100,"Typed Cloudflare DNS client: list, create, update and delete DNS records, apply atomic batch edits, export a zone as BIND, and find zones by name."
+2026-10-04T17:28:59.930549Z,tundraconnect/cloudflare-saas,0.1.0,100,"Typed Cloudflare for SaaS client: add and manage customer custom hostnames, track their ownership and certificate validation, and manage the fallback origin and quota."
+2026-10-04T17:29:47.191143Z,tundraconnect/google-analytics,0.1.0,100,"Typed GA4 Measurement Protocol client: send server-side events and validate them against Google's debug endpoint, with GA4's limits checked before sending."
+2026-10-04T17:29:48.583709Z,tundraconnect/cloudflare-turnstile,0.1.0,100,"Typed Cloudflare Turnstile client: verify widget tokens server-side, check the hostname and action, and get failed challenges as results rather than errors."
