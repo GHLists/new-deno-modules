@@ -13,19 +13,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 07:22 UTC
+## Latest list — 2026-10-05 08:22 UTC
 
-New modules created between 2026-10-05 06:20 UTC and 2026-10-05 07:22 UTC.
+New modules created between 2026-10-05 07:22 UTC and 2026-10-05 08:22 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-05T07-22-38-154951Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-05T08-22-07-490269Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-05 07:04:39 | [dui/util](https://jsr.io/dui/util) | 0.7.2 | 88 | AiCube2028 通用工具套件：加解密、JWT、ConfigStore、Logger、InnerAPI、gwFetch。 |
-| 2026-10-05 07:16:53 | [philc/lint-rules](https://jsr.io/philc/lint-rules) | 0.1.0 | 82 |  |
-| 2026-10-05 07:17:24 | [dui/translate-google](https://jsr.io/dui/translate-google) | 0.1.0 | 47 |  |
-| 2026-10-05 07:18:06 | [dui/mcp](https://jsr.io/dui/mcp) |  |  |  |
-| 2026-10-05 07:21:50 | [dui/storage](https://jsr.io/dui/storage) | 0.2.0 | 58 |  |
+| 2026-10-05 07:24:24 | [dui/framework](https://jsr.io/dui/framework) | 0.7.2 | 88 | Gateway 統一框架。createGateway()、loadRoutes()、API Console。 |
+| 2026-10-05 08:20:03 | [dui/pool](https://jsr.io/dui/pool) | 0.4.1 | 70 |  |
 
 ## Data source
 
