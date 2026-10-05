@@ -13,16 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 20:21 UTC
+## Latest list — 2026-10-05 23:21 UTC
 
-New modules created between 2026-10-05 19:22 UTC and 2026-10-05 20:21 UTC.
+New modules created between 2026-10-05 22:19 UTC and 2026-10-05 23:21 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-05T20-21-00-320686Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-05T23-21-24-86536Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-05 20:02:12 | [timmo001/effect-triage-client](https://jsr.io/timmo001/effect-triage-client) |  |  | Effect client for a triage server |
-| 2026-10-05 20:02:20 | [timmo001/effect-triage](https://jsr.io/timmo001/effect-triage) |  |  | Effect schemas and protocol for triage, which captures crashes and errors and d… |
+| 2026-10-05 23:12:31 | [arcmira/sdk](https://jsr.io/arcmira/sdk) |  |  |  |
 
 ## Data source
 
