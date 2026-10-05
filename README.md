@@ -13,16 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 08:22 UTC
+## Latest list — 2026-10-05 11:21 UTC
 
-New modules created between 2026-10-05 07:22 UTC and 2026-10-05 08:22 UTC.
+New modules created between 2026-10-05 10:20 UTC and 2026-10-05 11:21 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-05T08-22-07-490269Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-05T11-21-12-981198Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-05 07:24:24 | [dui/framework](https://jsr.io/dui/framework) | 0.7.2 | 88 | Gateway 統一框架。createGateway()、loadRoutes()、API Console。 |
-| 2026-10-05 08:20:03 | [dui/pool](https://jsr.io/dui/pool) | 0.4.1 | 70 |  |
+| 2026-10-05 11:15:17 | [jam/rsx](https://jsr.io/jam/rsx) |  |  |  |
 
 ## Data source
 
