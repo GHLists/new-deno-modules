@@ -1,0 +1,2 @@
+created_at,package,version,score,description
+2026-10-05T18:27:39.892601Z,typed-settings/typed-settings,0.1.3,100,"One-call typed config for TypeScript: env, .env, YAML/TOML/JSON, secrets dirs, and vault secrets validated by your schema into a frozen object."

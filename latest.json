@@ -4,11 +4,11 @@
     "path": "data/deno-modules-baseline.txt.lzma"
   },
   "list": {
-    "count": 4,
-    "from": "2026-10-05T17:22:26.562352Z",
-    "path": "data/new-deno-modules-2026-10-05T18-22-24-205415Z.csv",
-    "to": "2026-10-05T18:22:24.205415Z"
+    "count": 1,
+    "from": "2026-10-05T18:22:24.205415Z",
+    "path": "data/new-deno-modules-2026-10-05T19-22-24-778776Z.csv",
+    "to": "2026-10-05T19:22:24.778776Z"
   },
   "source_truncated": false,
-  "window": "2026-10-05T18:22:24.205415Z"
+  "window": "2026-10-05T19:22:24.778776Z"
 }
