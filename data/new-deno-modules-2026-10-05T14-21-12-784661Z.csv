@@ -1,0 +1,3 @@
+created_at,package,version,score,description
+2026-10-05T13:24:58.553011Z,atty303/tsugiori,0.1.0,82,
+2026-10-05T13:53:19.116114Z,betacalendars/calendar-boundary-engine,0.1.0,100,"Deterministic TypeScript calendar mathematics for civil dates, Gregorian and Julian conversion, ISO week-years, month grids, and calendar boundary diagnostics."
