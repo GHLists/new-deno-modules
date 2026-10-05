@@ -13,15 +13,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 19:22 UTC
+## Latest list — 2026-10-05 20:21 UTC
 
-New modules created between 2026-10-05 18:22 UTC and 2026-10-05 19:22 UTC.
+New modules created between 2026-10-05 19:22 UTC and 2026-10-05 20:21 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-05T19-22-24-778776Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-05T20-21-00-320686Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-05 18:27:39 | [typed-settings/typed-settings](https://jsr.io/typed-settings/typed-settings) | 0.1.3 | 100 | One-call typed config for TypeScript: env, .env, YAML/TOML/JSON, secrets dirs,… |
+| 2026-10-05 20:02:12 | [timmo001/effect-triage-client](https://jsr.io/timmo001/effect-triage-client) |  |  | Effect client for a triage server |
+| 2026-10-05 20:02:20 | [timmo001/effect-triage](https://jsr.io/timmo001/effect-triage) |  |  | Effect schemas and protocol for triage, which captures crashes and errors and d… |
 
 ## Data source
 
