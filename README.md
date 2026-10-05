@@ -13,16 +13,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 05:22 UTC
+## Latest list — 2026-10-05 07:22 UTC
 
-New modules created between 2026-10-05 04:21 UTC and 2026-10-05 05:22 UTC.
+New modules created between 2026-10-05 06:20 UTC and 2026-10-05 07:22 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-05T05-22-35-334044Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-05T07-22-38-154951Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-05 04:49:40 | [manojgowdain/toonkit2](https://jsr.io/manojgowdain/toonkit2) |  |  |  |
-| 2026-10-05 04:52:49 | [sys/html](https://jsr.io/sys/html) |  |  | HTML parsing primitives. |
+| 2026-10-05 07:04:39 | [dui/util](https://jsr.io/dui/util) | 0.7.2 | 88 | AiCube2028 通用工具套件：加解密、JWT、ConfigStore、Logger、InnerAPI、gwFetch。 |
+| 2026-10-05 07:16:53 | [philc/lint-rules](https://jsr.io/philc/lint-rules) | 0.1.0 | 82 |  |
+| 2026-10-05 07:17:24 | [dui/translate-google](https://jsr.io/dui/translate-google) | 0.1.0 | 47 |  |
+| 2026-10-05 07:18:06 | [dui/mcp](https://jsr.io/dui/mcp) |  |  |  |
+| 2026-10-05 07:21:50 | [dui/storage](https://jsr.io/dui/storage) | 0.2.0 | 58 |  |
 
 ## Data source
 
