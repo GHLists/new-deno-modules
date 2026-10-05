@@ -13,15 +13,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 15:21 UTC
+## Latest list — 2026-10-05 18:22 UTC
 
-New modules created between 2026-10-05 14:21 UTC and 2026-10-05 15:21 UTC.
+New modules created between 2026-10-05 17:22 UTC and 2026-10-05 18:22 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-05T15-21-24-861064Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-05T18-22-24-205415Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-05 15:19:38 | [huberst/elemen-ts](https://jsr.io/huberst/elemen-ts) |  |  |  |
+| 2026-10-05 17:23:41 | [kixx/devkit](https://jsr.io/kixx/devkit) | 0.1.0 | 70 | The developer tool-kit for Kixx applications |
+| 2026-10-05 18:11:01 | [fathym/sample-api-workbench](https://jsr.io/fathym/sample-api-workbench) |  |  |  |
+| 2026-10-05 18:12:20 | [fathym/sample-ui-workbench](https://jsr.io/fathym/sample-ui-workbench) |  |  |  |
+| 2026-10-05 18:12:59 | [fathym/sample-custom-mode-workbench](https://jsr.io/fathym/sample-custom-mode-workbench) |  |  |  |
 
 ## Data source
 
