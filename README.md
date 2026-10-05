@@ -13,16 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 14:21 UTC
+## Latest list — 2026-10-05 15:21 UTC
 
-New modules created between 2026-10-05 13:18 UTC and 2026-10-05 14:21 UTC.
+New modules created between 2026-10-05 14:21 UTC and 2026-10-05 15:21 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-05T14-21-12-784661Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-05T15-21-24-861064Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-05 13:24:58 | [atty303/tsugiori](https://jsr.io/atty303/tsugiori) | 0.1.0 | 82 |  |
-| 2026-10-05 13:53:19 | [betacalendars/calendar-boundary-engine](https://jsr.io/betacalendars/calendar-boundary-engine) | 0.1.0 | 100 | Deterministic TypeScript calendar mathematics for civil dates, Gregorian and Ju… |
+| 2026-10-05 15:19:38 | [huberst/elemen-ts](https://jsr.io/huberst/elemen-ts) |  |  |  |
 
 ## Data source
 
