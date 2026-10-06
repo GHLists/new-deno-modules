@@ -1,0 +1,9 @@
+created_at,package,version,score,description
+2026-10-06T10:18:12.101258Z,storyshelf/affected,,,Affected capture for StoryShelf: dependency-graph tracing that selects the stories impacted by a change.
+2026-10-06T10:18:17.209808Z,storyshelf/auth,,,"Better Auth engine for StoryShelf: opaque DBAdapter bridge, shelf factory, and auth presets."
+2026-10-06T10:18:21.333564Z,storyshelf/db-mysql,,,"MySQL/MariaDB database adapter for StoryShelf (mysql2 + Drizzle, PlanetScale/TiDB compatible)."
+2026-10-06T10:18:26.264774Z,storyshelf/notify-chat,,,Chat notification providers for StoryShelf (Slack and Teams incoming webhooks).
+2026-10-06T10:18:29.406126Z,storyshelf/notify-email,,,"Email notification transport for StoryShelf (SMTP, Mailpit, log, HTTP APIs)."
+2026-10-06T10:18:32.77685Z,storyshelf/observability,,,"StoryShelf observability: OpenTelemetry tracing, metrics, and log correlation over @storyshelf/core adapters."
+2026-10-06T10:18:35.570569Z,storyshelf/queue-azure,,,Azure capture queue adapter for StoryShelf: Storage Queues or Service Bus.
+2026-10-06T10:18:39.077615Z,storyshelf/queue-gcp,,,GCP capture queue adapter for StoryShelf: Cloud Pub/Sub.

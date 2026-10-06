@@ -13,15 +13,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 08:21 UTC
+## Latest list — 2026-10-06 10:19 UTC
 
-New modules created between 2026-10-06 07:19 UTC and 2026-10-06 08:21 UTC.
+New modules created between 2026-10-06 09:21 UTC and 2026-10-06 10:19 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-06T08-21-05-590052Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-06T10-19-54-347963Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-06 07:42:08 | [contsulia/weave](https://jsr.io/contsulia/weave) |  |  | A React UI framework built on semantic components, DOM and CSS. |
+| 2026-10-06 10:18:12 | [storyshelf/affected](https://jsr.io/storyshelf/affected) |  |  | Affected capture for StoryShelf: dependency-graph tracing that selects the stor… |
+| 2026-10-06 10:18:17 | [storyshelf/auth](https://jsr.io/storyshelf/auth) |  |  | Better Auth engine for StoryShelf: opaque DBAdapter bridge, shelf factory, and… |
+| 2026-10-06 10:18:21 | [storyshelf/db-mysql](https://jsr.io/storyshelf/db-mysql) |  |  | MySQL/MariaDB database adapter for StoryShelf (mysql2 + Drizzle, PlanetScale/Ti… |
+| 2026-10-06 10:18:26 | [storyshelf/notify-chat](https://jsr.io/storyshelf/notify-chat) |  |  | Chat notification providers for StoryShelf (Slack and Teams incoming webhooks). |
+| 2026-10-06 10:18:29 | [storyshelf/notify-email](https://jsr.io/storyshelf/notify-email) |  |  | Email notification transport for StoryShelf (SMTP, Mailpit, log, HTTP APIs). |
+| 2026-10-06 10:18:32 | [storyshelf/observability](https://jsr.io/storyshelf/observability) |  |  | StoryShelf observability: OpenTelemetry tracing, metrics, and log correlation o… |
+| 2026-10-06 10:18:35 | [storyshelf/queue-azure](https://jsr.io/storyshelf/queue-azure) |  |  | Azure capture queue adapter for StoryShelf: Storage Queues or Service Bus. |
+| 2026-10-06 10:18:39 | [storyshelf/queue-gcp](https://jsr.io/storyshelf/queue-gcp) |  |  | GCP capture queue adapter for StoryShelf: Cloud Pub/Sub. |
 
 ## Data source
 
