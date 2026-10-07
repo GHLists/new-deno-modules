@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 11:19 UTC
+## Latest list — 2026-10-07 12:23 UTC
 
-New modules created between 2026-10-07 10:20 UTC and 2026-10-07 11:19 UTC.
+New modules created between 2026-10-07 11:19 UTC and 2026-10-07 12:23 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-07T11-19-49-814006Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-07T12-23-10-288072Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-07 10:38:16 | [wildboar/sv](https://jsr.io/wildboar/sv) | 1.0.0 | 94 | IEC 61850 Sampled Values ASN.1 data structures |
+| 2026-10-07 12:14:39 | [ryanellis/banana-img](https://jsr.io/ryanellis/banana-img) | 0.1.0 | 64 |  |
 
 ## Data source
 
