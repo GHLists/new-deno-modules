@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 21:21 UTC
+## Latest list — 2026-10-07 00:20 UTC
 
-New modules created between 2026-10-06 20:21 UTC and 2026-10-06 21:21 UTC.
+New modules created between 2026-10-06 23:19 UTC and 2026-10-07 00:20 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-06T21-21-26-392836Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-07T00-20-14-647564Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-06 20:25:50 | [robotics/zenoh-deno](https://jsr.io/robotics/zenoh-deno) |  |  |  |
+| 2026-10-06 23:58:55 | [wildboar/gn](https://jsr.io/wildboar/gn) | 1.0.0 | 100 | X.509v3 GeneralName: printing, parsing, comparing, hashing, etc. |
 
 ## Data source
 
