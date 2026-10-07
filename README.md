@@ -13,16 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 09:20 UTC
+## Latest list — 2026-10-07 11:19 UTC
 
-New modules created between 2026-10-07 08:20 UTC and 2026-10-07 09:20 UTC.
+New modules created between 2026-10-07 10:20 UTC and 2026-10-07 11:19 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-07T09-20-38-261231Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-07T11-19-49-814006Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-07 08:40:31 | [zuke/aws](https://jsr.io/zuke/aws) |  |  | Typed AWS CLI wrapper for Zuke builds: every aws service command through one se… |
-| 2026-10-07 08:41:11 | [zuke/az](https://jsr.io/zuke/az) |  |  | Typed Azure CLI wrapper for Zuke builds: every az command group through one set… |
+| 2026-10-07 10:38:16 | [wildboar/sv](https://jsr.io/wildboar/sv) | 1.0.0 | 94 | IEC 61850 Sampled Values ASN.1 data structures |
 
 ## Data source
 
