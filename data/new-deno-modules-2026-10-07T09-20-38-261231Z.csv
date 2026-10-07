@@ -1,0 +1,3 @@
+created_at,package,version,score,description
+2026-10-07T08:40:31.932398Z,zuke/aws,,,"Typed AWS CLI wrapper for Zuke builds: every aws service command through one settings lambda, plus typed tasks for S3, ECR, ECS, Lambda, CloudFormation, STS and CloudWatch metrics, alarms and Logs Insights for canary gates."
+2026-10-07T08:41:11.968545Z,zuke/az,,,"Typed Azure CLI wrapper for Zuke builds: every az command group through one settings lambda, plus typed tasks for accounts, groups, ACR, AKS, Container Apps, Web Apps, Functions and Azure Monitor metrics and log queries."
