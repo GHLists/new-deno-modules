@@ -13,18 +13,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 14:22 UTC
+## Latest list — 2026-10-07 16:20 UTC
 
-New modules created between 2026-10-07 13:22 UTC and 2026-10-07 14:22 UTC.
+New modules created between 2026-10-07 14:22 UTC and 2026-10-07 16:20 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-07T14-22-36-034055Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-07T16-20-22-362698Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-07 13:38:42 | [wildboar/smrse](https://jsr.io/wildboar/smrse) |  |  |  |
-| 2026-10-07 13:42:57 | [wildboar/spnego](https://jsr.io/wildboar/spnego) | 1.0.0 | 100 | SPNEGO ASN.1 data structures and functions for encoding and decoding them. |
-| 2026-10-07 13:53:59 | [sewlore/sewing-math](https://jsr.io/sewlore/sewing-math) | 0.1.0 | 82 | Pure sewing measurement helpers: unit conversion, fabric stretch and recovery,… |
-| 2026-10-07 14:13:10 | [lavender/jsonv2](https://jsr.io/lavender/jsonv2) | 1.0.1 | 70 | lightweight JSON file library for config files,data etc.. |
+| 2026-10-07 15:01:09 | [sihamouda/suika](https://jsr.io/sihamouda/suika) |  |  |  |
+| 2026-10-07 15:02:50 | [sihamouda/suika-cli](https://jsr.io/sihamouda/suika-cli) |  |  |  |
+| 2026-10-07 15:28:43 | [xys20071111/crispasr-ffi](https://jsr.io/xys20071111/crispasr-ffi) | 0.1.0 | 47 |  |
 
 ## Data source
 
