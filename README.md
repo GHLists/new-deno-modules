@@ -13,17 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 16:20 UTC
+## Latest list — 2026-10-07 17:20 UTC
 
-New modules created between 2026-10-07 14:22 UTC and 2026-10-07 16:20 UTC.
+New modules created between 2026-10-07 16:20 UTC and 2026-10-07 17:20 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-07T16-20-22-362698Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-07T17-20-19-97024Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-07 15:01:09 | [sihamouda/suika](https://jsr.io/sihamouda/suika) |  |  |  |
-| 2026-10-07 15:02:50 | [sihamouda/suika-cli](https://jsr.io/sihamouda/suika-cli) |  |  |  |
-| 2026-10-07 15:28:43 | [xys20071111/crispasr-ffi](https://jsr.io/xys20071111/crispasr-ffi) | 0.1.0 | 47 |  |
+| 2026-10-07 17:19:40 | [imdevil/godgaming168](https://jsr.io/imdevil/godgaming168) | 1.0.0 | 52 |  |
 
 ## Data source
 
