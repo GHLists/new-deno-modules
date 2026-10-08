@@ -1,0 +1,2 @@
+created_at,package,version,score,description
+2026-10-08T03:52:16.15875Z,gigatypes/shared-es2018-asynciterable,0.1.2,100,"Part of gigatypes shared by its lib packages, which bring it along: TypeScript's es2018.asynciterable lib with no any in a value position."
