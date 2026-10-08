@@ -13,15 +13,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 04:19 UTC
+## Latest list — 2026-10-08 06:20 UTC
 
-New modules created between 2026-10-08 03:19 UTC and 2026-10-08 04:19 UTC.
+New modules created between 2026-10-08 05:18 UTC and 2026-10-08 06:20 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-08T04-19-36-360163Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-08T06-20-51-212552Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-08 03:52:16 | [gigatypes/shared-es2018-asynciterable](https://jsr.io/gigatypes/shared-es2018-asynciterable) | 0.1.2 | 100 | Part of gigatypes shared by its lib packages, which bring it along: TypeScript'… |
+| 2026-10-08 06:05:08 | [noflo/graph](https://jsr.io/noflo/graph) |  |  |  |
+| 2026-10-08 06:05:32 | [noflo/noflo](https://jsr.io/noflo/noflo) |  |  |  |
+| 2026-10-08 06:05:56 | [noflo/as-component](https://jsr.io/noflo/as-component) |  |  |  |
+| 2026-10-08 06:06:15 | [noflo/fbp](https://jsr.io/noflo/fbp) |  |  |  |
+| 2026-10-08 06:06:37 | [noflo/fbp-spec-runner](https://jsr.io/noflo/fbp-spec-runner) |  |  |  |
+| 2026-10-08 06:06:56 | [noflo/loader-node](https://jsr.io/noflo/loader-node) |  |  |  |
 
 ## Data source
 
