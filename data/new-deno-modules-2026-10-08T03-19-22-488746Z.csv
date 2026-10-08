@@ -1,0 +1,19 @@
+created_at,package,version,score,description
+2026-10-08T02:40:19.665217Z,gigatypes/decorators,0.1.1,100,TypeScript's decorators lib with no any in a value position: outside data arrives as unknown or JSONValue.
+2026-10-08T02:40:20.118793Z,gigatypes/dom,0.1.1,100,TypeScript's dom lib with no any in a value position: outside data arrives as unknown or JSONValue.
+2026-10-08T02:40:20.435181Z,gigatypes/es2015,0.1.1,100,TypeScript's es2015 lib with no any in a value position: outside data arrives as unknown or JSONValue.
+2026-10-08T02:40:20.886982Z,gigatypes/es2016,0.1.1,100,TypeScript's es2016 lib with no any in a value position: outside data arrives as unknown or JSONValue.
+2026-10-08T02:40:21.337519Z,gigatypes/es2017,0.1.1,100,TypeScript's es2017 lib with no any in a value position: outside data arrives as unknown or JSONValue.
+2026-10-08T02:40:21.639608Z,gigatypes/es2018,0.1.1,100,TypeScript's es2018 lib with no any in a value position: outside data arrives as unknown or JSONValue.
+2026-10-08T02:40:21.937512Z,gigatypes/es2019,0.1.1,100,TypeScript's es2019 lib with no any in a value position: outside data arrives as unknown or JSONValue.
+2026-10-08T02:40:22.244148Z,gigatypes/es2020,0.1.1,100,TypeScript's es2020 lib with no any in a value position: outside data arrives as unknown or JSONValue.
+2026-10-08T02:40:22.721879Z,gigatypes/es2021,0.1.1,100,TypeScript's es2021 lib with no any in a value position: outside data arrives as unknown or JSONValue.
+2026-10-08T02:40:23.150639Z,gigatypes/es2022,0.1.1,100,TypeScript's es2022 lib with no any in a value position: outside data arrives as unknown or JSONValue.
+2026-10-08T02:40:23.56347Z,gigatypes/es2023,0.1.1,100,TypeScript's es2023 lib with no any in a value position: outside data arrives as unknown or JSONValue.
+2026-10-08T02:40:23.866762Z,gigatypes/es2024,0.1.1,100,TypeScript's es2024 lib with no any in a value position: outside data arrives as unknown or JSONValue.
+2026-10-08T02:40:24.217637Z,gigatypes/es2025,0.1.1,100,TypeScript's es2025 lib with no any in a value position: outside data arrives as unknown or JSONValue.
+2026-10-08T02:40:24.537271Z,gigatypes/es5,0.1.1,100,TypeScript's es5 lib with no any in a value position: outside data arrives as unknown or JSONValue.
+2026-10-08T02:40:24.865461Z,gigatypes/es6,0.1.1,100,TypeScript's es6 lib with no any in a value position: outside data arrives as unknown or JSONValue.
+2026-10-08T02:40:25.138813Z,gigatypes/esnext,0.1.1,100,TypeScript's esnext lib with no any in a value position: outside data arrives as unknown or JSONValue.
+2026-10-08T02:40:25.475153Z,gigatypes/scripthost,0.1.1,100,TypeScript's scripthost lib with no any in a value position: outside data arrives as unknown or JSONValue.
+2026-10-08T02:40:25.77676Z,gigatypes/webworker,0.1.1,100,TypeScript's webworker lib with no any in a value position: outside data arrives as unknown or JSONValue.
