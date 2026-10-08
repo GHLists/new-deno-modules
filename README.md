@@ -13,15 +13,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 17:20 UTC
+## Latest list — 2026-10-08 20:22 UTC
 
-New modules created between 2026-10-08 16:21 UTC and 2026-10-08 17:20 UTC.
+New modules created between 2026-10-08 19:21 UTC and 2026-10-08 20:22 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-08T17-20-25-172831Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-08T20-22-13-332881Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-08 17:03:31 | [zift/cli](https://jsr.io/zift/cli) | 0.1.0 | 100 | A command-line tool and Model Context Protocol (MCP) server for Zift. Designed… |
+| 2026-10-08 19:27:52 | [kwker/kwker](https://jsr.io/kwker/kwker) | 0.1.0 | 29 |  |
+| 2026-10-08 19:40:57 | [fbritoferreira/strapi-provider-email-cloudflare](https://jsr.io/fbritoferreira/strapi-provider-email-cloudflare) | 1.0.0 | 76 |  |
 
 ## Data source
 
