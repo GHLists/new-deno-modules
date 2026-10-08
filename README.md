@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 15:21 UTC
+## Latest list — 2026-10-08 17:20 UTC
 
-New modules created between 2026-10-08 14:19 UTC and 2026-10-08 15:21 UTC.
+New modules created between 2026-10-08 16:21 UTC and 2026-10-08 17:20 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-08T15-21-45-473452Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-08T17-20-25-172831Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-08 14:49:57 | [ata/validator](https://jsr.io/ata/validator) | 1.47.0 | 100 | JSON Schema validator with an ahead-of-time compiler; the same engine as ata-va… |
+| 2026-10-08 17:03:31 | [zift/cli](https://jsr.io/zift/cli) | 0.1.0 | 100 | A command-line tool and Model Context Protocol (MCP) server for Zift. Designed… |
 
 ## Data source
 

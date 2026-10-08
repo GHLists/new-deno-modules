@@ -1,0 +1,2 @@
+created_at,package,version,score,description
+2026-10-08T17:03:31.613745Z,zift/cli,0.1.0,100,A command-line tool and Model Context Protocol (MCP) server for Zift. Designed for developers and autonomous AI agents: eliminates the need for manual curl requests with structured CLI commands and ready-to-use MCP tools.
