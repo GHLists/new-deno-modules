@@ -1,0 +1,2 @@
+created_at,package,version,score,description
+2026-10-08T14:49:57.472267Z,ata/validator,1.47.0,100,"JSON Schema validator with an ahead-of-time compiler; the same engine as ata-validator on npm, and an interpreted path where dynamic code is refused."

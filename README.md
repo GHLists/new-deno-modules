@@ -13,16 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 14:19 UTC
+## Latest list — 2026-10-08 15:21 UTC
 
-New modules created between 2026-10-08 13:22 UTC and 2026-10-08 14:19 UTC.
+New modules created between 2026-10-08 14:19 UTC and 2026-10-08 15:21 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-08T14-19-14-125798Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-08T15-21-45-473452Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-08 13:48:05 | [spy4x/caldav](https://jsr.io/spy4x/caldav) |  |  |  |
-| 2026-10-08 13:48:10 | [fifth/p2sr-ts](https://jsr.io/fifth/p2sr-ts) |  |  |  |
+| 2026-10-08 14:49:57 | [ata/validator](https://jsr.io/ata/validator) | 1.47.0 | 100 | JSON Schema validator with an ahead-of-time compiler; the same engine as ata-va… |
 
 ## Data source
 
