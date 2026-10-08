@@ -13,20 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 06:20 UTC
+## Latest list — 2026-10-08 12:19 UTC
 
-New modules created between 2026-10-08 05:18 UTC and 2026-10-08 06:20 UTC.
+New modules created between 2026-10-08 11:20 UTC and 2026-10-08 12:19 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-08T06-20-51-212552Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-08T12-19-19-528116Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-08 06:05:08 | [noflo/graph](https://jsr.io/noflo/graph) |  |  |  |
-| 2026-10-08 06:05:32 | [noflo/noflo](https://jsr.io/noflo/noflo) |  |  |  |
-| 2026-10-08 06:05:56 | [noflo/as-component](https://jsr.io/noflo/as-component) |  |  |  |
-| 2026-10-08 06:06:15 | [noflo/fbp](https://jsr.io/noflo/fbp) |  |  |  |
-| 2026-10-08 06:06:37 | [noflo/fbp-spec-runner](https://jsr.io/noflo/fbp-spec-runner) |  |  |  |
-| 2026-10-08 06:06:56 | [noflo/loader-node](https://jsr.io/noflo/loader-node) |  |  |  |
+| 2026-10-08 11:45:50 | [gyoza/webview](https://jsr.io/gyoza/webview) |  |  |  |
 
 ## Data source
 
