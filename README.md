@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 17:20 UTC
+## Latest list — 2026-10-08 02:18 UTC
 
-New modules created between 2026-10-07 16:20 UTC and 2026-10-07 17:20 UTC.
+New modules created between 2026-10-08 01:19 UTC and 2026-10-08 02:18 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-07T17-20-19-97024Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-08T02-18-58-312933Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-07 17:19:40 | [imdevil/godgaming168](https://jsr.io/imdevil/godgaming168) | 1.0.0 | 52 |  |
+| 2026-10-08 01:54:09 | [deno-lint/eslint-compat](https://jsr.io/deno-lint/eslint-compat) | 0.1.0 | 64 | ESLint compatibility utilities for Deno Lint |
 
 ## Data source
 
