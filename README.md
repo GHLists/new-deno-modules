@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 12:19 UTC
+## Latest list — 2026-10-08 13:22 UTC
 
-New modules created between 2026-10-08 11:20 UTC and 2026-10-08 12:19 UTC.
+New modules created between 2026-10-08 12:19 UTC and 2026-10-08 13:22 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-08T12-19-19-528116Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-08T13-22-07-028514Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-08 11:45:50 | [gyoza/webview](https://jsr.io/gyoza/webview) |  |  |  |
+| 2026-10-08 12:20:49 | [fbritoferreira/strapi-admin-api](https://jsr.io/fbritoferreira/strapi-admin-api) | 1.0.0 | 88 | Strapi 5 plugin that exposes full CRUD REST endpoints for admin users and admin… |
 
 ## Data source
 

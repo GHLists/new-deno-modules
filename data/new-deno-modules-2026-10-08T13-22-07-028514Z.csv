@@ -1,0 +1,2 @@
+created_at,package,version,score,description
+2026-10-08T12:20:49.502493Z,fbritoferreira/strapi-admin-api,1.0.0,88,"Strapi 5 plugin that exposes full CRUD REST endpoints for admin users and admin tokens — user management, password resets, and token lifecycle, all secured behind admin JWT and RBAC."
