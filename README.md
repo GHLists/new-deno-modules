@@ -13,15 +13,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 11:20 UTC
+## Latest list — 2026-10-09 19:21 UTC
 
-New modules created between 2026-10-09 10:19 UTC and 2026-10-09 11:20 UTC.
+New modules created between 2026-10-09 18:18 UTC and 2026-10-09 19:21 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-09T11-20-33-776929Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-09T19-21-07-191966Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-09 11:19:24 | [storyshelf/ai](https://jsr.io/storyshelf/ai) |  |  | StoryShelf AI insights engine on the Vercel AI SDK: build triage and project he… |
+| 2026-10-09 19:11:22 | [wildboar/pkinit](https://jsr.io/wildboar/pkinit) |  |  |  |
+| 2026-10-09 19:11:57 | [wildboar/p772](https://jsr.io/wildboar/p772) |  |  |  |
+| 2026-10-09 19:12:16 | [wildboar/sgp32](https://jsr.io/wildboar/sgp32) |  |  |  |
+| 2026-10-09 19:13:23 | [wildboar/nist-csor](https://jsr.io/wildboar/nist-csor) |  |  |  |
+| 2026-10-09 19:14:10 | [wildboar/lnpdqp](https://jsr.io/wildboar/lnpdqp) |  |  |  |
 
 ## Data source
 
