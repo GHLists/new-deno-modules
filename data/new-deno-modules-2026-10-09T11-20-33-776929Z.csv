@@ -1,0 +1,2 @@
+created_at,package,version,score,description
+2026-10-09T11:19:24.279485Z,storyshelf/ai,,,StoryShelf AI insights engine on the Vercel AI SDK: build triage and project health (providers are supplied by the deployer).

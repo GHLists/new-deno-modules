@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 08:19 UTC
+## Latest list — 2026-10-09 11:20 UTC
 
-New modules created between 2026-10-09 07:21 UTC and 2026-10-09 08:19 UTC.
+New modules created between 2026-10-09 10:19 UTC and 2026-10-09 11:20 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-09T08-19-54-900327Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-09T11-20-33-776929Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-09 07:29:39 | [adeshsuryan/next-build-doctor](https://jsr.io/adeshsuryan/next-build-doctor) | 0.1.0 | 23 |  |
+| 2026-10-09 11:19:24 | [storyshelf/ai](https://jsr.io/storyshelf/ai) |  |  | StoryShelf AI insights engine on the Vercel AI SDK: build triage and project he… |
 
 ## Data source
 
