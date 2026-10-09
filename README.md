@@ -13,16 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 20:22 UTC
+## Latest list — 2026-10-09 01:19 UTC
 
-New modules created between 2026-10-08 19:21 UTC and 2026-10-08 20:22 UTC.
+New modules created between 2026-10-09 00:19 UTC and 2026-10-09 01:19 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-08T20-22-13-332881Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-09T01-19-32-575856Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-08 19:27:52 | [kwker/kwker](https://jsr.io/kwker/kwker) | 0.1.0 | 29 |  |
-| 2026-10-08 19:40:57 | [fbritoferreira/strapi-provider-email-cloudflare](https://jsr.io/fbritoferreira/strapi-provider-email-cloudflare) | 1.0.0 | 76 |  |
+| 2026-10-09 00:46:23 | [wildboar/sgp22](https://jsr.io/wildboar/sgp22) |  |  |  |
 
 ## Data source
 
