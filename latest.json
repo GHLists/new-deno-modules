@@ -1,6 +1,6 @@
 {
   "baseline": {
-    "count": 22486,
+    "count": 22488,
     "path": "data/deno-modules-baseline.txt.lzma"
   },
   "list": {
@@ -10,5 +10,5 @@
     "to": "2026-10-08T20:22:13.332881Z"
   },
   "source_truncated": false,
-  "window": "2026-10-08T23:20:25.197908Z"
+  "window": "2026-10-09T00:19:18.687968Z"
 }
