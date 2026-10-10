@@ -13,16 +13,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 10:18 UTC
+## Latest list — 2026-10-10 11:19 UTC
 
-New modules created between 2026-10-10 09:20 UTC and 2026-10-10 10:18 UTC.
+New modules created between 2026-10-10 10:18 UTC and 2026-10-10 11:19 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-10T10-18-49-766475Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-10T11-19-24-628215Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-10 09:56:31 | [noflo/nodejs](https://jsr.io/noflo/nodejs) |  |  |  |
-| 2026-10-10 10:08:33 | [aisensei/aisensei](https://jsr.io/aisensei/aisensei) |  |  |  |
+| 2026-10-10 10:48:28 | [mikepage/flareosaur](https://jsr.io/mikepage/flareosaur) | 20261010.0.2 | 100 | The Deno standard library, ported to run on Cloudflare Workers without nodejs_c… |
+| 2026-10-10 11:05:15 | [wildboar/lpp](https://jsr.io/wildboar/lpp) |  |  |  |
+| 2026-10-10 11:09:46 | [realdigit/oauth-server](https://jsr.io/realdigit/oauth-server) | 0.1.0 | 64 |  |
 
 ## Data source
 
