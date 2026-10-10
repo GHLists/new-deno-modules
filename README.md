@@ -13,19 +13,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 19:20 UTC
+## Latest list — 2026-10-10 22:20 UTC
 
-New modules created between 2026-10-10 18:20 UTC and 2026-10-10 19:20 UTC.
+New modules created between 2026-10-10 21:20 UTC and 2026-10-10 22:20 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-10T19-20-19-256926Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-10T22-20-19-368474Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-10 18:21:23 | [webkrnl/sync](https://jsr.io/webkrnl/sync) |  |  |  |
-| 2026-10-10 18:22:43 | [webkrnl/translation](https://jsr.io/webkrnl/translation) |  |  |  |
-| 2026-10-10 18:24:02 | [webkrnl/vue](https://jsr.io/webkrnl/vue) |  |  |  |
-| 2026-10-10 19:04:17 | [subzi/docx-editor-core](https://jsr.io/subzi/docx-editor-core) |  |  |  |
-| 2026-10-10 19:14:21 | [edno/bun](https://jsr.io/edno/bun) |  |  |  |
+| 2026-10-10 21:47:59 | [8ft/ripple-motion](https://jsr.io/8ft/ripple-motion) | 0.1.0 | 76 | Motion engine wrapper for Ripple framework. |
+| 2026-10-10 21:59:34 | [mrprolopstar/glyphcast](https://jsr.io/mrprolopstar/glyphcast) |  |  |  |
 
 ## Data source
 
