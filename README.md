@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 22:21 UTC
+## Latest list — 2026-10-10 01:21 UTC
 
-New modules created between 2026-10-09 21:19 UTC and 2026-10-09 22:21 UTC.
+New modules created between 2026-10-10 00:19 UTC and 2026-10-10 01:21 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-09T22-21-54-864534Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-10T01-21-07-667316Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-09 22:20:50 | [timmo001/effect-system-bridge](https://jsr.io/timmo001/effect-system-bridge) |  |  |  |
+| 2026-10-10 01:03:27 | [procboss/pboss](https://jsr.io/procboss/pboss) |  |  | Runtime-agnostic process manager for Node.js, Bun, and Deno, using each runtime… |
 
 ## Data source
 
