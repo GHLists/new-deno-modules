@@ -1,0 +1,4 @@
+created_at,package,version,score,description
+2026-10-12T09:48:14.680981Z,notusinggithub/wan27,0.1.0,82,
+2026-10-12T09:50:02.547856Z,zuke/apple,1.0.0,100,"Typed wrappers for Apple’s signing tools in Zuke builds: CodesignTasks (codesign), NotarytoolTasks (xcrun notarytool), SecurityTasks (security, with throwaway CI keychains) and DittoTasks (ditto). Sign and notarize macOS binaries."
+2026-10-12T09:50:52.739775Z,zuke/homebrew,,,"Ship binaries through a Homebrew tap from a Zuke build: typed BrewTasks for the brew CLI, plus HomebrewTasks to render formulae for prebuilt binaries, verify them with the real brew, and publish them to a tap."

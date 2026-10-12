@@ -13,16 +13,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 21:19 UTC
+## Latest list — 2026-10-12 10:21 UTC
 
-New modules created between 2026-10-11 20:20 UTC and 2026-10-11 21:19 UTC.
+New modules created between 2026-10-12 09:22 UTC and 2026-10-12 10:21 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-11T21-19-40-243907Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-12T10-21-33-219576Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-11 20:32:03 | [8ft/peek](https://jsr.io/8ft/peek) | 0.0.2 | 100 | Vite plugin for previewing components, no extra setup needed. |
-| 2026-10-11 20:45:33 | [falseavarn/profiler](https://jsr.io/falseavarn/profiler) | 0.0.1 | 76 |  |
+| 2026-10-12 09:48:14 | [notusinggithub/wan27](https://jsr.io/notusinggithub/wan27) | 0.1.0 | 82 |  |
+| 2026-10-12 09:50:02 | [zuke/apple](https://jsr.io/zuke/apple) | 1.0.0 | 100 | Typed wrappers for Apple’s signing tools in Zuke builds: CodesignTasks (codesig… |
+| 2026-10-12 09:50:52 | [zuke/homebrew](https://jsr.io/zuke/homebrew) |  |  | Ship binaries through a Homebrew tap from a Zuke build: typed BrewTasks for the… |
 
 ## Data source
 
