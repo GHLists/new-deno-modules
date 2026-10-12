@@ -13,15 +13,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 13:20 UTC
+## Latest list — 2026-10-12 16:19 UTC
 
-New modules created between 2026-10-12 12:19 UTC and 2026-10-12 13:20 UTC.
+New modules created between 2026-10-12 15:18 UTC and 2026-10-12 16:19 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-12T13-20-21-1046Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-12T16-19-16-286632Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-12 13:06:12 | [ramazansancar/webappalyzer-js](https://jsr.io/ramazansancar/webappalyzer-js) |  |  |  |
+| 2026-10-12 15:54:53 | [zuke/chocolatey](https://jsr.io/zuke/chocolatey) |  |  | Ship a prebuilt Windows binary through Chocolatey from a Zuke build: a typed ch… |
+| 2026-10-12 15:55:45 | [zuke/signpath](https://jsr.io/zuke/signpath) |  |  | Authenticode signing through SignPath for Zuke builds: submit a signing request… |
 
 ## Data source
 
