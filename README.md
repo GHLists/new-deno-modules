@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 11:21 UTC
+## Latest list — 2026-10-12 13:20 UTC
 
-New modules created between 2026-10-12 10:21 UTC and 2026-10-12 11:21 UTC.
+New modules created between 2026-10-12 12:19 UTC and 2026-10-12 13:20 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-12T11-21-39-470303Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-12T13-20-21-1046Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-12 10:43:03 | [denext/backend](https://jsr.io/denext/backend) |  |  | A self-hosted, Supabase-shaped backend for a denext app: file storage (S3, R2,… |
+| 2026-10-12 13:06:12 | [ramazansancar/webappalyzer-js](https://jsr.io/ramazansancar/webappalyzer-js) |  |  |  |
 
 ## Data source
 
