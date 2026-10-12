@@ -13,17 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 10:21 UTC
+## Latest list — 2026-10-12 11:21 UTC
 
-New modules created between 2026-10-12 09:22 UTC and 2026-10-12 10:21 UTC.
+New modules created between 2026-10-12 10:21 UTC and 2026-10-12 11:21 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-12T10-21-33-219576Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-12T11-21-39-470303Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-12 09:48:14 | [notusinggithub/wan27](https://jsr.io/notusinggithub/wan27) | 0.1.0 | 82 |  |
-| 2026-10-12 09:50:02 | [zuke/apple](https://jsr.io/zuke/apple) | 1.0.0 | 100 | Typed wrappers for Apple’s signing tools in Zuke builds: CodesignTasks (codesig… |
-| 2026-10-12 09:50:52 | [zuke/homebrew](https://jsr.io/zuke/homebrew) |  |  | Ship binaries through a Homebrew tap from a Zuke build: typed BrewTasks for the… |
+| 2026-10-12 10:43:03 | [denext/backend](https://jsr.io/denext/backend) |  |  | A self-hosted, Supabase-shaped backend for a denext app: file storage (S3, R2,… |
 
 ## Data source
 

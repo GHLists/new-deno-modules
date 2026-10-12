@@ -1,0 +1,2 @@
+created_at,package,version,score,description
+2026-10-12T10:43:03.270115Z,denext/backend,,,"A self-hosted, Supabase-shaped backend for a denext app: file storage (S3, R2, MinIO or disk), Postgres with Supabase-compatible row-level security, realtime table changes, and RLS-scoped auto-REST. Bring your own Postgres. Zero npm."
