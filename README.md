@@ -13,16 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 21:20 UTC
+## Latest list — 2026-10-13 08:22 UTC
 
-New modules created between 2026-10-12 20:20 UTC and 2026-10-12 21:20 UTC.
+New modules created between 2026-10-13 07:21 UTC and 2026-10-13 08:22 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-12T21-20-07-917147Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-13T08-22-49-173808Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-12 21:12:14 | [vestia/registry-probe](https://jsr.io/vestia/registry-probe) | 1.0.0 | 82 |  |
-| 2026-10-12 21:14:25 | [georgemandis/mtm-midi-helpers](https://jsr.io/georgemandis/mtm-midi-helpers) | 1.0.0 | 23 |  |
+| 2026-10-13 07:37:43 | [sebastianwessel/isostate](https://jsr.io/sebastianwessel/isostate) |  |  |  |
 
 ## Data source
 
