@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 08:22 UTC
+## Latest list — 2026-10-13 10:21 UTC
 
-New modules created between 2026-10-13 07:21 UTC and 2026-10-13 08:22 UTC.
+New modules created between 2026-10-13 09:21 UTC and 2026-10-13 10:21 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-13T08-22-49-173808Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-13T10-21-00-639321Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-13 07:37:43 | [sebastianwessel/isostate](https://jsr.io/sebastianwessel/isostate) |  |  |  |
+| 2026-10-13 10:09:34 | [gunsnprices/gunsnprices](https://jsr.io/gunsnprices/gunsnprices) |  |  | Parse firearm and ammunition product titles into brand, model, caliber, capacit… |
 
 ## Data source
 

@@ -1,0 +1,2 @@
+created_at,package,version,score,description
+2026-10-13T10:09:34.588754Z,gunsnprices/gunsnprices,,,"Parse firearm and ammunition product titles into brand, model, caliber, capacity, barrel length and rounds per box."
