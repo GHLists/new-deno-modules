@@ -13,16 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 21:20 UTC
+## Latest list — 2026-10-13 23:21 UTC
 
-New modules created between 2026-10-13 20:19 UTC and 2026-10-13 21:20 UTC.
+New modules created between 2026-10-13 22:19 UTC and 2026-10-13 23:21 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-13T21-20-56-383854Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-13T23-21-09-516404Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-13 20:25:30 | [adanos/finance-sentiment](https://jsr.io/adanos/finance-sentiment) | 2.8.0 | 70 | TypeScript SDK for the Adanos Market Sentiment API: Reddit, X, News, Polymarket… |
-| 2026-10-13 20:34:49 | [lavender/lockbox](https://jsr.io/lavender/lockbox) |  |  |  |
+| 2026-10-13 22:42:19 | [spy4x/tasks](https://jsr.io/spy4x/tasks) |  |  |  |
 
 ## Data source
 
