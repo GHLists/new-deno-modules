@@ -1,0 +1,4 @@
+created_at,package,version,score,description
+2026-10-14T21:37:45.374644Z,tlockney/cdp-kernel,0.1.1,76,"A Jupyter kernel extracted from Deno's (deno jupyter, v2.9.6) that drives any V8 runtime over the Chrome DevTools Protocol."
+2026-10-14T21:40:39.178791Z,mirrordown/preset-markdown-it,,,The full Mirrordown suite for markdown-it in one plugin.
+2026-10-14T21:40:51.795879Z,mirrordown/preset-remark,,,The full Mirrordown suite for remark/rehype (unified) in one call.

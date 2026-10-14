@@ -13,15 +13,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 17:21 UTC
+## Latest list — 2026-10-14 22:19 UTC
 
-New modules created between 2026-10-14 16:19 UTC and 2026-10-14 17:21 UTC.
+New modules created between 2026-10-14 21:20 UTC and 2026-10-14 22:19 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-14T17-21-06-540129Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-14T22-19-16-046342Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-14 16:26:45 | [mirrordown/core](https://jsr.io/mirrordown/core) |  |  | Shared, engine-agnostic logic for Mirrordown's markdown-it, remark/rehype and S… |
+| 2026-10-14 21:37:45 | [tlockney/cdp-kernel](https://jsr.io/tlockney/cdp-kernel) | 0.1.1 | 76 | A Jupyter kernel extracted from Deno's (deno jupyter, v2.9.6) that drives any V… |
+| 2026-10-14 21:40:39 | [mirrordown/preset-markdown-it](https://jsr.io/mirrordown/preset-markdown-it) |  |  | The full Mirrordown suite for markdown-it in one plugin. |
+| 2026-10-14 21:40:51 | [mirrordown/preset-remark](https://jsr.io/mirrordown/preset-remark) |  |  | The full Mirrordown suite for remark/rehype (unified) in one call. |
 
 ## Data source
 
