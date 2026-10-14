@@ -1,0 +1,2 @@
+created_at,package,version,score,description
+2026-10-14T16:26:45.338469Z,mirrordown/core,,,"Shared, engine-agnostic logic for Mirrordown's markdown-it, remark/rehype and Sätteri plugins."
