@@ -1,0 +1,2 @@
+created_at,package,version,score,description
+2026-10-14T11:34:01.531562Z,easydown/client,0.1.0,100,"TypeScript client for the EasyDown Video Downloader API. Server-side Bearer authentication, normalized media and platform data, cancellation and redacted errors. Hosted API requires credits."
