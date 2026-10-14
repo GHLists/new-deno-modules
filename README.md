@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 12:20 UTC
+## Latest list — 2026-10-14 14:21 UTC
 
-New modules created between 2026-10-14 11:19 UTC and 2026-10-14 12:20 UTC.
+New modules created between 2026-10-14 13:20 UTC and 2026-10-14 14:21 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-14T12-20-05-387129Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-14T14-21-15-410643Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-14 11:34:01 | [easydown/client](https://jsr.io/easydown/client) | 0.1.0 | 100 | TypeScript client for the EasyDown Video Downloader API. Server-side Bearer aut… |
+| 2026-10-14 13:41:19 | [fisl/fisl](https://jsr.io/fisl/fisl) | 0.1.0 | 64 |  |
 
 ## Data source
 
