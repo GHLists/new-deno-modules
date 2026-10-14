@@ -13,17 +13,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 22:19 UTC
+## Latest list — 2026-10-14 23:21 UTC
 
-New modules created between 2026-10-14 21:20 UTC and 2026-10-14 22:19 UTC.
+New modules created between 2026-10-14 22:19 UTC and 2026-10-14 23:21 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-14T22-19-16-046342Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-14T23-21-30-81058Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-14 21:37:45 | [tlockney/cdp-kernel](https://jsr.io/tlockney/cdp-kernel) | 0.1.1 | 76 | A Jupyter kernel extracted from Deno's (deno jupyter, v2.9.6) that drives any V… |
-| 2026-10-14 21:40:39 | [mirrordown/preset-markdown-it](https://jsr.io/mirrordown/preset-markdown-it) |  |  | The full Mirrordown suite for markdown-it in one plugin. |
-| 2026-10-14 21:40:51 | [mirrordown/preset-remark](https://jsr.io/mirrordown/preset-remark) |  |  | The full Mirrordown suite for remark/rehype (unified) in one call. |
+| 2026-10-14 22:20:24 | [mirrordown/sat-slug](https://jsr.io/mirrordown/sat-slug) |  |  | A Sätteri plugin that adds GitHub-style id slugs to headings. |
+| 2026-10-14 22:20:31 | [mirrordown/sat-github-alerts](https://jsr.io/mirrordown/sat-github-alerts) |  |  | A Sätteri plugin for GitHub-style alerts (> [!NOTE], > [!WARNING], …). |
+| 2026-10-14 22:20:40 | [mirrordown/sat-mark](https://jsr.io/mirrordown/sat-mark) |  |  | A Sätteri plugin for highlight syntax (==text==), rendering <mark> elements. |
+| 2026-10-14 22:20:59 | [mirrordown/preset-satteri](https://jsr.io/mirrordown/preset-satteri) |  |  | The Mirrordown suite for Sätteri in one call. |
 
 ## Data source
 

@@ -1,0 +1,5 @@
+created_at,package,version,score,description
+2026-10-14T22:20:24.243862Z,mirrordown/sat-slug,,,A Sätteri plugin that adds GitHub-style id slugs to headings.
+2026-10-14T22:20:31.989572Z,mirrordown/sat-github-alerts,,,"A Sätteri plugin for GitHub-style alerts (> [!NOTE], > [!WARNING], …)."
+2026-10-14T22:20:40.32186Z,mirrordown/sat-mark,,,"A Sätteri plugin for highlight syntax (==text==), rendering <mark> elements."
+2026-10-14T22:20:59.601167Z,mirrordown/preset-satteri,,,The Mirrordown suite for Sätteri in one call.
