@@ -13,18 +13,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 02:21 UTC
+## Latest list — 2026-10-15 03:20 UTC
 
-New modules created between 2026-10-15 01:20 UTC and 2026-10-15 02:21 UTC.
+New modules created between 2026-10-15 02:21 UTC and 2026-10-15 03:20 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-15T02-21-23-800533Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-15T03-20-06-009219Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-15 01:23:01 | [ende/internal](https://jsr.io/ende/internal) | 2026.10.14 | 88 | INTERNAL: The internal package for @ende. Do not use this directly. |
-| 2026-10-15 02:00:30 | [ende/data-structures](https://jsr.io/ende/data-structures) | 2026.10.14 | 88 | Common data structures like red-black trees and binary heaps |
-| 2026-10-15 02:14:33 | [ende/async](https://jsr.io/ende/async) | 2026.10.14 | 88 | Utilities for asynchronous operations, like delays, debouncing, or pooling. |
-| 2026-10-15 02:18:14 | [ende/bytes](https://jsr.io/ende/bytes) | 2026.10.14 | 88 | Utilities to manipulate Uint8Arrays that are not built-in to JavaScript |
+| 2026-10-15 02:22:21 | [ende/cache](https://jsr.io/ende/cache) | 2026.10.14 | 88 | UNSTABLE: Cache utilities |
+| 2026-10-15 02:30:27 | [ende/streams](https://jsr.io/ende/streams) | 2026.10.14 | 88 | Utilities for working with the Web Streams API |
+| 2026-10-15 02:38:53 | [ende/cbor](https://jsr.io/ende/cbor) | 2026.10.14 | 88 | UNSTABLE: Utilities for parsing and serializing Concise Binary Object Represent… |
+| 2026-10-15 02:46:19 | [ende/fmt](https://jsr.io/ende/fmt) | 2026.10.14 | 94 | Utilities for formatting values, such as adding colors to text, formatting dura… |
 
 ## Data source
 
