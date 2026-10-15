@@ -1,0 +1,4 @@
+created_at,package,version,score,description
+2026-10-15T08:31:13.95106Z,swcstudiospace/supernuxt-core,0.2.0,52,
+2026-10-15T08:31:24.588728Z,swcstudiospace/create-supernuxt,0.2.0,52,
+2026-10-15T09:14:38.686164Z,angelo/zfd,,,Extra schemas for validating FormData on Zod & Zod mini 4+
