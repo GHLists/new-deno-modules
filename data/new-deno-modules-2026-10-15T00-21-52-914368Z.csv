@@ -1,0 +1,10 @@
+created_at,package,version,score,description
+2026-10-14T23:52:36.537836Z,mirrordown/sat-del,,,"A Sätteri plugin for deletion syntax (--text--), rendering <del> elements."
+2026-10-14T23:52:44.643031Z,mirrordown/sat-ins,,,"A Sätteri plugin for insertion syntax (++text++), rendering <ins> elements."
+2026-10-14T23:52:52.475691Z,mirrordown/sat-kbd,,,"A Sätteri plugin for keyboard-key syntax ([[Ctrl]]), rendering <kbd> elements."
+2026-10-14T23:53:01.888446Z,mirrordown/sat-spoiler,,,"A Sätteri plugin for Discord-style spoiler syntax (||text||), rendering JavaScript-free click-to-reveal spoilers."
+2026-10-15T00:14:14.579016Z,mirrordown/sat-squeeze-paragraphs,,,A Sätteri plugin that removes empty (whitespace-only) paragraphs.
+2026-10-15T00:14:22.260976Z,mirrordown/sat-unwrap-images,,,A Sätteri plugin that unwraps images out of paragraphs that hold nothing else.
+2026-10-15T00:14:29.986446Z,mirrordown/sat-sectionize,,,A Sätteri plugin that wraps headings and their content in <section> elements.
+2026-10-15T00:14:39.469083Z,mirrordown/sat-lightbox,,,A Sätteri plugin that opts images into a JavaScript-free <dialog> lightbox with !![alt](src).
+2026-10-15T00:15:00.798836Z,mirrordown/sat-autolink-headings,,,A Sätteri plugin that adds self-referential anchor links to headings with an id.
