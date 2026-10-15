@@ -1,0 +1,12 @@
+created_at,package,version,score,description
+2026-10-15T03:26:00.095762Z,ende/collections,2026.10.14,88,Pure functions for common tasks related to collection types like arrays and objects.
+2026-10-15T03:28:16.281012Z,ende/crypto,2026.10.14,88,Extensions to the Web Crypto API
+2026-10-15T03:31:49.027622Z,ende/csv,2026.10.14,88,Reading and writing of comma-separated values (CSV) files.
+2026-10-15T03:34:11.598969Z,ende/datetime,2026.10.14,88,Utilities for dealing with Date objects.
+2026-10-15T03:39:08.905424Z,ende/dotenv,2026.10.14,88,Parsing and loading environment variables from an `.env` file.
+2026-10-15T03:44:36.26502Z,ende/encoding,2026.10.14,94,"Utilities for encoding and decoding common formats like hex, base64, and varint."
+2026-10-15T03:51:59.845733Z,ende/path,2026.10.14,88,Utilities for working with file system paths.
+2026-10-15T04:02:06.21663Z,ende/expect,2026.10.14,88,Jest compatible `expect` assertion functions
+2026-10-15T04:05:58.651401Z,ende/cli,2026.10.14,88,Tools for creating interactive command line tools.
+2026-10-15T04:10:08.182973Z,ende/toml,2026.10.14,88,Parsing and serializing of TOML files.
+2026-10-15T04:13:25.148049Z,ende/yaml,2026.10.14,88,Parsing and serializing of YAML files.
