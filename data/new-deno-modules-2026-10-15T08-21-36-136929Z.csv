@@ -1,0 +1,2 @@
+created_at,package,version,score,description
+2026-10-15T07:52:37.359066Z,jonasgeiler/node-util-printhelp,0.0.3,100,"Utility to generate and print CLI help text from a Node.js `util.parseArgs` configuration, designed minimally to resemble a potential future Node.js built-in."
