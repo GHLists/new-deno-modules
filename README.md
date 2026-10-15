@@ -13,17 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 09:21 UTC
+## Latest list — 2026-10-15 12:22 UTC
 
-New modules created between 2026-10-15 08:21 UTC and 2026-10-15 09:21 UTC.
+New modules created between 2026-10-15 11:21 UTC and 2026-10-15 12:22 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-15T09-21-40-176467Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-15T12-22-29-822857Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-15 08:31:13 | [swcstudiospace/supernuxt-core](https://jsr.io/swcstudiospace/supernuxt-core) | 0.2.0 | 52 |  |
-| 2026-10-15 08:31:24 | [swcstudiospace/create-supernuxt](https://jsr.io/swcstudiospace/create-supernuxt) | 0.2.0 | 52 |  |
-| 2026-10-15 09:14:38 | [angelo/zfd](https://jsr.io/angelo/zfd) |  |  | Extra schemas for validating FormData on Zod & Zod mini 4+ |
+| 2026-10-15 11:41:27 | [madduck/squoredata](https://jsr.io/madduck/squoredata) |  |  |  |
 
 ## Data source
 
