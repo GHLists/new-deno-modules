@@ -1,0 +1,4 @@
+created_at,package,version,score,description
+2026-10-15T17:28:57.26309Z,swkit/io,0.0.1,88,"RDF I/O essentials (parser, serializer, converter, utilities, etc.) compatible with Web Streams API and based on oxrdfio (Oxigraph's RDF I/O core crate)."
+2026-10-15T17:42:13.61295Z,glastor-dev/readmegen,2.2.0,100,
+2026-10-15T17:50:31.500381Z,galhardoalex/telegram-logger,0.1.0,100,"Zero-dependency logger that sends errors, warnings, events and contact-form submissions to your Telegram chats. Works on Node, Bun, Deno, Next.js and edge runtimes."

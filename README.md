@@ -13,15 +13,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 12:22 UTC
+## Latest list — 2026-10-15 18:20 UTC
 
-New modules created between 2026-10-15 11:21 UTC and 2026-10-15 12:22 UTC.
+New modules created between 2026-10-15 17:21 UTC and 2026-10-15 18:20 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-15T12-22-29-822857Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-15T18-20-59-468961Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-15 11:41:27 | [madduck/squoredata](https://jsr.io/madduck/squoredata) |  |  |  |
+| 2026-10-15 17:28:57 | [swkit/io](https://jsr.io/swkit/io) | 0.0.1 | 88 | RDF I/O essentials (parser, serializer, converter, utilities, etc.) compatible… |
+| 2026-10-15 17:42:13 | [glastor-dev/readmegen](https://jsr.io/glastor-dev/readmegen) | 2.2.0 | 100 |  |
+| 2026-10-15 17:50:31 | [galhardoalex/telegram-logger](https://jsr.io/galhardoalex/telegram-logger) | 0.1.0 | 100 | Zero-dependency logger that sends errors, warnings, events and contact-form sub… |
 
 ## Data source
 
