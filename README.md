@@ -13,16 +13,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 20:21 UTC
+## Latest list — 2026-10-16 01:20 UTC
 
-New modules created between 2026-10-15 19:20 UTC and 2026-10-15 20:21 UTC.
+New modules created between 2026-10-16 00:19 UTC and 2026-10-16 01:20 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-15T20-21-10-538394Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-16T01-20-25-703215Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-15 19:55:04 | [std-dodo/fs](https://jsr.io/std-dodo/fs) |  |  |  |
-| 2026-10-15 19:55:41 | [stdodo/fs](https://jsr.io/stdodo/fs) |  |  |  |
+| 2026-10-16 00:53:27 | [noflo/assembly-utils](https://jsr.io/noflo/assembly-utils) |  |  |  |
+| 2026-10-16 00:53:51 | [noflo/fbp-client](https://jsr.io/noflo/fbp-client) |  |  |  |
+| 2026-10-16 00:54:29 | [noflo/runtime-client](https://jsr.io/noflo/runtime-client) |  |  |  |
+| 2026-10-16 00:56:29 | [s0fractal/warrant](https://jsr.io/s0fractal/warrant) | 0.10.0 | 82 |  |
 
 ## Data source
 
