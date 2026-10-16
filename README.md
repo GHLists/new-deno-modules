@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 10:21 UTC
+## Latest list — 2026-10-16 12:22 UTC
 
-New modules created between 2026-10-16 09:21 UTC and 2026-10-16 10:21 UTC.
+New modules created between 2026-10-16 11:21 UTC and 2026-10-16 12:22 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-16T10-21-15-24732Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-16T12-22-29-673246Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-16 10:04:29 | [baua/cli](https://jsr.io/baua/cli) |  |  |  |
+| 2026-10-16 11:49:27 | [denext/docs-corpus](https://jsr.io/denext/docs-corpus) |  |  | Docs for Denext's MCP server |
 
 ## Data source
 
