@@ -1,0 +1,2 @@
+created_at,package,version,score,description
+2026-10-16T16:29:19.389999Z,mailchannels/mailchannels-sdk,1.7.0,88,"Official MailChannels Email API SDK for Deno and TypeScript, with a Nodemailer transport and a local simulator. Re-exports the mailchannels-sdk npm package."
