@@ -13,15 +13,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 17:18 UTC
+## Latest list — 2026-10-16 18:20 UTC
 
-New modules created between 2026-10-16 16:21 UTC and 2026-10-16 17:18 UTC.
+New modules created between 2026-10-16 17:18 UTC and 2026-10-16 18:20 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-16T17-18-46-530452Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-16T18-20-06-548193Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-16 16:29:19 | [mailchannels/mailchannels-sdk](https://jsr.io/mailchannels/mailchannels-sdk) | 1.7.0 | 88 | Official MailChannels Email API SDK for Deno and TypeScript, with a Nodemailer… |
+| 2026-10-16 17:19:59 | [apexraysec/aptest](https://jsr.io/apexraysec/aptest) | 0.1.8 | 29 |  |
+| 2026-10-16 17:47:23 | [apexraysec/injprobe](https://jsr.io/apexraysec/injprobe) | 0.4.0 | 29 |  |
 
 ## Data source
 
