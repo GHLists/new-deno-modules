@@ -1,0 +1,7 @@
+created_at,package,version,score,description
+2026-10-16T03:36:31.15443Z,wake-protocol/bytes,0.6.0,88,
+2026-10-16T03:37:07.68205Z,wake-protocol/codec,0.6.0,88,
+2026-10-16T03:37:27.394299Z,wake-protocol/crypto,0.6.0,76,
+2026-10-16T03:38:38.085842Z,wake-protocol/core,0.6.0,64,
+2026-10-16T03:45:25.487641Z,wake-protocol/client,0.6.0,64,
+2026-10-16T03:45:47.144363Z,wake-protocol/server,0.6.0,64,

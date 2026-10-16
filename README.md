@@ -13,18 +13,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 01:20 UTC
+## Latest list — 2026-10-16 04:22 UTC
 
-New modules created between 2026-10-16 00:19 UTC and 2026-10-16 01:20 UTC.
+New modules created between 2026-10-16 03:21 UTC and 2026-10-16 04:22 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-16T01-20-25-703215Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-16T04-22-05-355197Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-16 00:53:27 | [noflo/assembly-utils](https://jsr.io/noflo/assembly-utils) |  |  |  |
-| 2026-10-16 00:53:51 | [noflo/fbp-client](https://jsr.io/noflo/fbp-client) |  |  |  |
-| 2026-10-16 00:54:29 | [noflo/runtime-client](https://jsr.io/noflo/runtime-client) |  |  |  |
-| 2026-10-16 00:56:29 | [s0fractal/warrant](https://jsr.io/s0fractal/warrant) | 0.10.0 | 82 |  |
+| 2026-10-16 03:36:31 | [wake-protocol/bytes](https://jsr.io/wake-protocol/bytes) | 0.6.0 | 88 |  |
+| 2026-10-16 03:37:07 | [wake-protocol/codec](https://jsr.io/wake-protocol/codec) | 0.6.0 | 88 |  |
+| 2026-10-16 03:37:27 | [wake-protocol/crypto](https://jsr.io/wake-protocol/crypto) | 0.6.0 | 76 |  |
+| 2026-10-16 03:38:38 | [wake-protocol/core](https://jsr.io/wake-protocol/core) | 0.6.0 | 64 |  |
+| 2026-10-16 03:45:25 | [wake-protocol/client](https://jsr.io/wake-protocol/client) | 0.6.0 | 64 |  |
+| 2026-10-16 03:45:47 | [wake-protocol/server](https://jsr.io/wake-protocol/server) | 0.6.0 | 64 |  |
 
 ## Data source
 
