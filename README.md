@@ -13,15 +13,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 12:21 UTC
+## Latest list — 2026-10-17 13:18 UTC
 
-New modules created between 2026-10-17 11:20 UTC and 2026-10-17 12:21 UTC.
+New modules created between 2026-10-17 12:21 UTC and 2026-10-17 13:18 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-17T12-21-02-976782Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-17T13-18-56-983771Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-17 11:23:25 | [tundraconnect/google-certificate-manager](https://jsr.io/tundraconnect/google-certificate-manager) | 0.1.0 | 100 | Typed Google Cloud Certificate Manager client: create, read, list and delete ma… |
+| 2026-10-17 12:24:39 | [snowfluke/ppu-indra-ocr](https://jsr.io/snowfluke/ppu-indra-ocr) | 0.1.1 | 88 |  |
+| 2026-10-17 13:01:43 | [cumulativeweb/cwi-scout](https://jsr.io/cumulativeweb/cwi-scout) | 1.0.1 | 58 |  |
 
 ## Data source
 
