@@ -13,15 +13,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 21:21 UTC
+## Latest list — 2026-10-17 23:21 UTC
 
-New modules created between 2026-10-17 20:20 UTC and 2026-10-17 21:21 UTC.
+New modules created between 2026-10-17 22:20 UTC and 2026-10-17 23:21 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-17T21-21-28-559432Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-17T23-21-51-344308Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-17 20:52:02 | [elysra/tungsten-runtime](https://jsr.io/elysra/tungsten-runtime) | 0.1.2 | 70 | TypeScript runtime for Tungsten-generated API clients: HTTP transport, structur… |
+| 2026-10-17 22:53:01 | [denext/tanstack-start](https://jsr.io/denext/tanstack-start) | 0.1.0 | 100 | tanstack-start for Denext |
+| 2026-10-17 23:02:15 | [slatis/scoop-slates](https://jsr.io/slatis/scoop-slates) |  |  |  |
 
 ## Data source
 
