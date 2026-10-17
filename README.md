@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 01:21 UTC
+## Latest list — 2026-10-17 03:19 UTC
 
-New modules created between 2026-10-17 00:19 UTC and 2026-10-17 01:21 UTC.
+New modules created between 2026-10-17 02:19 UTC and 2026-10-17 03:19 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-17T01-21-01-714519Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-17T03-19-43-961576Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-17 00:59:53 | [kiri23/ontology-client](https://jsr.io/kiri23/ontology-client) | 0.1.1 | 76 |  |
+| 2026-10-17 03:00:20 | [antimeme/verbs](https://jsr.io/antimeme/verbs) | 0.1.0 | 82 |  |
 
 ## Data source
 
