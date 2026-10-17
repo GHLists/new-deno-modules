@@ -1,0 +1,2 @@
+created_at,package,version,score,description
+2026-10-17T20:52:02.09746Z,elysra/tungsten-runtime,0.1.2,70,"TypeScript runtime for Tungsten-generated API clients: HTTP transport, structured diagnostics, retries, idempotency, preview and confirmation, pagination, OAuth and server-sent events. Includes a separate Node.js filesystem adapter."

@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 14:20 UTC
+## Latest list — 2026-10-17 21:21 UTC
 
-New modules created between 2026-10-17 13:18 UTC and 2026-10-17 14:20 UTC.
+New modules created between 2026-10-17 20:20 UTC and 2026-10-17 21:21 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-17T14-20-42-238134Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-17T21-21-28-559432Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-17 14:18:14 | [wormblossom/macromania-names](https://jsr.io/wormblossom/macromania-names) | 0.1.0 | 47 |  |
+| 2026-10-17 20:52:02 | [elysra/tungsten-runtime](https://jsr.io/elysra/tungsten-runtime) | 0.1.2 | 70 | TypeScript runtime for Tungsten-generated API clients: HTTP transport, structur… |
 
 ## Data source
 
