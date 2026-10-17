@@ -1,0 +1,2 @@
+created_at,package,version,score,description
+2026-10-17T11:23:25.328435Z,tundraconnect/google-certificate-manager,0.1.0,100,"Typed Google Cloud Certificate Manager client: create, read, list and delete managed TLS certificates and certificate map entries, poll long-running operations, with service-account auth on Workers, Deno, Bun and Node."
