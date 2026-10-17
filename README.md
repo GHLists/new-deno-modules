@@ -13,16 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 18:20 UTC
+## Latest list — 2026-10-17 01:21 UTC
 
-New modules created between 2026-10-16 17:18 UTC and 2026-10-16 18:20 UTC.
+New modules created between 2026-10-17 00:19 UTC and 2026-10-17 01:21 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-16T18-20-06-548193Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-17T01-21-01-714519Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-16 17:19:59 | [apexraysec/aptest](https://jsr.io/apexraysec/aptest) | 0.1.8 | 29 |  |
-| 2026-10-16 17:47:23 | [apexraysec/injprobe](https://jsr.io/apexraysec/injprobe) | 0.4.0 | 29 |  |
+| 2026-10-17 00:59:53 | [kiri23/ontology-client](https://jsr.io/kiri23/ontology-client) | 0.1.1 | 76 |  |
 
 ## Data source
 
