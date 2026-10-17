@@ -1,0 +1,19 @@
+created_at,package,version,score,description
+2026-10-17T06:27:55.221731Z,ende/net,2026.10.15,88,Utilities for working with the network
+2026-10-17T06:44:11.607138Z,ende/http,2026.10.15,88,Utilities for building HTTP servers
+2026-10-17T06:46:51.764809Z,ende/ini,2026.10.15,94,Parsing and serializing of INI files
+2026-10-17T06:48:07.734056Z,ende/io,2026.10.15,94,The utilities for advanced I/O operations using Reader and Writer interfaces.
+2026-10-17T06:49:31.343089Z,ende/json,2026.10.15,94,(Streaming) parsing and serializing of JSON files
+2026-10-17T06:50:57.219756Z,ende/jsonc,2026.10.15,94,Parsing and serializing of JSONC files
+2026-10-17T06:52:12.828603Z,ende/math,2026.10.15,94,Basic math utilities
+2026-10-17T06:53:54.563201Z,ende/msgpack,2026.10.15,94,Encoding and decoding for the msgpack format
+2026-10-17T06:55:11.127831Z,ende/random,2026.10.15,94,Various utilities using random number generators. The package also provides seeded pseudo-random number generator.
+2026-10-17T06:56:24.424025Z,ende/regexp,2026.10.15,94,Utilities for working with RegExp
+2026-10-17T06:57:33.642657Z,ende/semver,2026.10.15,94,Parsing and comparing of semantic versions (SemVer)
+2026-10-17T06:58:53.18156Z,ende/tar,2026.10.15,94,Streaming utilities for working with tar archives.
+2026-10-17T07:00:18.796172Z,ende/testing,2026.10.15,88,"Tools for testing Deno code like snapshot testing, bdd testing, and time mocking."
+2026-10-17T07:02:43.255386Z,ende/text,2026.10.15,94,Utilities for working with text
+2026-10-17T07:03:53.607501Z,ende/ulid,2026.10.15,94,Generation of Universally Unique Lexicographically Sortable Identifiers (ULIDs)
+2026-10-17T07:05:12.711541Z,ende/uuid,2026.10.15,94,Generators and validators for UUIDs
+2026-10-17T07:06:35.29398Z,ende/webgpu,2026.10.15,88,
+2026-10-17T07:07:47.319225Z,ende/xml,2026.10.15,100,XML parsing and serialization
