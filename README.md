@@ -13,16 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 13:18 UTC
+## Latest list — 2026-10-17 14:20 UTC
 
-New modules created between 2026-10-17 12:21 UTC and 2026-10-17 13:18 UTC.
+New modules created between 2026-10-17 13:18 UTC and 2026-10-17 14:20 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-17T13-18-56-983771Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-17T14-20-42-238134Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-17 12:24:39 | [snowfluke/ppu-indra-ocr](https://jsr.io/snowfluke/ppu-indra-ocr) | 0.1.1 | 88 |  |
-| 2026-10-17 13:01:43 | [cumulativeweb/cwi-scout](https://jsr.io/cumulativeweb/cwi-scout) | 1.0.1 | 58 |  |
+| 2026-10-17 14:18:14 | [wormblossom/macromania-names](https://jsr.io/wormblossom/macromania-names) | 0.1.0 | 47 |  |
 
 ## Data source
 
