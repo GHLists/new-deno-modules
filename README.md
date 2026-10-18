@@ -13,18 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 04:18 UTC
+## Latest list — 2026-10-18 08:19 UTC
 
-New modules created between 2026-10-18 03:19 UTC and 2026-10-18 04:18 UTC.
+New modules created between 2026-10-18 07:21 UTC and 2026-10-18 08:19 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-18T04-18-43-952143Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-18T08-19-52-195483Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-18 03:29:34 | [gukhanmun/loanwords-cdb](https://jsr.io/gukhanmun/loanwords-cdb) |  |  | NIKL loanword examples bundled as a CDB binary for @gukhanmun/wasm and @gukhanm… |
-| 2026-10-18 03:30:27 | [gukhanmun/loanwords-fst](https://jsr.io/gukhanmun/loanwords-fst) |  |  | NIKL loanword examples bundled as an FST binary for @gukhanmun/wasm and @gukhan… |
-| 2026-10-18 04:05:57 | [nuten/format](https://jsr.io/nuten/format) |  |  | A formatter for Nushell. Robust, fast, and lightweight. |
-| 2026-10-18 04:06:11 | [nuten/prettier-plugin](https://jsr.io/nuten/prettier-plugin) |  |  | The Prettier plugin of Nuten, a formatter for Nushell. |
+| 2026-10-18 07:35:53 | [ende/satz](https://jsr.io/ende/satz) | 2026.10.18 | 100 | SSG for the Ende runtime |
 
 ## Data source
 
