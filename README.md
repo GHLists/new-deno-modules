@@ -13,16 +13,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 23:21 UTC
+## Latest list — 2026-10-18 04:18 UTC
 
-New modules created between 2026-10-17 22:20 UTC and 2026-10-17 23:21 UTC.
+New modules created between 2026-10-18 03:19 UTC and 2026-10-18 04:18 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-17T23-21-51-344308Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-18T04-18-43-952143Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-17 22:53:01 | [denext/tanstack-start](https://jsr.io/denext/tanstack-start) | 0.1.0 | 100 | tanstack-start for Denext |
-| 2026-10-17 23:02:15 | [slatis/scoop-slates](https://jsr.io/slatis/scoop-slates) |  |  |  |
+| 2026-10-18 03:29:34 | [gukhanmun/loanwords-cdb](https://jsr.io/gukhanmun/loanwords-cdb) |  |  | NIKL loanword examples bundled as a CDB binary for @gukhanmun/wasm and @gukhanm… |
+| 2026-10-18 03:30:27 | [gukhanmun/loanwords-fst](https://jsr.io/gukhanmun/loanwords-fst) |  |  | NIKL loanword examples bundled as an FST binary for @gukhanmun/wasm and @gukhan… |
+| 2026-10-18 04:05:57 | [nuten/format](https://jsr.io/nuten/format) |  |  | A formatter for Nushell. Robust, fast, and lightweight. |
+| 2026-10-18 04:06:11 | [nuten/prettier-plugin](https://jsr.io/nuten/prettier-plugin) |  |  | The Prettier plugin of Nuten, a formatter for Nushell. |
 
 ## Data source
 

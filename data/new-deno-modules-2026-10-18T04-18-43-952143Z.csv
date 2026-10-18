@@ -1,0 +1,5 @@
+created_at,package,version,score,description
+2026-10-18T03:29:34.962172Z,gukhanmun/loanwords-cdb,,,NIKL loanword examples bundled as a CDB binary for @gukhanmun/wasm and @gukhanmun/napi.
+2026-10-18T03:30:27.122985Z,gukhanmun/loanwords-fst,,,NIKL loanword examples bundled as an FST binary for @gukhanmun/wasm and @gukhanmun/napi.
+2026-10-18T04:05:57.293564Z,nuten/format,,,"A formatter for Nushell. Robust, fast, and lightweight."
+2026-10-18T04:06:11.748105Z,nuten/prettier-plugin,,,"The Prettier plugin of Nuten, a formatter for Nushell."
