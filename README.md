@@ -13,16 +13,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 08:20 UTC
+## Latest list — 2026-10-19 09:21 UTC
 
-New modules created between 2026-10-19 07:21 UTC and 2026-10-19 08:20 UTC.
+New modules created between 2026-10-19 08:20 UTC and 2026-10-19 09:21 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-19T08-20-02-402744Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-19T09-21-14-90308Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-19 07:31:08 | [signupbouncer/better-auth](https://jsr.io/signupbouncer/better-auth) |  |  | Better Auth plugin that blocks disposable email, burner account and fake signup… |
-| 2026-10-19 07:48:33 | [utilvo/shield-filters](https://jsr.io/utilvo/shield-filters) |  |  |  |
+| 2026-10-19 08:49:00 | [x-cmd/draw](https://jsr.io/x-cmd/draw) |  |  | svg draw service for human and agent. |
+| 2026-10-19 08:57:38 | [defai-digital/ax-docproc-sdk](https://jsr.io/defai-digital/ax-docproc-sdk) |  |  |  |
+| 2026-10-19 09:03:27 | [defai-digital/ax-office-sdk](https://jsr.io/defai-digital/ax-office-sdk) |  |  |  |
 
 ## Data source
 
