@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 17:21 UTC
+## Latest list — 2026-10-19 00:21 UTC
 
-New modules created between 2026-10-18 16:19 UTC and 2026-10-18 17:21 UTC.
+New modules created between 2026-10-18 23:21 UTC and 2026-10-19 00:21 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-18T17-21-00-918485Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-19T00-21-49-025724Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-18 17:07:54 | [aura-stack/oak](https://jsr.io/aura-stack/oak) |  |  |  |
+| 2026-10-19 00:18:45 | [aronaplana-os/x402-deno](https://jsr.io/aronaplana-os/x402-deno) |  |  |  |
 
 ## Data source
 
