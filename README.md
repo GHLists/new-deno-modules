@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 00:21 UTC
+## Latest list — 2026-10-19 02:20 UTC
 
-New modules created between 2026-10-18 23:21 UTC and 2026-10-19 00:21 UTC.
+New modules created between 2026-10-19 01:21 UTC and 2026-10-19 02:20 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-19T00-21-49-025724Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-19T02-20-22-17883Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-19 00:18:45 | [aronaplana-os/x402-deno](https://jsr.io/aronaplana-os/x402-deno) |  |  |  |
+| 2026-10-19 01:31:13 | [glastor-dev/samurai](https://jsr.io/glastor-dev/samurai) | 1.0.0 | 64 | Este generador implementa el Enfoque Híbrido, la arquitectura estándar utilizad… |
 
 ## Data source
 
