@@ -13,15 +13,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 03:22 UTC
+## Latest list — 2026-10-19 08:20 UTC
 
-New modules created between 2026-10-19 02:20 UTC and 2026-10-19 03:22 UTC.
+New modules created between 2026-10-19 07:21 UTC and 2026-10-19 08:20 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-19T03-22-39-03413Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-19T08-20-02-402744Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-19 02:30:42 | [r0dn3ys/twurple-commandclient](https://jsr.io/r0dn3ys/twurple-commandclient) |  |  |  |
+| 2026-10-19 07:31:08 | [signupbouncer/better-auth](https://jsr.io/signupbouncer/better-auth) |  |  | Better Auth plugin that blocks disposable email, burner account and fake signup… |
+| 2026-10-19 07:48:33 | [utilvo/shield-filters](https://jsr.io/utilvo/shield-filters) |  |  |  |
 
 ## Data source
 
