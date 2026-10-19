@@ -13,15 +13,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 14:19 UTC
+## Latest list — 2026-10-19 18:21 UTC
 
-New modules created between 2026-10-19 13:19 UTC and 2026-10-19 14:19 UTC.
+New modules created between 2026-10-19 17:23 UTC and 2026-10-19 18:21 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-19T14-19-31-537539Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-19T18-21-37-845509Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-19 13:39:39 | [convexworks/paraframe](https://jsr.io/convexworks/paraframe) |  |  |  |
+| 2026-10-19 18:10:41 | [omniview/core](https://jsr.io/omniview/core) |  |  |  |
+| 2026-10-19 18:21:19 | [tundraconnect/binance](https://jsr.io/tundraconnect/binance) |  |  | Typed Binance.com spot market-data streams for Deno, Bun, Node.js, browsers and… |
 
 ## Data source
 
