@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 19:22 UTC
+## Latest list — 2026-10-20 10:23 UTC
 
-New modules created between 2026-10-19 18:21 UTC and 2026-10-19 19:22 UTC.
+New modules created between 2026-10-20 09:22 UTC and 2026-10-20 10:23 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-19T19-22-27-095664Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-20T10-23-53-46239Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-19 18:22:37 | [tundraconnect/pyth](https://jsr.io/tundraconnect/pyth) | 0.1.0 | 94 | Typed Pyth Pro (Pyth Lazer) price stream for Deno, Bun, Node.js, browsers and C… |
+| 2026-10-20 10:12:26 | [roling/weave](https://jsr.io/roling/weave) |  |  |  |
 
 ## Data source
 
