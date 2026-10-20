@@ -13,17 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 13:22 UTC
+## Latest list — 2026-10-20 14:23 UTC
 
-New modules created between 2026-10-20 12:21 UTC and 2026-10-20 13:22 UTC.
+New modules created between 2026-10-20 13:22 UTC and 2026-10-20 14:23 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-20T13-22-37-859718Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-20T14-23-08-190162Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-20 12:30:29 | [fjavierv/object-categorizer](https://jsr.io/fjavierv/object-categorizer) |  |  |  |
-| 2026-10-20 12:50:04 | [seam/ui](https://jsr.io/seam/ui) |  |  |  |
-| 2026-10-20 13:05:28 | [seam/hooks](https://jsr.io/seam/hooks) |  |  |  |
+| 2026-10-20 13:34:25 | [utilvo/edge-shield](https://jsr.io/utilvo/edge-shield) |  |  | Open-source server firewall rules, CIDR/ASN threat feed (AS132203, AS45102, AS1… |
 
 ## Data source
 

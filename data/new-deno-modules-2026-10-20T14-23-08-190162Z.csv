@@ -1,0 +1,2 @@
+created_at,package,version,score,description
+2026-10-20T13:34:25.16252Z,utilvo/edge-shield,,,"Open-source server firewall rules, CIDR/ASN threat feed (AS132203, AS45102, AS136907), and GA4 headless bot detector by Utilvo (https://utilvo.com/edge-shield)."
