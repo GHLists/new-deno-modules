@@ -1,0 +1,3 @@
+created_at,package,version,score,description
+2026-10-20T14:33:31.195618Z,vetrox/llm-balancer,,,"Load balancer for LLM providers: named model pools with automatic fallback, per-model cooldowns, timeouts and typed errors."
+2026-10-20T14:40:59.434149Z,zuke/flutter,,,"Typed Flutter CLI task wrappers for Zuke builds — analyze, test, build every artifact, pub dependencies, drive, install, doctor and config via an injection-free settings-lambda API."
