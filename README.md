@@ -13,16 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 15:21 UTC
+## Latest list — 2026-10-20 17:19 UTC
 
-New modules created between 2026-10-20 14:23 UTC and 2026-10-20 15:21 UTC.
+New modules created between 2026-10-20 16:21 UTC and 2026-10-20 17:19 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-20T15-21-32-610395Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-20T17-19-36-752372Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-20 14:33:31 | [vetrox/llm-balancer](https://jsr.io/vetrox/llm-balancer) |  |  | Load balancer for LLM providers: named model pools with automatic fallback, per… |
-| 2026-10-20 14:40:59 | [zuke/flutter](https://jsr.io/zuke/flutter) |  |  | Typed Flutter CLI task wrappers for Zuke builds — analyze, test, build every ar… |
+| 2026-10-20 16:34:10 | [vanaware/linklist](https://jsr.io/vanaware/linklist) |  |  | A blazing-fast, config-driven link-in-bio site generator. One config.json in, a… |
 
 ## Data source
 
