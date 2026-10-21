@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 17:19 UTC
+## Latest list — 2026-10-21 04:20 UTC
 
-New modules created between 2026-10-20 16:21 UTC and 2026-10-20 17:19 UTC.
+New modules created between 2026-10-21 03:22 UTC and 2026-10-21 04:20 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-20T17-19-36-752372Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-21T04-20-43-007814Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-20 16:34:10 | [vanaware/linklist](https://jsr.io/vanaware/linklist) |  |  | A blazing-fast, config-driven link-in-bio site generator. One config.json in, a… |
+| 2026-10-21 04:13:47 | [graphviz-pure/wasm](https://jsr.io/graphviz-pure/wasm) |  |  | A Rust + WebAssembly port of Graphviz 16.1.0 (all eight layout engines) for bro… |
 
 ## Data source
 

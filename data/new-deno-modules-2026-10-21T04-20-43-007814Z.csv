@@ -1,0 +1,2 @@
+created_at,package,version,score,description
+2026-10-21T04:13:47.979996Z,graphviz-pure/wasm,,,"A Rust + WebAssembly port of Graphviz 16.1.0 (all eight layout engines) for browsers, Node.js, Deno, Bun and Workers. Same output on every platform. Not affiliated with the Graphviz project."
