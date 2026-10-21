@@ -1,0 +1,4 @@
+created_at,package,version,score,description
+2026-10-21T08:47:39.157711Z,tancky/upscale-calculator,0.1.1,100,"Dependency-free helpers for image upscaling math: scale factors (2x, 4x, 6x), target dimensions, megapixels and print sizes at any DPI."
+2026-10-21T08:48:23.115655Z,fjavierv/database-model,5.0.4,52,
+2026-10-21T09:00:34.724237Z,paluigi/jsindexnum,,,Package to compute index numbers
