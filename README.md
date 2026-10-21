@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 21:22 UTC
+## Latest list — 2026-10-21 22:19 UTC
 
-New modules created between 2026-10-21 20:19 UTC and 2026-10-21 21:22 UTC.
+New modules created between 2026-10-21 21:22 UTC and 2026-10-21 22:19 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-21T21-22-15-474923Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-21T22-19-46-523822Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-21 20:19:41 | [hertzg/hikvision-api](https://jsr.io/hertzg/hikvision-api) |  |  | Hikvision ISAPI client for NVRs and cameras. Streams alertStream as parsed aler… |
+| 2026-10-21 22:13:50 | [kludex/tastapi](https://jsr.io/kludex/tastapi) |  |  |  |
 
 ## Data source
 
