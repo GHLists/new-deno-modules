@@ -13,17 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 14:23 UTC
+## Latest list — 2026-10-21 21:22 UTC
 
-New modules created between 2026-10-21 13:19 UTC and 2026-10-21 14:23 UTC.
+New modules created between 2026-10-21 20:19 UTC and 2026-10-21 21:22 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-21T14-23-13-667608Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-21T21-22-15-474923Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-21 13:48:05 | [tab/linets](https://jsr.io/tab/linets) | 3.5.1 | 58 |  |
-| 2026-10-21 13:58:24 | [tab/loose-types](https://jsr.io/tab/loose-types) | 1.0.1 | 76 |  |
-| 2026-10-21 14:00:13 | [tab/linets-types](https://jsr.io/tab/linets-types) | 3.5.0 | 41 |  |
+| 2026-10-21 20:19:41 | [hertzg/hikvision-api](https://jsr.io/hertzg/hikvision-api) |  |  | Hikvision ISAPI client for NVRs and cameras. Streams alertStream as parsed aler… |
 
 ## Data source
 

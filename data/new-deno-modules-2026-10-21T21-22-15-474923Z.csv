@@ -1,0 +1,2 @@
+created_at,package,version,score,description
+2026-10-21T20:19:41.677526Z,hertzg/hikvision-api,,,"Hikvision ISAPI client for NVRs and cameras. Streams alertStream as parsed alerts; reads device info, channels, motion grid and smart rules. fetch-based, Deno and Bun."
