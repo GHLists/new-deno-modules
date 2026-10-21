@@ -13,17 +13,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 09:23 UTC
+## Latest list — 2026-10-21 12:20 UTC
 
-New modules created between 2026-10-21 08:19 UTC and 2026-10-21 09:23 UTC.
+New modules created between 2026-10-21 11:22 UTC and 2026-10-21 12:20 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-21T09-23-15-932547Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-21T12-20-47-006195Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-21 08:47:39 | [tancky/upscale-calculator](https://jsr.io/tancky/upscale-calculator) | 0.1.1 | 100 | Dependency-free helpers for image upscaling math: scale factors (2x, 4x, 6x), t… |
-| 2026-10-21 08:48:23 | [fjavierv/database-model](https://jsr.io/fjavierv/database-model) | 5.0.4 | 52 |  |
-| 2026-10-21 09:00:34 | [paluigi/jsindexnum](https://jsr.io/paluigi/jsindexnum) |  |  | Package to compute index numbers |
+| 2026-10-21 12:03:24 | [graphql-markdown/core](https://jsr.io/graphql-markdown/core) |  |  | Core of GraphQL-Markdown: generates Markdown documentation from a GraphQL schem… |
+| 2026-10-21 12:04:14 | [graphql-markdown/types](https://jsr.io/graphql-markdown/types) |  |  |  |
+| 2026-10-21 12:04:34 | [graphql-markdown/telemetry](https://jsr.io/graphql-markdown/telemetry) |  |  | Anonymous, opt-out usage telemetry for the GraphQL-Markdown CLI. |
+| 2026-10-21 12:04:52 | [graphql-markdown/printer-legacy](https://jsr.io/graphql-markdown/printer-legacy) |  |  | Default Markdown/MDX printer for GraphQL-Markdown, rendering GraphQL schema typ… |
+| 2026-10-21 12:05:10 | [graphql-markdown/diff](https://jsr.io/graphql-markdown/diff) |  |  | Detects GraphQL schema changes so GraphQL-Markdown only regenerates documentati… |
+| 2026-10-21 12:05:25 | [graphql-markdown/helpers](https://jsr.io/graphql-markdown/helpers) |  |  | Helpers for customizing GraphQL-Markdown output, such as directives and custom… |
+| 2026-10-21 12:05:39 | [graphql-markdown/graphql](https://jsr.io/graphql-markdown/graphql) |  |  | GraphQL schema loading, introspection and type utilities for GraphQL-Markdown. |
+| 2026-10-21 12:05:54 | [graphql-markdown/formatters](https://jsr.io/graphql-markdown/formatters) |  |  | Formatter presets for GraphQL-Markdown: Docusaurus, Starlight, Fumadocs, Vocs,… |
+| 2026-10-21 12:06:25 | [graphql-markdown/logger](https://jsr.io/graphql-markdown/logger) |  |  | Logger used by the GraphQL-Markdown packages. |
 
 ## Data source
 

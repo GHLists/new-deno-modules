@@ -1,0 +1,10 @@
+created_at,package,version,score,description
+2026-10-21T12:03:24.01118Z,graphql-markdown/core,,,Core of GraphQL-Markdown: generates Markdown documentation from a GraphQL schema.
+2026-10-21T12:04:14.079371Z,graphql-markdown/types,,,
+2026-10-21T12:04:34.356541Z,graphql-markdown/telemetry,,,"Anonymous, opt-out usage telemetry for the GraphQL-Markdown CLI."
+2026-10-21T12:04:52.300611Z,graphql-markdown/printer-legacy,,,"Default Markdown/MDX printer for GraphQL-Markdown, rendering GraphQL schema types for any supported framework."
+2026-10-21T12:05:10.997002Z,graphql-markdown/diff,,,Detects GraphQL schema changes so GraphQL-Markdown only regenerates documentation that changed.
+2026-10-21T12:05:25.831149Z,graphql-markdown/helpers,,,"Helpers for customizing GraphQL-Markdown output, such as directives and custom rendering."
+2026-10-21T12:05:39.334535Z,graphql-markdown/graphql,,,"GraphQL schema loading, introspection and type utilities for GraphQL-Markdown."
+2026-10-21T12:05:54.766202Z,graphql-markdown/formatters,,,"Formatter presets for GraphQL-Markdown: Docusaurus, Starlight, Fumadocs, Vocs, HonKit, Hugo, MkDocs, DocFX, mdBook and generic MDX."
+2026-10-21T12:06:25.819241Z,graphql-markdown/logger,,,Logger used by the GraphQL-Markdown packages.
