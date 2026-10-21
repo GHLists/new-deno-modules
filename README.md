@@ -13,23 +13,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 12:20 UTC
+## Latest list — 2026-10-21 14:23 UTC
 
-New modules created between 2026-10-21 11:22 UTC and 2026-10-21 12:20 UTC.
+New modules created between 2026-10-21 13:19 UTC and 2026-10-21 14:23 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-21T12-20-47-006195Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-21T14-23-13-667608Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-21 12:03:24 | [graphql-markdown/core](https://jsr.io/graphql-markdown/core) |  |  | Core of GraphQL-Markdown: generates Markdown documentation from a GraphQL schem… |
-| 2026-10-21 12:04:14 | [graphql-markdown/types](https://jsr.io/graphql-markdown/types) |  |  |  |
-| 2026-10-21 12:04:34 | [graphql-markdown/telemetry](https://jsr.io/graphql-markdown/telemetry) |  |  | Anonymous, opt-out usage telemetry for the GraphQL-Markdown CLI. |
-| 2026-10-21 12:04:52 | [graphql-markdown/printer-legacy](https://jsr.io/graphql-markdown/printer-legacy) |  |  | Default Markdown/MDX printer for GraphQL-Markdown, rendering GraphQL schema typ… |
-| 2026-10-21 12:05:10 | [graphql-markdown/diff](https://jsr.io/graphql-markdown/diff) |  |  | Detects GraphQL schema changes so GraphQL-Markdown only regenerates documentati… |
-| 2026-10-21 12:05:25 | [graphql-markdown/helpers](https://jsr.io/graphql-markdown/helpers) |  |  | Helpers for customizing GraphQL-Markdown output, such as directives and custom… |
-| 2026-10-21 12:05:39 | [graphql-markdown/graphql](https://jsr.io/graphql-markdown/graphql) |  |  | GraphQL schema loading, introspection and type utilities for GraphQL-Markdown. |
-| 2026-10-21 12:05:54 | [graphql-markdown/formatters](https://jsr.io/graphql-markdown/formatters) |  |  | Formatter presets for GraphQL-Markdown: Docusaurus, Starlight, Fumadocs, Vocs,… |
-| 2026-10-21 12:06:25 | [graphql-markdown/logger](https://jsr.io/graphql-markdown/logger) |  |  | Logger used by the GraphQL-Markdown packages. |
+| 2026-10-21 13:48:05 | [tab/linets](https://jsr.io/tab/linets) | 3.5.1 | 58 |  |
+| 2026-10-21 13:58:24 | [tab/loose-types](https://jsr.io/tab/loose-types) | 1.0.1 | 76 |  |
+| 2026-10-21 14:00:13 | [tab/linets-types](https://jsr.io/tab/linets-types) | 3.5.0 | 41 |  |
 
 ## Data source
 
