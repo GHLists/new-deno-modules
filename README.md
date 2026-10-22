@@ -13,15 +13,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 22:19 UTC
+## Latest list — 2026-10-22 16:20 UTC
 
-New modules created between 2026-10-21 21:22 UTC and 2026-10-21 22:19 UTC.
+New modules created between 2026-10-22 15:20 UTC and 2026-10-22 16:20 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-21T22-19-46-523822Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-22T16-20-05-839569Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-21 22:13:50 | [kludex/tastapi](https://jsr.io/kludex/tastapi) |  |  |  |
+| 2026-10-22 16:14:40 | [lagomkit/logger](https://jsr.io/lagomkit/logger) |  |  |  |
+| 2026-10-22 16:15:40 | [lagomkit/storage](https://jsr.io/lagomkit/storage) |  |  |  |
 
 ## Data source
 
