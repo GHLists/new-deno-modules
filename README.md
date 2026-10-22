@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 18:19 UTC
+## Latest list — 2026-10-22 19:20 UTC
 
-New modules created between 2026-10-22 17:22 UTC and 2026-10-22 18:19 UTC.
+New modules created between 2026-10-22 18:19 UTC and 2026-10-22 19:20 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-22T18-19-03-281053Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-22T19-20-32-850643Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-22 18:18:01 | [superduperbundle/game-prices](https://jsr.io/superduperbundle/game-prices) |  |  |  |
+| 2026-10-22 18:29:25 | [framebudget/core](https://jsr.io/framebudget/core) |  |  | Keep the effects. Lose the stutter. Decides, per device, which visual effects a… |
 
 ## Data source
 
