@@ -13,16 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 16:20 UTC
+## Latest list — 2026-10-22 17:22 UTC
 
-New modules created between 2026-10-22 15:20 UTC and 2026-10-22 16:20 UTC.
+New modules created between 2026-10-22 16:20 UTC and 2026-10-22 17:22 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-22T16-20-05-839569Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-22T17-22-32-252934Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-22 16:14:40 | [lagomkit/logger](https://jsr.io/lagomkit/logger) |  |  |  |
-| 2026-10-22 16:15:40 | [lagomkit/storage](https://jsr.io/lagomkit/storage) |  |  |  |
+| 2026-10-22 17:13:29 | [techgoose-labs/infra-cli](https://jsr.io/techgoose-labs/infra-cli) |  |  |  |
 
 ## Data source
 
