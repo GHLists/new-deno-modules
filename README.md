@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 19:20 UTC
+## Latest list — 2026-10-23 03:19 UTC
 
-New modules created between 2026-10-22 18:19 UTC and 2026-10-22 19:20 UTC.
+New modules created between 2026-10-23 02:20 UTC and 2026-10-23 03:19 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-22T19-20-32-850643Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-23T03-19-56-309222Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-22 18:29:25 | [framebudget/core](https://jsr.io/framebudget/core) |  |  | Keep the effects. Lose the stutter. Decides, per device, which visual effects a… |
+| 2026-10-23 02:30:26 | [kanchingyg/wsl-shadow](https://jsr.io/kanchingyg/wsl-shadow) |  |  |  |
 
 ## Data source
 
