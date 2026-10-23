@@ -13,19 +13,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 06:22 UTC
+## Latest list — 2026-10-23 10:22 UTC
 
-New modules created between 2026-10-23 05:21 UTC and 2026-10-23 06:22 UTC.
+New modules created between 2026-10-23 09:19 UTC and 2026-10-23 10:22 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-23T06-22-04-669912Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-23T10-22-19-602416Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-23 05:50:12 | [cosys/crypto](https://jsr.io/cosys/crypto) | 0.1.1 | 70 |  |
-| 2026-10-23 05:50:22 | [cosys/record](https://jsr.io/cosys/record) | 0.1.1 | 64 |  |
-| 2026-10-23 05:50:32 | [cosys/peer](https://jsr.io/cosys/peer) | 0.1.1 | 76 |  |
-| 2026-10-23 05:50:41 | [cosys/posts](https://jsr.io/cosys/posts) | 0.1.1 | 64 |  |
-| 2026-10-23 05:51:11 | [cosys/bridge](https://jsr.io/cosys/bridge) | 0.1.1 | 64 |  |
+| 2026-10-23 10:11:34 | [adophilus/dom-review](https://jsr.io/adophilus/dom-review) | 1.0.0 | 23 |  |
+| 2026-10-23 10:22:13 | [secureci/cli](https://jsr.io/secureci/cli) |  |  |  |
 
 ## Data source
 
