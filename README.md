@@ -13,16 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 10:22 UTC
+## Latest list — 2026-10-23 13:20 UTC
 
-New modules created between 2026-10-23 09:19 UTC and 2026-10-23 10:22 UTC.
+New modules created between 2026-10-23 12:20 UTC and 2026-10-23 13:20 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-23T10-22-19-602416Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-23T13-20-20-439027Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-23 10:11:34 | [adophilus/dom-review](https://jsr.io/adophilus/dom-review) | 1.0.0 | 23 |  |
-| 2026-10-23 10:22:13 | [secureci/cli](https://jsr.io/secureci/cli) |  |  |  |
+| 2026-10-23 13:15:48 | [strelit/core](https://jsr.io/strelit/core) | 1.0.0 | 82 |  |
 
 ## Data source
 
