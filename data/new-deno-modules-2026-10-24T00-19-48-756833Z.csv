@@ -1,0 +1,2 @@
+created_at,package,version,score,description
+2026-10-24T00:16:00.430684Z,kanchingyg/exports-shadow,,,"See which file Node, Bun, Deno and Cloudflare Workers actually resolve from a package.json exports map, and catch keys silently shadowed by condition order."
