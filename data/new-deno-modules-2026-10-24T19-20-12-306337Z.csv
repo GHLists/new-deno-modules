@@ -1,0 +1,4 @@
+created_at,package,version,score,description
+2026-10-24T18:59:36.798965Z,panth977/icebase,0.1.1,70,"Firebase's client API with an explicit schema, declared indexes and modes per service (firebase | emulator)."
+2026-10-24T18:59:40.267087Z,panth977/icebase-server,0.1.1,70,"IceBase on the server: admin, typed functions/v2 triggers, and the custom-auth endpoint (own email, WhatsApp, SMS and Google OAuth senders)."
+2026-10-24T18:59:42.515163Z,panth977/icebase-cli,0.1.1,64,"The icebase CLI (init, dev, deploy, indexes check), management APIs and the IceBase emulator server (SQLite)."
