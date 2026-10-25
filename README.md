@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 00:19 UTC
+## Latest list — 2026-10-25 01:20 UTC
 
-New modules created between 2026-10-24 23:21 UTC and 2026-10-25 00:19 UTC.
+New modules created between 2026-10-25 00:19 UTC and 2026-10-25 01:20 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-25T00-19-21-99625Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-25T01-20-07-350029Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-25 00:03:58 | [lucyn/browser](https://jsr.io/lucyn/browser) |  |  |  |
+| 2026-10-25 01:06:41 | [kanchingyg/wrangler-doctor](https://jsr.io/kanchingyg/wrangler-doctor) | 0.1.1 | 76 | Checks Cloudflare Workers configs, D1 migrations, and workerd contracts offline… |
 
 ## Data source
 
