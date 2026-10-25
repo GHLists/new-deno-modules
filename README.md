@@ -13,16 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 02:20 UTC
+## Latest list — 2026-10-25 05:19 UTC
 
-New modules created between 2026-10-25 01:20 UTC and 2026-10-25 02:20 UTC.
+New modules created between 2026-10-25 04:19 UTC and 2026-10-25 05:19 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-25T02-20-47-199677Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-25T05-19-12-843628Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-25 01:52:57 | [mailam/bruno-agentkit](https://jsr.io/mailam/bruno-agentkit) |  |  |  |
-| 2026-10-25 01:53:03 | [mailam/bruno](https://jsr.io/mailam/bruno) |  |  |  |
+| 2026-10-25 05:11:23 | [cffnpwr/textlint-plugin-comments](https://jsr.io/cffnpwr/textlint-plugin-comments) |  |  |  |
 
 ## Data source
 
