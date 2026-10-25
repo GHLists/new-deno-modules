@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 11:20 UTC
+## Latest list — 2026-10-25 21:19 UTC
 
-New modules created between 2026-10-25 10:19 UTC and 2026-10-25 11:20 UTC.
+New modules created between 2026-10-25 20:18 UTC and 2026-10-25 21:19 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-25T11-20-30-848214Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-25T21-19-56-286314Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-25 10:25:33 | [privatus-analytics/analytics](https://jsr.io/privatus-analytics/analytics) | 1.0.0 | 94 | Cookieless Privatus Analytics tag, event attributes and middleware for Deno, Bu… |
+| 2026-10-25 20:23:46 | [kznlabs/labsui](https://jsr.io/kznlabs/labsui) |  |  | Add labsUI React components to your project: primitives you own, with macOS pol… |
 
 ## Data source
 
