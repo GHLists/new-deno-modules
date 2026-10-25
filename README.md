@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 08:21 UTC
+## Latest list — 2026-10-25 10:19 UTC
 
-New modules created between 2026-10-25 07:21 UTC and 2026-10-25 08:21 UTC.
+New modules created between 2026-10-25 09:21 UTC and 2026-10-25 10:19 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-25T08-21-17-466672Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-25T10-19-34-205635Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-25 07:27:16 | [movoa/movoa](https://jsr.io/movoa/movoa) | 0.1.0 | 88 | Official SDK for Movoa (movoa.ai), the AI video generator with sound: text and… |
+| 2026-10-25 10:10:15 | [arelive/ffpr](https://jsr.io/arelive/ffpr) |  |  |  |
 
 ## Data source
 
