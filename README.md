@@ -13,16 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 06:22 UTC
+## Latest list — 2026-10-25 08:21 UTC
 
-New modules created between 2026-10-25 05:19 UTC and 2026-10-25 06:22 UTC.
+New modules created between 2026-10-25 07:21 UTC and 2026-10-25 08:21 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-25T06-22-14-538252Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-25T08-21-17-466672Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-25 06:10:53 | [bearmetal/devtools](https://jsr.io/bearmetal/devtools) | 0.0.1 | 47 |  |
-| 2026-10-25 06:18:33 | [truckleap/reefer-burn](https://jsr.io/truckleap/reefer-burn) |  |  | Reefer unit fuel burn and cost estimates for a trip |
+| 2026-10-25 07:27:16 | [movoa/movoa](https://jsr.io/movoa/movoa) | 0.1.0 | 88 | Official SDK for Movoa (movoa.ai), the AI video generator with sound: text and… |
 
 ## Data source
 
