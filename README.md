@@ -13,17 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 19:20 UTC
+## Latest list — 2026-10-25 00:19 UTC
 
-New modules created between 2026-10-24 18:19 UTC and 2026-10-24 19:20 UTC.
+New modules created between 2026-10-24 23:21 UTC and 2026-10-25 00:19 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-24T19-20-12-306337Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-25T00-19-21-99625Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-24 18:59:36 | [panth977/icebase](https://jsr.io/panth977/icebase) | 0.1.1 | 70 | Firebase's client API with an explicit schema, declared indexes and modes per s… |
-| 2026-10-24 18:59:40 | [panth977/icebase-server](https://jsr.io/panth977/icebase-server) | 0.1.1 | 70 | IceBase on the server: admin, typed functions/v2 triggers, and the custom-auth… |
-| 2026-10-24 18:59:42 | [panth977/icebase-cli](https://jsr.io/panth977/icebase-cli) | 0.1.1 | 64 | The icebase CLI (init, dev, deploy, indexes check), management APIs and the Ice… |
+| 2026-10-25 00:03:58 | [lucyn/browser](https://jsr.io/lucyn/browser) |  |  |  |
 
 ## Data source
 
