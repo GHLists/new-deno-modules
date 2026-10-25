@@ -1,0 +1,2 @@
+created_at,package,version,score,description
+2026-10-25T10:25:33.69743Z,privatus-analytics/analytics,1.0.0,94,"Cookieless Privatus Analytics tag, event attributes and middleware for Deno, Bun, Hono, Oak, Fresh and Workers."
