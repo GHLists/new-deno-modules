@@ -13,17 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 10:21 UTC
+## Latest list — 2026-10-26 12:21 UTC
 
-New modules created between 2026-10-26 09:18 UTC and 2026-10-26 10:21 UTC.
+New modules created between 2026-10-26 11:20 UTC and 2026-10-26 12:21 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-26T10-21-02-765454Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-26T12-21-22-221409Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-26 09:46:07 | [storyshelf/design-figma](https://jsr.io/storyshelf/design-figma) |  |  | Figma design-link provider for StoryShelf: link validation, file metadata and r… |
-| 2026-10-26 09:46:10 | [storyshelf/image](https://jsr.io/storyshelf/image) |  |  | StoryShelf image engine: pixel diffing, overlay rendering and thumbnails on a w… |
-| 2026-10-26 09:46:16 | [storyshelf/notify-git](https://jsr.io/storyshelf/notify-git) |  |  | Git notification providers for StoryShelf: commit statuses and pull-request com… |
+| 2026-10-26 11:44:29 | [dduel/api-client](https://jsr.io/dduel/api-client) | 0.0.1 | 29 |  |
 
 ## Data source
 
