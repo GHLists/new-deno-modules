@@ -1,0 +1,2 @@
+created_at,package,version,score,description
+2026-10-26T01:29:44.283777Z,muhammedanasmithadi/letterpress,0.1.2,100,"Render HTML to PDF through Chromium's own print engine, then repair what Chromium drops. Tagged structure, heading bookmarks, link annotations, and per-page language, all recovered from the document's own bytes. Zero runtime dependencies. Bun only."

@@ -13,18 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 01:21 UTC
+## Latest list — 2026-10-26 02:22 UTC
 
-New modules created between 2026-10-26 00:20 UTC and 2026-10-26 01:21 UTC.
+New modules created between 2026-10-26 01:21 UTC and 2026-10-26 02:22 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-26T01-21-37-760885Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-26T02-22-01-21672Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-26 00:54:59 | [saxby/cli](https://jsr.io/saxby/cli) |  |  |  |
-| 2026-10-26 00:57:35 | [saxby/core](https://jsr.io/saxby/core) |  |  |  |
-| 2026-10-26 00:58:07 | [saxby/llm-router](https://jsr.io/saxby/llm-router) |  |  |  |
-| 2026-10-26 00:58:53 | [saxby/vram-guard-mac](https://jsr.io/saxby/vram-guard-mac) |  |  |  |
+| 2026-10-26 01:29:44 | [muhammedanasmithadi/letterpress](https://jsr.io/muhammedanasmithadi/letterpress) | 0.1.2 | 100 | Render HTML to PDF through Chromium's own print engine, then repair what Chromi… |
 
 ## Data source
 
