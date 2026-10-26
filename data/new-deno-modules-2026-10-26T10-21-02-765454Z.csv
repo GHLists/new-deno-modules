@@ -1,0 +1,4 @@
+created_at,package,version,score,description
+2026-10-26T09:46:07.212706Z,storyshelf/design-figma,,,"Figma design-link provider for StoryShelf: link validation, file metadata and rendered previews."
+2026-10-26T09:46:10.80884Z,storyshelf/image,,,"StoryShelf image engine: pixel diffing, overlay rendering and thumbnails on a worker-thread pool, with pngjs (default) or sharp codecs."
+2026-10-26T09:46:16.855943Z,storyshelf/notify-git,,,Git notification providers for StoryShelf: commit statuses and pull-request comments on GitHub and GitLab.
