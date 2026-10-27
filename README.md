@@ -13,16 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 21:20 UTC
+## Latest list — 2026-10-27 00:19 UTC
 
-New modules created between 2026-10-26 20:20 UTC and 2026-10-26 21:20 UTC.
+New modules created between 2026-10-26 23:19 UTC and 2026-10-27 00:19 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-26T21-20-33-928528Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-27T00-19-12-104091Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-26 20:30:17 | [hidalgo/ui](https://jsr.io/hidalgo/ui) |  |  |  |
-| 2026-10-26 21:05:59 | [magnexis/atelier](https://jsr.io/magnexis/atelier) | 1.1.0 | 52 |  |
+| 2026-10-27 00:18:16 | [denext/auth](https://jsr.io/denext/auth) |  |  | Auth system for Denext |
 
 ## Data source
 
