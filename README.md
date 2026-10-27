@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 08:21 UTC
+## Latest list — 2026-10-27 10:21 UTC
 
-New modules created between 2026-10-27 07:19 UTC and 2026-10-27 08:21 UTC.
+New modules created between 2026-10-27 09:20 UTC and 2026-10-27 10:21 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-27T08-21-29-763535Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-27T10-21-49-390429Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-27 08:12:07 | [paperclip/devin-cli-adapter](https://jsr.io/paperclip/devin-cli-adapter) | 1.0.1 | 58 | │ Paperclip agent adapter that runs the Devin CLI as a local process — hire Dev… |
+| 2026-10-27 10:00:05 | [scriptrunnerhq/script-examples](https://jsr.io/scriptrunnerhq/script-examples) | 0.0.1 | 41 |  |
 
 ## Data source
 
