@@ -13,16 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 13:20 UTC
+## Latest list — 2026-10-27 15:19 UTC
 
-New modules created between 2026-10-27 12:21 UTC and 2026-10-27 13:20 UTC.
+New modules created between 2026-10-27 14:22 UTC and 2026-10-27 15:19 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-27T13-20-57-680419Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-27T15-19-36-180953Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-27 12:46:11 | [zuke/engine](https://jsr.io/zuke/engine) |  |  | The Zuke engine for builds another SDK hosts — runs the worker a zuke.json name… |
-| 2026-10-27 13:03:15 | [volen/volenjs](https://jsr.io/volen/volenjs) |  |  |  |
+| 2026-10-27 14:58:19 | [tundralibs/mail](https://jsr.io/tundralibs/mail) |  |  | Cross-runtime IMAP client and MIME parser (RFC 9051, RFC 5322, RFC 2045-2049, R… |
 
 ## Data source
 

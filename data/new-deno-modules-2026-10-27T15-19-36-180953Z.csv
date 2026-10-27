@@ -1,0 +1,2 @@
+created_at,package,version,score,description
+2026-10-27T14:58:19.188315Z,tundralibs/mail,,,"Cross-runtime IMAP client and MIME parser (RFC 9051, RFC 5322, RFC 2045-2049, RFC 2047, RFC 2231) for Deno, Bun, Node.js and Cloudflare Workers — read a mailbox over TLS, parse raw messages into headers, text, HTML and attachments"
