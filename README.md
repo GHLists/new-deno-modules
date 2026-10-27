@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 15:19 UTC
+## Latest list — 2026-10-27 17:20 UTC
 
-New modules created between 2026-10-27 14:22 UTC and 2026-10-27 15:19 UTC.
+New modules created between 2026-10-27 16:19 UTC and 2026-10-27 17:20 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-27T15-19-36-180953Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-27T17-20-49-839464Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-27 14:58:19 | [tundralibs/mail](https://jsr.io/tundralibs/mail) |  |  | Cross-runtime IMAP client and MIME parser (RFC 9051, RFC 5322, RFC 2045-2049, R… |
+| 2026-10-27 17:15:04 | [amkisko/json-logging](https://jsr.io/amkisko/json-logging) | 0.1.0 | 94 |  |
 
 ## Data source
 
