@@ -13,15 +13,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 10:21 UTC
+## Latest list — 2026-10-27 13:20 UTC
 
-New modules created between 2026-10-27 09:20 UTC and 2026-10-27 10:21 UTC.
+New modules created between 2026-10-27 12:21 UTC and 2026-10-27 13:20 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-27T10-21-49-390429Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-27T13-20-57-680419Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-27 10:00:05 | [scriptrunnerhq/script-examples](https://jsr.io/scriptrunnerhq/script-examples) | 0.0.1 | 41 |  |
+| 2026-10-27 12:46:11 | [zuke/engine](https://jsr.io/zuke/engine) |  |  | The Zuke engine for builds another SDK hosts — runs the worker a zuke.json name… |
+| 2026-10-27 13:03:15 | [volen/volenjs](https://jsr.io/volen/volenjs) |  |  |  |
 
 ## Data source
 
