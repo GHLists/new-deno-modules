@@ -13,18 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 06:20 UTC
+## Latest list — 2026-10-27 08:21 UTC
 
-New modules created between 2026-10-27 05:20 UTC and 2026-10-27 06:20 UTC.
+New modules created between 2026-10-27 07:19 UTC and 2026-10-27 08:21 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-27T06-20-03-712475Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-27T08-21-29-763535Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-27 05:38:14 | [blazediff/codec-png-native](https://jsr.io/blazediff/codec-png-native) | 6.1.0 | 82 |  |
-| 2026-10-27 05:38:24 | [blazediff/codec-png-wasm](https://jsr.io/blazediff/codec-png-wasm) | 6.1.0 | 82 |  |
-| 2026-10-27 05:43:08 | [bctl/libprotocol](https://jsr.io/bctl/libprotocol) | 0.1.0 | 35 |  |
-| 2026-10-27 05:43:20 | [bctl/libexperiment](https://jsr.io/bctl/libexperiment) | 0.1.1 | 52 |  |
+| 2026-10-27 08:12:07 | [paperclip/devin-cli-adapter](https://jsr.io/paperclip/devin-cli-adapter) | 1.0.1 | 58 | │ Paperclip agent adapter that runs the Devin CLI as a local process — hire Dev… |
 
 ## Data source
 

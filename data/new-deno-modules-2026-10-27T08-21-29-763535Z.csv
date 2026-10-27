@@ -1,0 +1,2 @@
+created_at,package,version,score,description
+2026-10-27T08:12:07.402523Z,paperclip/devin-cli-adapter,1.0.1,58,"│ Paperclip agent adapter that runs the Devin CLI as a local process — hire Devin as an agent, with session resume across heartbeats and a structured run transcript."
