@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 12:19 UTC
+## Latest list — 2026-10-28 13:21 UTC
 
-New modules created between 2026-10-28 11:19 UTC and 2026-10-28 12:19 UTC.
+New modules created between 2026-10-28 12:19 UTC and 2026-10-28 13:21 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-28T12-19-34-720622Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-28T13-21-00-869535Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-28 11:36:04 | [coprali/companies](https://jsr.io/coprali/companies) | 2.1.0 | 29 |  |
+| 2026-10-28 12:46:52 | [chee/automerge-subduction](https://jsr.io/chee/automerge-subduction) |  |  |  |
 
 ## Data source
 
