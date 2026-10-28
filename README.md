@@ -13,17 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 08:21 UTC
+## Latest list — 2026-10-28 10:19 UTC
 
-New modules created between 2026-10-28 07:18 UTC and 2026-10-28 08:21 UTC.
+New modules created between 2026-10-28 09:21 UTC and 2026-10-28 10:19 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-28T08-21-17-488067Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-28T10-19-54-19067Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-28 07:39:19 | [mirrordown/mdit-mermaid-pele](https://jsr.io/mirrordown/mdit-mermaid-pele) |  |  | A markdown-it plugin to render mermaid code blocks to inline SVG with Pele, the… |
-| 2026-10-28 07:40:28 | [mirrordown/remd-mermaid-pele](https://jsr.io/mirrordown/remd-mermaid-pele) |  |  | A rehype plugin to render mermaid code blocks to inline SVG with Pele, themed w… |
-| 2026-10-28 07:41:19 | [mirrordown/sat-mermaid-pele](https://jsr.io/mirrordown/sat-mermaid-pele) |  |  | A Sätteri plugin to render mermaid code blocks to inline SVG with Pele, themed… |
+| 2026-10-28 10:01:54 | [novasia-estate/listing-normalizer](https://jsr.io/novasia-estate/listing-normalizer) | 1.0.0 | 100 | Normalize multilingual real estate prices and land areas into explicit currency… |
 
 ## Data source
 

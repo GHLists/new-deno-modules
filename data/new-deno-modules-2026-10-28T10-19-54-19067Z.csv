@@ -1,0 +1,2 @@
+created_at,package,version,score,description
+2026-10-28T10:01:54.015464Z,novasia-estate/listing-normalizer,1.0.0,100,"Normalize multilingual real estate prices and land areas into explicit currency, square metres and price per m². Batch errors, typed ESM and no FX guessing. By NovAsia Estate: https://novasia.estate/"
