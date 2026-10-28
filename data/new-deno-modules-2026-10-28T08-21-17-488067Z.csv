@@ -1,0 +1,4 @@
+created_at,package,version,score,description
+2026-10-28T07:39:19.189574Z,mirrordown/mdit-mermaid-pele,,,"A markdown-it plugin to render mermaid code blocks to inline SVG with Pele, themed with CSS variables."
+2026-10-28T07:40:28.365288Z,mirrordown/remd-mermaid-pele,,,"A rehype plugin to render mermaid code blocks to inline SVG with Pele, themed with CSS variables."
+2026-10-28T07:41:19.05672Z,mirrordown/sat-mermaid-pele,,,"A Sätteri plugin to render mermaid code blocks to inline SVG with Pele, themed with CSS variables."
