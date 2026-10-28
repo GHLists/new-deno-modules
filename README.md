@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 13:21 UTC
+## Latest list — 2026-10-28 15:19 UTC
 
-New modules created between 2026-10-28 12:19 UTC and 2026-10-28 13:21 UTC.
+New modules created between 2026-10-28 14:20 UTC and 2026-10-28 15:19 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-28T13-21-00-869535Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-28T15-19-51-939543Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-28 12:46:52 | [chee/automerge-subduction](https://jsr.io/chee/automerge-subduction) |  |  |  |
+| 2026-10-28 15:01:11 | [dusk/networks](https://jsr.io/dusk/networks) | 0.1.0 | 100 | usk's networks for the Dusk apps: endpoints, contract IDs, bridge routes and la… |
 
 ## Data source
 
