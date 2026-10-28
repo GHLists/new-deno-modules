@@ -1,0 +1,4 @@
+created_at,package,version,score,description
+2026-10-28T23:08:40.116337Z,mirrordown/mdit-tab-icons,,,"A markdown-it plugin to add icons to tab labels: matched from the label, or named with a [!keyword] marker."
+2026-10-28T23:09:03.32158Z,mirrordown/remd-tab-icons,,,"A rehype plugin to add icons to tab labels: matched from the label, or named with a [!keyword] marker."
+2026-10-28T23:09:15.942587Z,mirrordown/sat-tab-icons,,,"A Sätteri plugin to add icons to tab labels: matched from the label, or named with a [!keyword] marker."
