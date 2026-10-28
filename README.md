@@ -13,15 +13,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 15:19 UTC
+## Latest list — 2026-10-28 16:19 UTC
 
-New modules created between 2026-10-28 14:20 UTC and 2026-10-28 15:19 UTC.
+New modules created between 2026-10-28 15:19 UTC and 2026-10-28 16:19 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-28T15-19-51-939543Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-28T16-19-01-774223Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-28 15:01:11 | [dusk/networks](https://jsr.io/dusk/networks) | 0.1.0 | 100 | usk's networks for the Dusk apps: endpoints, contract IDs, bridge routes and la… |
+| 2026-10-28 15:36:41 | [mirrordown/mdit-caption](https://jsr.io/mirrordown/mdit-caption) |  |  | A markdown-it plugin to caption any block with a ~: line after it, wrapping it… |
+| 2026-10-28 15:36:46 | [mirrordown/remd-caption](https://jsr.io/mirrordown/remd-caption) |  |  | A remark plugin to caption any block with a ~: line after it, wrapping it in <f… |
+| 2026-10-28 15:36:51 | [mirrordown/sat-caption](https://jsr.io/mirrordown/sat-caption) |  |  | A Sätteri plugin to caption any block with a ~: line after it, wrapping it in <… |
+| 2026-10-28 16:12:03 | [nuin/msa-canvas](https://jsr.io/nuin/msa-canvas) |  |  |  |
 
 ## Data source
 

@@ -1,0 +1,5 @@
+created_at,package,version,score,description
+2026-10-28T15:36:41.557683Z,mirrordown/mdit-caption,,,"A markdown-it plugin to caption any block with a ~: line after it, wrapping it in <figure> with a <figcaption>."
+2026-10-28T15:36:46.708171Z,mirrordown/remd-caption,,,"A remark plugin to caption any block with a ~: line after it, wrapping it in <figure> with a <figcaption>."
+2026-10-28T15:36:51.026266Z,mirrordown/sat-caption,,,"A Sätteri plugin to caption any block with a ~: line after it, wrapping it in <figure> with a <figcaption>."
+2026-10-28T16:12:03.956645Z,nuin/msa-canvas,,,
