@@ -13,17 +13,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 21:21 UTC
+## Latest list — 2026-10-29 22:21 UTC
 
-New modules created between 2026-10-29 20:22 UTC and 2026-10-29 21:21 UTC.
+New modules created between 2026-10-29 21:21 UTC and 2026-10-29 22:21 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-29T21-21-16-233176Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-29T22-21-41-602273Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-29 20:42:57 | [mxn/core](https://jsr.io/mxn/core) |  |  |  |
-| 2026-10-29 20:45:26 | [baccarat/lotto](https://jsr.io/baccarat/lotto) | 0.1.0 | 47 |  |
-| 2026-10-29 21:18:32 | [falkara/presentation](https://jsr.io/falkara/presentation) |  |  |  |
+| 2026-10-29 22:08:44 | [mxn/cli](https://jsr.io/mxn/cli) |  |  |  |
+| 2026-10-29 22:08:57 | [mxn/compiler](https://jsr.io/mxn/compiler) |  |  |  |
+| 2026-10-29 22:09:12 | [mxn/language-core](https://jsr.io/mxn/language-core) |  |  |  |
+| 2026-10-29 22:09:25 | [mxn/language-server](https://jsr.io/mxn/language-server) |  |  |  |
+| 2026-10-29 22:09:36 | [mxn/renderer-lynx](https://jsr.io/mxn/renderer-lynx) |  |  |  |
 
 ## Data source
 
