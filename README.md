@@ -13,16 +13,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 17:19 UTC
+## Latest list — 2026-10-29 20:22 UTC
 
-New modules created between 2026-10-29 16:20 UTC and 2026-10-29 17:19 UTC.
+New modules created between 2026-10-29 19:19 UTC and 2026-10-29 20:22 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-29T17-19-40-602397Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-29T20-22-13-066695Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-29 16:34:11 | [jondotsoy/ndate](https://jsr.io/jondotsoy/ndate) |  |  |  |
-| 2026-10-29 17:03:10 | [maharshi/libatomic-js](https://jsr.io/maharshi/libatomic-js) | 0.1.1 | 100 | TypeScript port of GCC libatomic binary integer builtins: atomic load, store, e… |
+| 2026-10-29 19:45:35 | [sabrysuleiman/wordpress-seo-theme-auditor](https://jsr.io/sabrysuleiman/wordpress-seo-theme-auditor) |  |  |  |
+| 2026-10-29 19:49:19 | [hdauven/dusk-multicall](https://jsr.io/hdauven/dusk-multicall) |  |  | JavaScript client for Multicall for Dusk. Batches up to 256 contract reads into… |
 
 ## Data source
 
