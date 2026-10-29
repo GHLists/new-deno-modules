@@ -13,16 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 11:20 UTC
+## Latest list — 2026-10-29 14:22 UTC
 
-New modules created between 2026-10-29 10:20 UTC and 2026-10-29 11:20 UTC.
+New modules created between 2026-10-29 13:20 UTC and 2026-10-29 14:22 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-29T11-20-14-209415Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-29T14-22-00-150297Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-29 10:31:16 | [nezumi0627/vylinejs-types](https://jsr.io/nezumi0627/vylinejs-types) |  |  |  |
-| 2026-10-29 10:57:42 | [nezumi0627/vylinejs](https://jsr.io/nezumi0627/vylinejs) |  |  |  |
+| 2026-10-29 14:02:56 | [enfect/oxlint](https://jsr.io/enfect/oxlint) | 0.8.0 | 88 |  |
 
 ## Data source
 
