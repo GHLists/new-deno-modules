@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 00:21 UTC
+## Latest list — 2026-10-29 08:21 UTC
 
-New modules created between 2026-10-28 23:19 UTC and 2026-10-29 00:21 UTC.
+New modules created between 2026-10-29 07:19 UTC and 2026-10-29 08:21 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-29T00-21-17-14162Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-29T08-21-31-902682Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-29 00:01:17 | [nitaking/sequelize-tinker](https://jsr.io/nitaking/sequelize-tinker) | 0.5.0 | 29 |  |
+| 2026-10-29 07:47:15 | [xforge/core](https://jsr.io/xforge/core) |  |  | Core runtime, SDK and dev tools for xforge — a multi-tenant Deno backend with p… |
 
 ## Data source
 
