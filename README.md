@@ -13,17 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 23:19 UTC
+## Latest list — 2026-10-29 00:21 UTC
 
-New modules created between 2026-10-28 22:20 UTC and 2026-10-28 23:19 UTC.
+New modules created between 2026-10-28 23:19 UTC and 2026-10-29 00:21 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-28T23-19-11-54294Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-29T00-21-17-14162Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-28 23:08:40 | [mirrordown/mdit-tab-icons](https://jsr.io/mirrordown/mdit-tab-icons) |  |  | A markdown-it plugin to add icons to tab labels: matched from the label, or nam… |
-| 2026-10-28 23:09:03 | [mirrordown/remd-tab-icons](https://jsr.io/mirrordown/remd-tab-icons) |  |  | A rehype plugin to add icons to tab labels: matched from the label, or named wi… |
-| 2026-10-28 23:09:15 | [mirrordown/sat-tab-icons](https://jsr.io/mirrordown/sat-tab-icons) |  |  | A Sätteri plugin to add icons to tab labels: matched from the label, or named w… |
+| 2026-10-29 00:01:17 | [nitaking/sequelize-tinker](https://jsr.io/nitaking/sequelize-tinker) | 0.5.0 | 29 |  |
 
 ## Data source
 
