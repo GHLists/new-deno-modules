@@ -13,16 +13,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 20:22 UTC
+## Latest list — 2026-10-29 21:21 UTC
 
-New modules created between 2026-10-29 19:19 UTC and 2026-10-29 20:22 UTC.
+New modules created between 2026-10-29 20:22 UTC and 2026-10-29 21:21 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-29T20-22-13-066695Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-29T21-21-16-233176Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-29 19:45:35 | [sabrysuleiman/wordpress-seo-theme-auditor](https://jsr.io/sabrysuleiman/wordpress-seo-theme-auditor) |  |  |  |
-| 2026-10-29 19:49:19 | [hdauven/dusk-multicall](https://jsr.io/hdauven/dusk-multicall) |  |  | JavaScript client for Multicall for Dusk. Batches up to 256 contract reads into… |
+| 2026-10-29 20:42:57 | [mxn/core](https://jsr.io/mxn/core) |  |  |  |
+| 2026-10-29 20:45:26 | [baccarat/lotto](https://jsr.io/baccarat/lotto) | 0.1.0 | 47 |  |
+| 2026-10-29 21:18:32 | [falkara/presentation](https://jsr.io/falkara/presentation) |  |  |  |
 
 ## Data source
 
