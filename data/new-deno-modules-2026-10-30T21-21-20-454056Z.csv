@@ -1,0 +1,2 @@
+created_at,package,version,score,description
+2026-10-30T20:42:43.269677Z,baxyz/folioscope,,,"Flip through your prototypes: a web component that plays the interactive prototype of a .fig, .sketch or .penpot file, baked at build time or in the browser. A player, not a viewer."

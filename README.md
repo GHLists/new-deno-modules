@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 20:21 UTC
+## Latest list — 2026-10-30 21:21 UTC
 
-New modules created between 2026-10-30 19:21 UTC and 2026-10-30 20:21 UTC.
+New modules created between 2026-10-30 20:21 UTC and 2026-10-30 21:21 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-30T20-21-38-89983Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-30T21-21-20-454056Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-30 20:10:57 | [wormblossom/macromania-memoise](https://jsr.io/wormblossom/macromania-memoise) | 0.1.0 | 76 |  |
+| 2026-10-30 20:42:43 | [baxyz/folioscope](https://jsr.io/baxyz/folioscope) |  |  | Flip through your prototypes: a web component that plays the interactive protot… |
 
 ## Data source
 
