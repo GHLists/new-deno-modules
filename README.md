@@ -13,15 +13,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 21:21 UTC
+## Latest list — 2026-10-30 23:21 UTC
 
-New modules created between 2026-10-30 20:21 UTC and 2026-10-30 21:21 UTC.
+New modules created between 2026-10-30 22:19 UTC and 2026-10-30 23:21 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-30T21-21-20-454056Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-30T23-21-40-705313Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-30 20:42:43 | [baxyz/folioscope](https://jsr.io/baxyz/folioscope) |  |  | Flip through your prototypes: a web component that plays the interactive protot… |
+| 2026-10-30 22:22:45 | [thecavillgroup/canva-textmetrics](https://jsr.io/thecavillgroup/canva-textmetrics) | 0.2.0 | 82 |  |
+| 2026-10-30 22:32:11 | [neonbyte/tui](https://jsr.io/neonbyte/tui) | 1.0.0 | 100 | Inline terminal UI library for Deno, Node and Bun that keeps your scrollback. |
 
 ## Data source
 
