@@ -13,17 +13,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 23:22 UTC
+## Latest list — 2026-10-30 07:21 UTC
 
-New modules created between 2026-10-29 22:21 UTC and 2026-10-29 23:22 UTC.
+New modules created between 2026-10-30 06:21 UTC and 2026-10-30 07:21 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-29T23-22-06-094371Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-30T07-21-59-28296Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-29 22:40:11 | [mxn/renderer-web](https://jsr.io/mxn/renderer-web) | 0.0.4 | 58 |  |
-| 2026-10-29 22:40:23 | [mxn/ui](https://jsr.io/mxn/ui) | 0.0.4 | 29 |  |
-| 2026-10-29 22:40:31 | [mxn/vite](https://jsr.io/mxn/vite) | 0.0.4 | 58 |  |
+| 2026-10-30 06:51:56 | [mattfor/emoji-mixer](https://jsr.io/mattfor/emoji-mixer) | 2.2.0 | 58 |  |
+| 2026-10-30 07:08:00 | [onemira/c1](https://jsr.io/onemira/c1) | 1.0.3 | 94 | OneMira C1: Best AI Voice Recorder Without Subscription (2026) — $99 One-Time,… |
 
 ## Data source
 
