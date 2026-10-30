@@ -1,0 +1,2 @@
+created_at,package,version,score,description
+2026-10-30T08:30:50.295818Z,jayobado/js-schema,0.2.1,100,"One definition for validation and SQL: a Standard Schema validator whose tables generate DDL and snapshot migrations for PostgreSQL, MySQL and SQLite. Zero dependencies."
