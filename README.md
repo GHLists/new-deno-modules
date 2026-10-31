@@ -13,18 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 13:19 UTC
+## Latest list — 2026-10-31 14:20 UTC
 
-New modules created between 2026-10-31 12:18 UTC and 2026-10-31 13:19 UTC.
+New modules created between 2026-10-31 13:19 UTC and 2026-10-31 14:20 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-31T13-19-46-503273Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-31T14-20-09-166672Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-31 12:34:31 | [fitv/fitv](https://jsr.io/fitv/fitv) |  |  |  |
-| 2026-10-31 12:35:19 | [fitv/freeimagetovideo](https://jsr.io/fitv/freeimagetovideo) | 0.1.0 | 64 |  |
-| 2026-10-31 12:37:42 | [leonidalekseev/git-repo-cleaner](https://jsr.io/leonidalekseev/git-repo-cleaner) | 0.1.0 | 100 | Interactive CLI that removes AI-assistant artifacts (Claude Code, Cursor, Copil… |
-| 2026-10-31 12:49:09 | [g9wp/dom-utils](https://jsr.io/g9wp/dom-utils) | 0.1.0 | 94 |  |
+| 2026-10-31 13:39:01 | [substantial/substantial](https://jsr.io/substantial/substantial) |  |  |  |
 
 ## Data source
 
