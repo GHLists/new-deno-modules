@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 20:19 UTC
+## Latest list — 2026-10-31 21:21 UTC
 
-New modules created between 2026-10-31 19:20 UTC and 2026-10-31 20:19 UTC.
+New modules created between 2026-10-31 20:19 UTC and 2026-10-31 21:21 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-31T20-19-23-879003Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-31T21-21-20-372843Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-31 20:04:54 | [lechcher/gflow-cli](https://jsr.io/lechcher/gflow-cli) |  |  |  |
+| 2026-10-31 20:36:44 | [glowcap/relay](https://jsr.io/glowcap/relay) |  |  |  |
 
 ## Data source
 
