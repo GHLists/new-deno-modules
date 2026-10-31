@@ -1,0 +1,5 @@
+created_at,package,version,score,description
+2026-10-31T12:34:31.792577Z,fitv/fitv,,,
+2026-10-31T12:35:19.47945Z,fitv/freeimagetovideo,0.1.0,64,
+2026-10-31T12:37:42.347794Z,leonidalekseev/git-repo-cleaner,0.1.0,100,"Interactive CLI that removes AI-assistant artifacts (Claude Code, Cursor, Copilot, AGENTS.md…) from git history: files, trailers, bot authors."
+2026-10-31T12:49:09.126986Z,g9wp/dom-utils,0.1.0,94,

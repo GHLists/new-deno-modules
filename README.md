@@ -13,22 +13,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 04:19 UTC
+## Latest list — 2026-10-31 13:19 UTC
 
-New modules created between 2026-10-31 03:18 UTC and 2026-10-31 04:19 UTC.
+New modules created between 2026-10-31 12:18 UTC and 2026-10-31 13:19 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-31T04-19-29-983611Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-31T13-19-46-503273Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-31 03:48:19 | [glowcap/abi](https://jsr.io/glowcap/abi) |  |  |  |
-| 2026-10-31 03:49:29 | [glowcap/runtime](https://jsr.io/glowcap/runtime) |  |  |  |
-| 2026-10-31 03:49:57 | [glowcap/tcp](https://jsr.io/glowcap/tcp) |  |  |  |
-| 2026-10-31 03:50:24 | [glowcap/iroh](https://jsr.io/glowcap/iroh) |  |  |  |
-| 2026-10-31 03:50:50 | [glowcap/inproc](https://jsr.io/glowcap/inproc) |  |  |  |
-| 2026-10-31 03:51:28 | [glowcap/onion](https://jsr.io/glowcap/onion) |  |  |  |
-| 2026-10-31 03:51:53 | [glowcap/web](https://jsr.io/glowcap/web) |  |  |  |
-| 2026-10-31 03:52:14 | [glowcap/webrtc](https://jsr.io/glowcap/webrtc) |  |  |  |
+| 2026-10-31 12:34:31 | [fitv/fitv](https://jsr.io/fitv/fitv) |  |  |  |
+| 2026-10-31 12:35:19 | [fitv/freeimagetovideo](https://jsr.io/fitv/freeimagetovideo) | 0.1.0 | 64 |  |
+| 2026-10-31 12:37:42 | [leonidalekseev/git-repo-cleaner](https://jsr.io/leonidalekseev/git-repo-cleaner) | 0.1.0 | 100 | Interactive CLI that removes AI-assistant artifacts (Claude Code, Cursor, Copil… |
+| 2026-10-31 12:49:09 | [g9wp/dom-utils](https://jsr.io/g9wp/dom-utils) | 0.1.0 | 94 |  |
 
 ## Data source
 
