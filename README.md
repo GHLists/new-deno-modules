@@ -13,16 +13,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 23:21 UTC
+## Latest list — 2026-10-31 04:19 UTC
 
-New modules created between 2026-10-30 22:19 UTC and 2026-10-30 23:21 UTC.
+New modules created between 2026-10-31 03:18 UTC and 2026-10-31 04:19 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-30T23-21-40-705313Z.csv)
+[Full CSV](data/new-deno-modules-2026-10-31T04-19-29-983611Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-30 22:22:45 | [thecavillgroup/canva-textmetrics](https://jsr.io/thecavillgroup/canva-textmetrics) | 0.2.0 | 82 |  |
-| 2026-10-30 22:32:11 | [neonbyte/tui](https://jsr.io/neonbyte/tui) | 1.0.0 | 100 | Inline terminal UI library for Deno, Node and Bun that keeps your scrollback. |
+| 2026-10-31 03:48:19 | [glowcap/abi](https://jsr.io/glowcap/abi) |  |  |  |
+| 2026-10-31 03:49:29 | [glowcap/runtime](https://jsr.io/glowcap/runtime) |  |  |  |
+| 2026-10-31 03:49:57 | [glowcap/tcp](https://jsr.io/glowcap/tcp) |  |  |  |
+| 2026-10-31 03:50:24 | [glowcap/iroh](https://jsr.io/glowcap/iroh) |  |  |  |
+| 2026-10-31 03:50:50 | [glowcap/inproc](https://jsr.io/glowcap/inproc) |  |  |  |
+| 2026-10-31 03:51:28 | [glowcap/onion](https://jsr.io/glowcap/onion) |  |  |  |
+| 2026-10-31 03:51:53 | [glowcap/web](https://jsr.io/glowcap/web) |  |  |  |
+| 2026-10-31 03:52:14 | [glowcap/webrtc](https://jsr.io/glowcap/webrtc) |  |  |  |
 
 ## Data source
 
