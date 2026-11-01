@@ -1,0 +1,10 @@
+created_at,package,version,score,description
+2026-11-01T20:24:14.339115Z,node-jhora/analytics,,,"Shadbala, Ashtakavarga, yoga detection and KP significators for the node-jhora Vedic astrology engine."
+2026-11-01T20:24:16.675171Z,node-jhora/api,,,Fastify REST API server exposing the node-jhora Vedic astrology engine as JSON endpoints.
+2026-11-01T20:24:19.050434Z,node-jhora/atlas,,,Offline GeoNames city gazetteer with multilingual prefix search and browser-safe lookup for node-jhora.
+2026-11-01T20:24:20.562279Z,node-jhora/engine,,,"Lazy, memoised ChartSession facade over node-jhora core, analytics and prediction for servers, browsers and Web Workers."
+2026-11-01T20:24:22.385171Z,node-jhora/events,,,"Exact sign ingresses, stations and custom astronomical events for the node-jhora Vedic astrology engine."
+2026-11-01T20:24:23.797426Z,node-jhora/format,,,"Versioned .njh chart file format for node-jhora: Zod validation, JSON Schema, migrations and lossless serialization."
+2026-11-01T20:24:25.636984Z,node-jhora/match,,,"Vedic marriage compatibility: Ashta Kuta (36 points), Dasha Kuta (10 Poruthams) and Mangal Dosha for node-jhora."
+2026-11-01T20:24:27.366401Z,node-jhora/prediction,,,"Vimshottari, Yogini, Narayana and Chara dashas, transit scanning and Jaimini tools for node-jhora."
+2026-11-01T20:24:28.788855Z,node-jhora/reporting,,,"PDF birth chart reports (positions, houses, Shadbala, yogas, chart diagrams) for node-jhora."
