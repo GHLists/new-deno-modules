@@ -13,15 +13,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 21:21 UTC
+## Latest list — 2026-11-01 00:20 UTC
 
-New modules created between 2026-10-31 20:19 UTC and 2026-10-31 21:21 UTC.
+New modules created between 2026-10-31 23:20 UTC and 2026-11-01 00:20 UTC.
 
-[Full CSV](data/new-deno-modules-2026-10-31T21-21-20-372843Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-01T00-20-29-854894Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-10-31 20:36:44 | [glowcap/relay](https://jsr.io/glowcap/relay) |  |  |  |
+| 2026-11-01 00:09:25 | [baxyz/mozlz4](https://jsr.io/baxyz/mozlz4) |  |  | Encode and decode Mozilla's mozLz40 format (LZ4 variant used by Firefox and Zen… |
+| 2026-11-01 00:09:40 | [baxyz/sqlite-reader](https://jsr.io/baxyz/sqlite-reader) |  |  | Read-only SQLite3 binary parser: extract rows from a table given a raw file buf… |
+| 2026-11-01 00:13:43 | [arbyachat/arbya-chat](https://jsr.io/arbyachat/arbya-chat) |  |  | Official TypeScript & JavaScript SDK for Arbya Chat (عربية شات - https://arbya.… |
 
 ## Data source
 
