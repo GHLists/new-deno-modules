@@ -13,16 +13,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 05:20 UTC
+## Latest list — 2026-11-01 17:19 UTC
 
-New modules created between 2026-11-01 04:18 UTC and 2026-11-01 05:20 UTC.
+New modules created between 2026-11-01 16:18 UTC and 2026-11-01 17:19 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-01T05-20-42-200328Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-01T17-19-42-246861Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-01 04:27:17 | [kavel/emaki](https://jsr.io/kavel/emaki) | 0.1.0 | 82 |  |
-| 2026-11-01 04:27:46 | [fitv/emaki](https://jsr.io/fitv/emaki) |  |  |  |
+| 2026-11-01 17:07:52 | [pjamroziak/cookidoo-api](https://jsr.io/pjamroziak/cookidoo-api) |  |  |  |
+| 2026-11-01 17:11:55 | [dduel/cron](https://jsr.io/dduel/cron) | 0.0.1 | 29 |  |
 
 ## Data source
 
