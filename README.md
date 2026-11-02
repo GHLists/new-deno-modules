@@ -13,15 +13,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 15:20 UTC
+## Latest list — 2026-11-02 21:18 UTC
 
-New modules created between 2026-11-02 14:19 UTC and 2026-11-02 15:20 UTC.
+New modules created between 2026-11-02 20:21 UTC and 2026-11-02 21:18 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-02T15-20-31-066396Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-02T21-18-51-064779Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-02 15:16:54 | [ikigai/deno](https://jsr.io/ikigai/deno) |  |  |  |
+| 2026-11-02 20:31:30 | [mirrordown/mdit-prompt](https://jsr.io/mirrordown/mdit-prompt) |  |  | A markdown-it plugin to render prompt code fences as AI prompts readers can cop… |
+| 2026-11-02 20:31:35 | [mirrordown/remd-prompt](https://jsr.io/mirrordown/remd-prompt) |  |  | A rehype plugin to render prompt code fences as AI prompts readers can copy or… |
+| 2026-11-02 20:31:39 | [mirrordown/sat-prompt](https://jsr.io/mirrordown/sat-prompt) |  |  | A Sätteri plugin to render prompt code fences as AI prompts readers can copy or… |
 
 ## Data source
 

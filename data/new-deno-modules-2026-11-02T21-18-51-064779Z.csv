@@ -1,0 +1,4 @@
+created_at,package,version,score,description
+2026-11-02T20:31:30.447702Z,mirrordown/mdit-prompt,,,"A markdown-it plugin to render prompt code fences as AI prompts readers can copy or open in Claude, ChatGPT and other services, collapsed by default, that read as plain text where the plugin is not installed."
+2026-11-02T20:31:35.595575Z,mirrordown/remd-prompt,,,"A rehype plugin to render prompt code fences as AI prompts readers can copy or open in Claude, ChatGPT and other services, collapsed by default, that read as plain text where the plugin is not installed."
+2026-11-02T20:31:39.703889Z,mirrordown/sat-prompt,,,"A Sätteri plugin to render prompt code fences as AI prompts readers can copy or open in Claude, ChatGPT and other services, collapsed by default, that read as plain text where the plugin is not installed."
