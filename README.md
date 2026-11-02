@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 08:20 UTC
+## Latest list — 2026-11-02 10:22 UTC
 
-New modules created between 2026-11-02 07:21 UTC and 2026-11-02 08:20 UTC.
+New modules created between 2026-11-02 09:19 UTC and 2026-11-02 10:22 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-02T08-20-45-986603Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-02T10-22-15-255806Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-02 08:08:27 | [yumekiseki/sdk](https://jsr.io/yumekiseki/sdk) |  |  |  |
+| 2026-11-02 09:23:55 | [clack120/laftel](https://jsr.io/clack120/laftel) |  |  | 비공식 라프텔 TypeScript SDK |
 
 ## Data source
 
