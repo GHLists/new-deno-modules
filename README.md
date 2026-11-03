@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 14:19 UTC
+## Latest list — 2026-11-03 22:20 UTC
 
-New modules created between 2026-11-03 13:20 UTC and 2026-11-03 14:19 UTC.
+New modules created between 2026-11-03 21:21 UTC and 2026-11-03 22:20 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-03T14-19-39-112839Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-03T22-20-02-878644Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-03 13:52:04 | [whitebox/react](https://jsr.io/whitebox/react) |  |  | React renderer for whitebox |
+| 2026-11-03 21:49:31 | [picomcp/picomcp](https://jsr.io/picomcp/picomcp) | 0.1.0 | 82 | MCP servers, at pico scale. A 4 kB, zero-dependency TypeScript framework for Mo… |
 
 ## Data source
 
