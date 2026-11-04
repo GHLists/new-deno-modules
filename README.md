@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 02:19 UTC
+## Latest list — 2026-11-04 12:20 UTC
 
-New modules created between 2026-11-04 01:20 UTC and 2026-11-04 02:19 UTC.
+New modules created between 2026-11-04 10:22 UTC and 2026-11-04 12:20 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-04T02-19-47-211717Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-04T12-20-02-985932Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-04 01:59:02 | [cplieger/ui](https://jsr.io/cplieger/ui) |  |  | Framework-free TypeScript browser UIs: signals, accessible widgets, typed reque… |
+| 2026-11-04 12:06:08 | [yananlee/wordcloud-art-svg](https://jsr.io/yananlee/wordcloud-art-svg) | 0.1.0 | 82 |  |
 
 ## Data source
 
