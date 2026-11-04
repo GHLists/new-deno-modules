@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 14:20 UTC
+## Latest list — 2026-11-04 16:19 UTC
 
-New modules created between 2026-11-04 13:19 UTC and 2026-11-04 14:20 UTC.
+New modules created between 2026-11-04 15:18 UTC and 2026-11-04 16:19 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-04T14-20-21-735744Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-04T16-19-57-445881Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-04 13:59:25 | [spy4x/preact-server](https://jsr.io/spy4x/preact-server) |  |  |  |
+| 2026-11-04 16:09:09 | [wingerlang/sweden-open-data](https://jsr.io/wingerlang/sweden-open-data) | 0.15.0 | 82 |  |
 
 ## Data source
 
