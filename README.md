@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 22:20 UTC
+## Latest list — 2026-11-04 02:19 UTC
 
-New modules created between 2026-11-03 21:21 UTC and 2026-11-03 22:20 UTC.
+New modules created between 2026-11-04 01:20 UTC and 2026-11-04 02:19 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-03T22-20-02-878644Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-04T02-19-47-211717Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-03 21:49:31 | [picomcp/picomcp](https://jsr.io/picomcp/picomcp) | 0.1.0 | 82 | MCP servers, at pico scale. A 4 kB, zero-dependency TypeScript framework for Mo… |
+| 2026-11-04 01:59:02 | [cplieger/ui](https://jsr.io/cplieger/ui) |  |  | Framework-free TypeScript browser UIs: signals, accessible widgets, typed reque… |
 
 ## Data source
 
