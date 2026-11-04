@@ -1,0 +1,3 @@
+created_at,package,version,score,description
+2026-11-04T16:26:45.72557Z,kjanat/beepboop,0.0.0,100,Authenticated CLI for Beepboop release automation
+2026-11-04T16:41:06.007751Z,canac/login-agent,0.1.0,100,Browser credential autofill for agents
