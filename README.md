@@ -13,16 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 00:20 UTC
+## Latest list — 2026-11-05 02:21 UTC
 
-New modules created between 2026-11-04 23:20 UTC and 2026-11-05 00:20 UTC.
+New modules created between 2026-11-05 01:19 UTC and 2026-11-05 02:21 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-05T00-20-29-949975Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-05T02-21-40-547158Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-04 23:31:57 | [monic/monic](https://jsr.io/monic/monic) |  |  |  |
-| 2026-11-04 23:32:10 | [monic-sh/monic](https://jsr.io/monic-sh/monic) |  |  |  |
+| 2026-11-05 01:39:58 | [intandem/govcon-mcp](https://jsr.io/intandem/govcon-mcp) | 1.2.2 | 70 | Government Contracting MCP with thousands of definitions, codes, etc. Published… |
 
 ## Data source
 
