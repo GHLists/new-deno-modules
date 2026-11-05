@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 15:21 UTC
+## Latest list — 2026-11-05 19:19 UTC
 
-New modules created between 2026-11-05 14:20 UTC and 2026-11-05 15:21 UTC.
+New modules created between 2026-11-05 18:20 UTC and 2026-11-05 19:19 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-05T15-21-22-964207Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-05T19-19-28-540343Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-05 15:14:13 | [fractionroyalty/fraction-royalty-calc](https://jsr.io/fractionroyalty/fraction-royalty-calc) | 1.0.0 | 76 |  |
+| 2026-11-05 18:22:35 | [usagerail/node](https://jsr.io/usagerail/node) | 0.1.2 | 17 |  |
 
 ## Data source
 
