@@ -13,16 +13,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 17:19 UTC
+## Latest list — 2026-11-05 00:20 UTC
 
-New modules created between 2026-11-04 16:19 UTC and 2026-11-04 17:19 UTC.
+New modules created between 2026-11-04 23:20 UTC and 2026-11-05 00:20 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-04T17-19-47-993091Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-05T00-20-29-949975Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-04 16:26:45 | [kjanat/beepboop](https://jsr.io/kjanat/beepboop) | 0.0.0 | 100 | Authenticated CLI for Beepboop release automation |
-| 2026-11-04 16:41:06 | [canac/login-agent](https://jsr.io/canac/login-agent) | 0.1.0 | 100 | Browser credential autofill for agents |
+| 2026-11-04 23:31:57 | [monic/monic](https://jsr.io/monic/monic) |  |  |  |
+| 2026-11-04 23:32:10 | [monic-sh/monic](https://jsr.io/monic-sh/monic) |  |  |  |
 
 ## Data source
 
