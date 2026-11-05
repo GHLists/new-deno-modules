@@ -13,15 +13,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 02:21 UTC
+## Latest list — 2026-11-05 10:20 UTC
 
-New modules created between 2026-11-05 01:19 UTC and 2026-11-05 02:21 UTC.
+New modules created between 2026-11-05 09:20 UTC and 2026-11-05 10:20 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-05T02-21-40-547158Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-05T10-20-28-91293Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-05 01:39:58 | [intandem/govcon-mcp](https://jsr.io/intandem/govcon-mcp) | 1.2.2 | 70 | Government Contracting MCP with thousands of definitions, codes, etc. Published… |
+| 2026-11-05 10:02:13 | [swarmfu/connect-protocol](https://jsr.io/swarmfu/connect-protocol) | 0.1.1 | 58 |  |
+| 2026-11-05 10:02:16 | [corsin/core](https://jsr.io/corsin/core) |  |  |  |
+| 2026-11-05 10:11:03 | [postext/postext](https://jsr.io/postext/postext) |  |  |  |
+| 2026-11-05 10:13:39 | [postext/bundle](https://jsr.io/postext/bundle) |  |  |  |
+| 2026-11-05 10:14:33 | [postext/pdf](https://jsr.io/postext/pdf) |  |  |  |
+| 2026-11-05 10:15:04 | [postext/epub](https://jsr.io/postext/epub) |  |  |  |
+| 2026-11-05 10:15:39 | [postext/citeproc](https://jsr.io/postext/citeproc) |  |  |  |
+| 2026-11-05 10:16:05 | [postext/scorm](https://jsr.io/postext/scorm) |  |  |  |
 
 ## Data source
 
