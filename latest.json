@@ -1,14 +1,14 @@
 {
   "baseline": {
-    "count": 23030,
+    "count": 23031,
     "path": "data/deno-modules-baseline.txt.lzma"
   },
   "list": {
     "count": 1,
-    "from": "2026-11-05T10:20:28.91293Z",
-    "path": "data/new-deno-modules-2026-11-05T11-21-57-242605Z.csv",
-    "to": "2026-11-05T11:21:57.242605Z"
+    "from": "2026-11-05T14:20:03.690752Z",
+    "path": "data/new-deno-modules-2026-11-05T15-21-22-964207Z.csv",
+    "to": "2026-11-05T15:21:22.964207Z"
   },
   "source_truncated": false,
-  "window": "2026-11-05T14:20:03.690752Z"
+  "window": "2026-11-05T15:21:22.964207Z"
 }

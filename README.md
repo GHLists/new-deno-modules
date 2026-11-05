@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 11:21 UTC
+## Latest list — 2026-11-05 15:21 UTC
 
-New modules created between 2026-11-05 10:20 UTC and 2026-11-05 11:21 UTC.
+New modules created between 2026-11-05 14:20 UTC and 2026-11-05 15:21 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-05T11-21-57-242605Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-05T15-21-22-964207Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-05 10:32:46 | [libmorpheus/data](https://jsr.io/libmorpheus/data) | 0.1.0 | 76 | Acquisition tool for the pinned Morpheus stem datasets used by libmorpheus, wit… |
+| 2026-11-05 15:14:13 | [fractionroyalty/fraction-royalty-calc](https://jsr.io/fractionroyalty/fraction-royalty-calc) | 1.0.0 | 76 |  |
 
 ## Data source
 
