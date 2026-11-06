@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 00:20 UTC
+## Latest list — 2026-11-06 02:19 UTC
 
-New modules created between 2026-11-05 23:19 UTC and 2026-11-06 00:20 UTC.
+New modules created between 2026-11-06 01:18 UTC and 2026-11-06 02:19 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-06T00-20-28-317012Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-06T02-19-46-523634Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-05 23:57:05 | [hazre/forges-mcp](https://jsr.io/hazre/forges-mcp) |  |  |  |
+| 2026-11-06 01:56:17 | [graver/tmstn-core](https://jsr.io/graver/tmstn-core) | 1.0.0 | 94 | Reference implementation of the .tmstn filetype (totally maintainable story tel… |
 
 ## Data source
 
