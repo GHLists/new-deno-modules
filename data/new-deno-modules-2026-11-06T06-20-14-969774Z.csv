@@ -1,0 +1,4 @@
+created_at,package,version,score,description
+2026-11-06T05:42:30.240473Z,helocore/sprite,,,
+2026-11-06T05:52:56.539164Z,helocore/switch,1.0.1,100,"Programmatic client for the Aethra Switch signed REST API — call Helocore egress-savings routing from any AI coding agent, worker, or backend with zero dependencies."
+2026-11-06T05:59:54.63418Z,leonidalekseev/domains-checker,,,
