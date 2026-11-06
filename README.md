@@ -13,15 +13,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 09:22 UTC
+## Latest list — 2026-11-06 14:21 UTC
 
-New modules created between 2026-11-06 08:21 UTC and 2026-11-06 09:22 UTC.
+New modules created between 2026-11-06 13:21 UTC and 2026-11-06 14:21 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-06T09-22-18-220649Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-06T14-21-30-012382Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-06 08:57:27 | [artberri/diod](https://jsr.io/artberri/diod) | 4.0.0 | 100 | A very opinionated and lightweight inversion of control container and dependenc… |
+| 2026-11-06 14:00:07 | [browser-grpc/grpc-dc](https://jsr.io/browser-grpc/grpc-dc) | 0.38.0 | 29 |  |
+| 2026-11-06 14:00:48 | [browser-grpc/kafka-grpc](https://jsr.io/browser-grpc/kafka-grpc) | 0.38.0 | 5 |  |
 
 ## Data source
 
