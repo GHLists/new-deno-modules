@@ -1,0 +1,2 @@
+created_at,package,version,score,description
+2026-11-06T08:57:27.914388Z,artberri/diod,4.0.0,100,A very opinionated and lightweight inversion of control container and dependency injector for Node.js or browser apps. It is available for vanilla Javascript usage but its true power will be shown by building Typescript apps.

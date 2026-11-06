@@ -13,17 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 06:20 UTC
+## Latest list — 2026-11-06 09:22 UTC
 
-New modules created between 2026-11-06 05:19 UTC and 2026-11-06 06:20 UTC.
+New modules created between 2026-11-06 08:21 UTC and 2026-11-06 09:22 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-06T06-20-14-969774Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-06T09-22-18-220649Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-06 05:42:30 | [helocore/sprite](https://jsr.io/helocore/sprite) |  |  |  |
-| 2026-11-06 05:52:56 | [helocore/switch](https://jsr.io/helocore/switch) | 1.0.1 | 100 | Programmatic client for the Aethra Switch signed REST API — call Helocore egres… |
-| 2026-11-06 05:59:54 | [leonidalekseev/domains-checker](https://jsr.io/leonidalekseev/domains-checker) |  |  |  |
+| 2026-11-06 08:57:27 | [artberri/diod](https://jsr.io/artberri/diod) | 4.0.0 | 100 | A very opinionated and lightweight inversion of control container and dependenc… |
 
 ## Data source
 
