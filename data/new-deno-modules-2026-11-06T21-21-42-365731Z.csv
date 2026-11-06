@@ -1,0 +1,17 @@
+created_at,package,version,score,description
+2026-11-06T21:09:30.175033Z,yaks/anthropic,0.2.30,100,"Implements the model interface over Anthropic's Messages API, spoken over fetch: streamed text, tool use, automatic prompt caching and cancellation, with usage that names what the cache read and wrote."
+2026-11-06T21:09:34.087985Z,yaks/benchmark,0.2.30,70,"Named workloads, raw samples, JSON runs and explicit baseline ratchets, with process-configured reporters."
+2026-11-06T21:09:37.071162Z,yaks/cloudflare-mail,0.2.30,100,Cloudflare Email Sending and Email Routing at the portable mail boundary.
+2026-11-06T21:09:40.308139Z,yaks/diagram,0.2.30,100,"Draws the entities a query selects, and the references between them, as SVG: a pure layout that keeps each entity's place as the graph changes, the markup, and a mount that follows a graph."
+2026-11-06T21:09:43.26084Z,yaks/extension,0.2.30,100,"A browser extension that lends a person's tab to their agent: reading and acting on the page with per-site consent, a Do it before any step that sends, buys, posts or deletes, and an unpacked Chrome extension built from a configuration."
+2026-11-06T21:09:45.968955Z,yaks/logic,0.2.30,100,"A relational runtime in the miniKanren manner: unification over lists and objects, constraints deferred until their variables are bound, relations with facts, and effects kept as data and performed by a separate pass."
+2026-11-06T21:09:48.850856Z,yaks/phone,0.2.30,94,"Phone numbers, provider selection, consent, texts and delivery outcomes in the graph, through a provider supplied at the transport boundary."
+2026-11-06T21:09:52.456255Z,yaks/pinnacle,0.2.30,64,Pinnacle texting transport and authenticated webhook events for @yaks/phone.
+2026-11-06T21:09:55.170309Z,yaks/resend,0.2.30,94,"Resend sending, signed webhook receipts and incoming messages at the portable mail boundary."
+2026-11-06T21:09:58.704293Z,yaks/speech,0.2.30,94,"Speech to text, text to speech and speech to speech, each provider given as data: Deepgram and OpenAI, their endpoints, models, voices and prices."
+2026-11-06T21:10:03.708625Z,yaks/stage,0.2.30,94,"Three.js scenes, effects, instancing, orbit cameras, picking and positional sound over caller-supplied values."
+2026-11-06T21:10:07.22103Z,yaks/stripe,0.2.30,94,"Stripe's API over fetch, and the plans, shops and signed webhook doors it lends a host as a payment provider."
+2026-11-06T21:10:09.899376Z,yaks/telnyx,0.2.30,88,"Telnyx texting, calls and verified webhook events for @yaks/phone."
+2026-11-06T21:10:13.457511Z,yaks/testing,0.2.30,94,"Declare tests, check their results, and run test modules and examples in one runtime. The runner skips files whose dependencies have not changed since they passed."
+2026-11-06T21:10:17.67858Z,yaks/voipms,0.2.30,88,"voip.ms texting transport, account numbers and inbound callbacks for @yaks/phone."
+2026-11-06T21:10:25.448184Z,yaks/voxel,0.2.30,100,"Worker-safe voxel geometry, baked lamp light, chunk detail and heightfield charts, with Three.js materials and box rigs at /three."
