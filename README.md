@@ -13,16 +13,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 23:20 UTC
+## Latest list — 2026-11-07 09:19 UTC
 
-New modules created between 2026-11-06 22:21 UTC and 2026-11-06 23:20 UTC.
+New modules created between 2026-11-07 08:20 UTC and 2026-11-07 09:19 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-06T23-20-26-11598Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-07T09-19-04-141639Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-06 22:48:40 | [wormblossom/macromania-counters](https://jsr.io/wormblossom/macromania-counters) | 0.1.0 | 82 |  |
-| 2026-11-06 23:05:56 | [3inch-ai/system1ts](https://jsr.io/3inch-ai/system1ts) | 0.1.0 | 52 |  |
+| 2026-11-07 08:28:40 | [remix-kbn/dragology](https://jsr.io/remix-kbn/dragology) |  |  |  |
+| 2026-11-07 09:02:24 | [sovio-id/credo-openbao-kms](https://jsr.io/sovio-id/credo-openbao-kms) |  |  |  |
 
 ## Data source
 
