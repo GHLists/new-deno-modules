@@ -13,16 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 16:19 UTC
+## Latest list — 2026-11-08 18:20 UTC
 
-New modules created between 2026-11-08 15:19 UTC and 2026-11-08 16:19 UTC.
+New modules created between 2026-11-08 17:18 UTC and 2026-11-08 18:20 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-08T16-19-29-18808Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-08T18-20-52-409922Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-08 15:55:52 | [glastor/zerho](https://jsr.io/glastor/zerho) | 1.9.0 | 88 | Next-generation documentation engine with live interactive playground, Monaco e… |
-| 2026-11-08 15:58:48 | [m4bwav/universe-generator](https://jsr.io/m4bwav/universe-generator) | 1.0.0 | 82 |  |
+| 2026-11-08 17:38:39 | [artberri/express-http-context2](https://jsr.io/artberri/express-http-context2) | 2.0.0 | 82 |  |
 
 ## Data source
 
