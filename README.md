@@ -13,15 +13,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 19:21 UTC
+## Latest list — 2026-11-08 21:19 UTC
 
-New modules created between 2026-11-08 18:20 UTC and 2026-11-08 19:21 UTC.
+New modules created between 2026-11-08 20:21 UTC and 2026-11-08 21:19 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-08T19-21-15-98402Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-08T21-19-07-316695Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-08 18:32:19 | [artberri/rollup-plugin-istanbul](https://jsr.io/artberri/rollup-plugin-istanbul) |  |  |  |
+| 2026-11-08 21:15:18 | [fluritheme/spider](https://jsr.io/fluritheme/spider) | 0.1.4 | 58 |  |
+| 2026-11-08 21:17:29 | [fluritheme/fluri-react](https://jsr.io/fluritheme/fluri-react) | 0.1.1 | 76 |  |
+| 2026-11-08 21:17:39 | [fluritheme/fluri](https://jsr.io/fluritheme/fluri) | 0.1.1 | 47 |  |
 
 ## Data source
 
