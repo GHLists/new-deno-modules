@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 18:20 UTC
+## Latest list — 2026-11-08 19:21 UTC
 
-New modules created between 2026-11-08 17:18 UTC and 2026-11-08 18:20 UTC.
+New modules created between 2026-11-08 18:20 UTC and 2026-11-08 19:21 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-08T18-20-52-409922Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-08T19-21-15-98402Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-08 17:38:39 | [artberri/express-http-context2](https://jsr.io/artberri/express-http-context2) | 2.0.0 | 82 |  |
+| 2026-11-08 18:32:19 | [artberri/rollup-plugin-istanbul](https://jsr.io/artberri/rollup-plugin-istanbul) |  |  |  |
 
 ## Data source
 
