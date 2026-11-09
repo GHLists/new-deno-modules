@@ -13,18 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 16:20 UTC
+## Latest list — 2026-11-09 18:20 UTC
 
-New modules created between 2026-11-09 15:21 UTC and 2026-11-09 16:20 UTC.
+New modules created between 2026-11-09 17:20 UTC and 2026-11-09 18:20 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-09T16-20-56-931782Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-09T18-20-08-025864Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-09 15:23:53 | [copilotz/work](https://jsr.io/copilotz/work) |  |  |  |
-| 2026-11-09 15:24:49 | [copilotz/directory](https://jsr.io/copilotz/directory) |  |  |  |
-| 2026-11-09 15:27:14 | [copilotz/billing](https://jsr.io/copilotz/billing) |  |  |  |
-| 2026-11-09 15:32:38 | [copilotz/team](https://jsr.io/copilotz/team) |  |  |  |
+| 2026-11-09 17:43:50 | [civility/tauri](https://jsr.io/civility/tauri) |  |  |  |
 
 ## Data source
 
