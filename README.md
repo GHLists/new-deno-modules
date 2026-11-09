@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 18:20 UTC
+## Latest list — 2026-11-09 20:21 UTC
 
-New modules created between 2026-11-09 17:20 UTC and 2026-11-09 18:20 UTC.
+New modules created between 2026-11-09 19:20 UTC and 2026-11-09 20:21 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-09T18-20-08-025864Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-09T20-21-16-079405Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-09 17:43:50 | [civility/tauri](https://jsr.io/civility/tauri) |  |  |  |
+| 2026-11-09 19:51:53 | [zuccadev-labs/zutool-ffi](https://jsr.io/zuccadev-labs/zutool-ffi) | 0.1.0 | 70 |  |
 
 ## Data source
 
