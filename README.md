@@ -13,15 +13,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 07:21 UTC
+## Latest list — 2026-11-09 09:21 UTC
 
-New modules created between 2026-11-09 06:19 UTC and 2026-11-09 07:21 UTC.
+New modules created between 2026-11-09 08:20 UTC and 2026-11-09 09:21 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-09T07-21-09-862121Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-09T09-21-59-297974Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-09 07:04:41 | [akashgupta1909/temporal-workdays](https://jsr.io/akashgupta1909/temporal-workdays) |  |  |  |
+| 2026-11-09 09:19:03 | [kernl/bridges](https://jsr.io/kernl/bridges) |  |  |  |
+| 2026-11-09 09:19:10 | [kernl/guard](https://jsr.io/kernl/guard) |  |  |  |
+| 2026-11-09 09:19:17 | [kernl/messaging](https://jsr.io/kernl/messaging) |  |  |  |
 
 ## Data source
 
