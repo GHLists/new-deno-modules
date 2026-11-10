@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 12:22 UTC
+## Latest list — 2026-11-10 14:21 UTC
 
-New modules created between 2026-11-10 11:20 UTC and 2026-11-10 12:22 UTC.
+New modules created between 2026-11-10 13:20 UTC and 2026-11-10 14:21 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-10T12-22-05-427053Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-10T14-21-32-819133Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-10 12:19:18 | [shevernitskiy/evotor](https://jsr.io/shevernitskiy/evotor) | 0.1.0 | 88 |  |
+| 2026-11-10 13:24:04 | [aigifmaker/aigifmaker](https://jsr.io/aigifmaker/aigifmaker) | 0.1.1 | 88 | Generate animated GIFs from text with AI GIF Maker (aigifmaker.ai) |
 
 ## Data source
 
