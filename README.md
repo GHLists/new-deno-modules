@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 20:21 UTC
+## Latest list — 2026-11-10 04:20 UTC
 
-New modules created between 2026-11-09 19:20 UTC and 2026-11-09 20:21 UTC.
+New modules created between 2026-11-10 03:21 UTC and 2026-11-10 04:20 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-09T20-21-16-079405Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-10T04-20-00-611685Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-09 19:51:53 | [zuccadev-labs/zutool-ffi](https://jsr.io/zuccadev-labs/zutool-ffi) | 0.1.0 | 70 |  |
+| 2026-11-10 03:27:52 | [freeimagetovideo/sdk](https://jsr.io/freeimagetovideo/sdk) | 0.1.0 | 88 | Free image to video AI with no daily cap: start with no sign-up, keep going on… |
 
 ## Data source
 
