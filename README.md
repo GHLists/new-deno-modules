@@ -13,15 +13,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 14:21 UTC
+## Latest list — 2026-11-10 20:22 UTC
 
-New modules created between 2026-11-10 13:20 UTC and 2026-11-10 14:21 UTC.
+New modules created between 2026-11-10 19:19 UTC and 2026-11-10 20:22 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-10T14-21-32-819133Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-10T20-22-20-008626Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-10 13:24:04 | [aigifmaker/aigifmaker](https://jsr.io/aigifmaker/aigifmaker) | 0.1.1 | 88 | Generate animated GIFs from text with AI GIF Maker (aigifmaker.ai) |
+| 2026-11-10 20:04:43 | [tekservix/smsgora](https://jsr.io/tekservix/smsgora) | 1.0.0 | 100 | SMS Gora SMS gateway client: send and receive SMS through your own Android phon… |
+| 2026-11-10 20:06:41 | [tekservix/waservix](https://jsr.io/tekservix/waservix) | 1.0.0 | 100 | WAservix WhatsApp API gateway client: send WhatsApp text, media, locations and… |
 
 ## Data source
 

@@ -1,0 +1,3 @@
+created_at,package,version,score,description
+2026-11-10T20:04:43.671873Z,tekservix/smsgora,1.0.0,100,"SMS Gora SMS gateway client: send and receive SMS through your own Android phones, with delivery reports and webhooks."
+2026-11-10T20:06:41.111403Z,tekservix/waservix,1.0.0,100,"WAservix WhatsApp API gateway client: send WhatsApp text, media, locations and polls from your own number, with webhooks."
