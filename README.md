@@ -13,16 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 20:22 UTC
+## Latest list — 2026-11-10 21:21 UTC
 
-New modules created between 2026-11-10 19:19 UTC and 2026-11-10 20:22 UTC.
+New modules created between 2026-11-10 20:22 UTC and 2026-11-10 21:21 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-10T20-22-20-008626Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-10T21-21-20-282824Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-10 20:04:43 | [tekservix/smsgora](https://jsr.io/tekservix/smsgora) | 1.0.0 | 100 | SMS Gora SMS gateway client: send and receive SMS through your own Android phon… |
-| 2026-11-10 20:06:41 | [tekservix/waservix](https://jsr.io/tekservix/waservix) | 1.0.0 | 100 | WAservix WhatsApp API gateway client: send WhatsApp text, media, locations and… |
+| 2026-11-10 20:57:32 | [spy4x/bank-statements](https://jsr.io/spy4x/bank-statements) | 1.123.0 | 82 |  |
 
 ## Data source
 
