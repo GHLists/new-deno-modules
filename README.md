@@ -13,15 +13,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 07:19 UTC
+## Latest list — 2026-11-11 09:20 UTC
 
-New modules created between 2026-11-11 06:18 UTC and 2026-11-11 07:19 UTC.
+New modules created between 2026-11-11 08:20 UTC and 2026-11-11 09:20 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-11T07-19-39-101453Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-11T09-20-04-268614Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-11 06:38:35 | [notusinggithub/wan30](https://jsr.io/notusinggithub/wan30) | 0.1.0 | 88 | Wan30 API client and MCP server by NotUsingGithub. |
+| 2026-11-11 09:05:29 | [binette/decor](https://jsr.io/binette/decor) |  |  |  |
+| 2026-11-11 09:05:51 | [binette/regie](https://jsr.io/binette/regie) |  |  |  |
+| 2026-11-11 09:08:13 | [binette/replique](https://jsr.io/binette/replique) |  |  |  |
 
 ## Data source
 
