@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 11:19 UTC
+## Latest list — 2026-11-11 12:22 UTC
 
-New modules created between 2026-11-11 10:20 UTC and 2026-11-11 11:19 UTC.
+New modules created between 2026-11-11 11:19 UTC and 2026-11-11 12:22 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-11T11-19-27-776556Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-11T12-22-16-507185Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-11 10:37:35 | [smpp-ts/smpp-ts](https://jsr.io/smpp-ts/smpp-ts) |  |  |  |
+| 2026-11-11 12:10:26 | [postext/idml](https://jsr.io/postext/idml) |  |  |  |
 
 ## Data source
 
