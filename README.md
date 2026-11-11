@@ -13,15 +13,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 21:21 UTC
+## Latest list — 2026-11-11 01:19 UTC
 
-New modules created between 2026-11-10 20:22 UTC and 2026-11-10 21:21 UTC.
+New modules created between 2026-11-11 00:22 UTC and 2026-11-11 01:19 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-10T21-21-20-282824Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-11T01-19-28-585476Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-10 20:57:32 | [spy4x/bank-statements](https://jsr.io/spy4x/bank-statements) | 1.123.0 | 82 |  |
+| 2026-11-11 01:01:44 | [pulsify/lexical](https://jsr.io/pulsify/lexical) |  |  |  |
+| 2026-11-11 01:01:49 | [pulsify/tauri](https://jsr.io/pulsify/tauri) | 6.0.0 | 70 |  |
+| 2026-11-11 01:09:05 | [pulsify/react](https://jsr.io/pulsify/react) | 6.0.0 | 82 |  |
+| 2026-11-11 01:09:56 | [pulsify/cloud](https://jsr.io/pulsify/cloud) | 6.0.0 | 64 |  |
+| 2026-11-11 01:11:00 | [pulsify/cloud-server](https://jsr.io/pulsify/cloud-server) |  |  |  |
+| 2026-11-11 01:12:03 | [pulsify/indexeddb](https://jsr.io/pulsify/indexeddb) | 6.0.0 | 70 |  |
+| 2026-11-11 01:12:06 | [pulsify/prosemirror](https://jsr.io/pulsify/prosemirror) |  |  |  |
+| 2026-11-11 01:12:09 | [pulsify/electron](https://jsr.io/pulsify/electron) | 6.0.0 | 70 |  |
+| 2026-11-11 01:12:12 | [pulsify/core](https://jsr.io/pulsify/core) | 6.0.0 | 52 |  |
 
 ## Data source
 

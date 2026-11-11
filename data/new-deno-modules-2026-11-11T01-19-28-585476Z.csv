@@ -1,0 +1,10 @@
+created_at,package,version,score,description
+2026-11-11T01:01:44.879555Z,pulsify/lexical,,,
+2026-11-11T01:01:49.677691Z,pulsify/tauri,6.0.0,70,
+2026-11-11T01:09:05.495676Z,pulsify/react,6.0.0,82,
+2026-11-11T01:09:56.131828Z,pulsify/cloud,6.0.0,64,
+2026-11-11T01:11:00.310982Z,pulsify/cloud-server,,,
+2026-11-11T01:12:03.316565Z,pulsify/indexeddb,6.0.0,70,
+2026-11-11T01:12:06.561971Z,pulsify/prosemirror,,,
+2026-11-11T01:12:09.755471Z,pulsify/electron,6.0.0,70,
+2026-11-11T01:12:12.446693Z,pulsify/core,6.0.0,52,
