@@ -1,0 +1,4 @@
+created_at,package,version,score,description
+2026-11-11T18:37:52.732782Z,ihavethatonvinyl/lexicons,0.1.0,0,
+2026-11-11T18:45:37.638045Z,kehto/rate-limit,,,
+2026-11-11T19:09:59.311373Z,jund-fauz/j-kompact,0.3.0,47,"A utility library for manipulating data in JavaScript / TypeScript. Works on Node.js, Bun, Deno, and Google Apps Script."
