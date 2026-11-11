@@ -13,15 +13,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 21:22 UTC
+## Latest list — 2026-11-11 22:19 UTC
 
-New modules created between 2026-11-11 19:21 UTC and 2026-11-11 21:22 UTC.
+New modules created between 2026-11-11 21:22 UTC and 2026-11-11 22:19 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-11T21-22-27-520403Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-11T22-19-44-326206Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-11 20:59:43 | [escapebase44/base44-migration](https://jsr.io/escapebase44/base44-migration) | 1.0.0 | 88 | EscapeBase44 migrates a Base44 app off Base44, with its backend, database, user… |
+| 2026-11-11 21:55:57 | [ayaexptech/presen-it](https://jsr.io/ayaexptech/presen-it) |  |  |  |
+| 2026-11-11 21:58:23 | [cbarange/isitai](https://jsr.io/cbarange/isitai) |  |  |  |
 
 ## Data source
 
