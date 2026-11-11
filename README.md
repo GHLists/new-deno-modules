@@ -13,17 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 19:21 UTC
+## Latest list — 2026-11-11 21:22 UTC
 
-New modules created between 2026-11-11 18:21 UTC and 2026-11-11 19:21 UTC.
+New modules created between 2026-11-11 19:21 UTC and 2026-11-11 21:22 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-11T19-21-55-462071Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-11T21-22-27-520403Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-11 18:37:52 | [ihavethatonvinyl/lexicons](https://jsr.io/ihavethatonvinyl/lexicons) | 0.1.0 | 0 |  |
-| 2026-11-11 18:45:37 | [kehto/rate-limit](https://jsr.io/kehto/rate-limit) |  |  |  |
-| 2026-11-11 19:09:59 | [jund-fauz/j-kompact](https://jsr.io/jund-fauz/j-kompact) | 0.3.0 | 47 | A utility library for manipulating data in JavaScript / TypeScript. Works on No… |
+| 2026-11-11 20:59:43 | [escapebase44/base44-migration](https://jsr.io/escapebase44/base44-migration) | 1.0.0 | 88 | EscapeBase44 migrates a Base44 app off Base44, with its backend, database, user… |
 
 ## Data source
 
