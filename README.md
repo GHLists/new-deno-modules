@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 13:21 UTC
+## Latest list — 2026-11-11 16:21 UTC
 
-New modules created between 2026-11-11 12:22 UTC and 2026-11-11 13:21 UTC.
+New modules created between 2026-11-11 15:21 UTC and 2026-11-11 16:21 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-11T13-21-37-946346Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-11T16-21-03-204591Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-11 12:44:53 | [nareyko/mcp-yacht-specs](https://jsr.io/nareyko/mcp-yacht-specs) | 1.0.2 | 23 |  |
+| 2026-11-11 15:49:14 | [napplet/mcp](https://jsr.io/napplet/mcp) |  |  |  |
 
 ## Data source
 
