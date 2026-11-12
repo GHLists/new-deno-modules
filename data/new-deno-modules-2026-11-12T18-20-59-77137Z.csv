@@ -1,0 +1,5 @@
+created_at,package,version,score,description
+2026-11-12T17:51:37.686854Z,tundraconnect/open-meteo,0.1.0,100,"Typed Open-Meteo client: Forecast, Ensemble (every member), Previous Runs, Historical Forecast, Single Runs and archive APIs, with explicit model choice and any variable by name."
+2026-11-12T17:52:34.919947Z,tundraconnect/aviationweather,0.1.0,100,"Typed aviationweather.gov client: METAR/SPECI observations, TAFs and the bulk METAR cache, with raw report text and exact remark T-group temperatures."
+2026-11-12T17:52:39.703069Z,tundraconnect/eia,0.1.0,100,"Typed U.S. EIA Open Data API v2 client: any route and facet, auto-pagination past 5,000 rows, plus helpers for WTI/Brent spot prices and weekly petroleum stocks."
+2026-11-12T17:52:41.88908Z,tundraconnect/deribit,0.1.0,100,"Typed Deribit client: option chains, book summaries and historical trades over REST, plus a WebSocket feed of trades, order books with gap detection, tickers with IV and greeks, DVOL and indices."

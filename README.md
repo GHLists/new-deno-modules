@@ -13,15 +13,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 14:22 UTC
+## Latest list — 2026-11-12 18:20 UTC
 
-New modules created between 2026-11-12 13:19 UTC and 2026-11-12 14:22 UTC.
+New modules created between 2026-11-12 17:20 UTC and 2026-11-12 18:20 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-12T14-22-20-572431Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-12T18-20-59-77137Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-12 14:08:16 | [scriptrunnerhq/hapi](https://jsr.io/scriptrunnerhq/hapi) |  |  |  |
+| 2026-11-12 17:51:37 | [tundraconnect/open-meteo](https://jsr.io/tundraconnect/open-meteo) | 0.1.0 | 100 | Typed Open-Meteo client: Forecast, Ensemble (every member), Previous Runs, Hist… |
+| 2026-11-12 17:52:34 | [tundraconnect/aviationweather](https://jsr.io/tundraconnect/aviationweather) | 0.1.0 | 100 | Typed aviationweather.gov client: METAR/SPECI observations, TAFs and the bulk M… |
+| 2026-11-12 17:52:39 | [tundraconnect/eia](https://jsr.io/tundraconnect/eia) | 0.1.0 | 100 | Typed U.S. EIA Open Data API v2 client: any route and facet, auto-pagination pa… |
+| 2026-11-12 17:52:41 | [tundraconnect/deribit](https://jsr.io/tundraconnect/deribit) | 0.1.0 | 100 | Typed Deribit client: option chains, book summaries and historical trades over… |
 
 ## Data source
 
