@@ -13,15 +13,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 21:21 UTC
+## Latest list — 2026-11-12 22:19 UTC
 
-New modules created between 2026-11-12 20:20 UTC and 2026-11-12 21:21 UTC.
+New modules created between 2026-11-12 21:21 UTC and 2026-11-12 22:19 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-12T21-21-53-17155Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-12T22-19-54-30402Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-12 20:28:00 | [kineticons/core](https://jsr.io/kineticons/core) | 0.3.0 | 70 | The drawing and motion behind Kineticons: 2,000+ rounded, animated icons in out… |
+| 2026-11-12 21:34:02 | [chojs/vendor-cho](https://jsr.io/chojs/vendor-cho) | 3.0.0 | 88 |  |
+| 2026-11-12 21:34:41 | [chojs/vendor-fastify](https://jsr.io/chojs/vendor-fastify) | 3.0.0 | 88 |  |
+| 2026-11-12 21:35:25 | [carlwr/maybe-async](https://jsr.io/carlwr/maybe-async) | 0.1.0 | 100 | Helpers for values/functions that may or may not be asynchronous |
 
 ## Data source
 
