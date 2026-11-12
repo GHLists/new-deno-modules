@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 11:22 UTC
+## Latest list — 2026-11-12 13:19 UTC
 
-New modules created between 2026-11-12 10:22 UTC and 2026-11-12 11:22 UTC.
+New modules created between 2026-11-12 12:19 UTC and 2026-11-12 13:19 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-12T11-22-06-036473Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-12T13-19-11-798701Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-12 10:41:03 | [codexa/http](https://jsr.io/codexa/http) |  |  |  |
+| 2026-11-12 12:59:13 | [li/worker-runner](https://jsr.io/li/worker-runner) | 0.0.0 | 47 |  |
 
 ## Data source
 
