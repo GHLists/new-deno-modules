@@ -13,16 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 20:20 UTC
+## Latest list — 2026-11-12 21:21 UTC
 
-New modules created between 2026-11-12 19:19 UTC and 2026-11-12 20:20 UTC.
+New modules created between 2026-11-12 20:20 UTC and 2026-11-12 21:21 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-12T20-20-42-359747Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-12T21-21-53-17155Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-12 19:19:49 | [aletheia-works/formicarium](https://jsr.io/aletheia-works/formicarium) |  |  |  |
-| 2026-11-12 20:12:10 | [otsirh/book-cover-generator](https://jsr.io/otsirh/book-cover-generator) |  |  |  |
+| 2026-11-12 20:28:00 | [kineticons/core](https://jsr.io/kineticons/core) | 0.3.0 | 70 | The drawing and motion behind Kineticons: 2,000+ rounded, animated icons in out… |
 
 ## Data source
 
