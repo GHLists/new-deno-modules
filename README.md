@@ -13,16 +13,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 10:20 UTC
+## Latest list — 2026-11-13 11:21 UTC
 
-New modules created between 2026-11-13 09:20 UTC and 2026-11-13 10:20 UTC.
+New modules created between 2026-11-13 10:20 UTC and 2026-11-13 11:21 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-13T10-20-02-820421Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-13T11-21-53-597712Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-13 09:23:46 | [organisationsnummer/organisationsnummer](https://jsr.io/organisationsnummer/organisationsnummer) | 1.2.1 | 82 |  |
-| 2026-11-13 09:46:56 | [sandwich/cahmls](https://jsr.io/sandwich/cahmls) |  |  |  |
+| 2026-11-13 10:27:37 | [logging/wide-events](https://jsr.io/logging/wide-events) | 0.1.0 | 29 |  |
+| 2026-11-13 10:41:17 | [cplieger/access](https://jsr.io/cplieger/access) |  |  | Browser client for the cplieger/access Go library's HTTP API: typed calls, pass… |
 
 ## Data source
 

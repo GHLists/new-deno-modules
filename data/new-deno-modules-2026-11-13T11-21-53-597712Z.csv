@@ -1,0 +1,3 @@
+created_at,package,version,score,description
+2026-11-13T10:27:37.313948Z,logging/wide-events,0.1.0,29,
+2026-11-13T10:41:17.509845Z,cplieger/access,,,"Browser client for the cplieger/access Go library's HTTP API: typed calls, passkey and password ceremonies, OIDC sign-in and step-up, with no UI of its own."
