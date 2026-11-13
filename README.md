@@ -13,16 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 23:22 UTC
+## Latest list — 2026-11-13 02:21 UTC
 
-New modules created between 2026-11-12 22:19 UTC and 2026-11-12 23:22 UTC.
+New modules created between 2026-11-13 01:18 UTC and 2026-11-13 02:21 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-12T23-22-11-304069Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-13T02-21-59-195604Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-12 22:53:29 | [yankeeinlondon/datacore-contract](https://jsr.io/yankeeinlondon/datacore-contract) |  |  |  |
-| 2026-11-12 22:55:03 | [yankeeinlondon/datacore-client](https://jsr.io/yankeeinlondon/datacore-client) |  |  |  |
+| 2026-11-13 02:03:57 | [nqucsie111310512/message-board](https://jsr.io/nqucsie111310512/message-board) | 1.0.0 | 82 |  |
 
 ## Data source
 
