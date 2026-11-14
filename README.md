@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 17:21 UTC
+## Latest list — 2026-11-14 19:18 UTC
 
-New modules created between 2026-11-14 16:19 UTC and 2026-11-14 17:21 UTC.
+New modules created between 2026-11-14 18:19 UTC and 2026-11-14 19:18 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-14T17-21-58-686689Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-14T19-18-56-42743Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-14 17:04:38 | [codexa/cli](https://jsr.io/codexa/cli) | 1.0.0 | 70 | Codexa CLI for installing plugins and generating typed SDKs from OpenAPI. |
+| 2026-11-14 18:47:07 | [shiyi/ldraw-brick-engine](https://jsr.io/shiyi/ldraw-brick-engine) | 0.2.0 | 17 |  |
 
 ## Data source
 
