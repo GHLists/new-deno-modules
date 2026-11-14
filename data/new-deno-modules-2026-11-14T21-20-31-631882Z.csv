@@ -1,0 +1,2 @@
+created_at,package,version,score,description
+2026-11-14T20:27:07.759597Z,umi-time/umi-time,1.0.0,88,"Umi‑Time: a JavaScript library implementing the Umi‑Time standard — a locally aware presentation of UTC — including umi conversion, formatting, and solar‑geometry helpers."

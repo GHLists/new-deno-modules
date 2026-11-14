@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 20:19 UTC
+## Latest list — 2026-11-14 21:20 UTC
 
-New modules created between 2026-11-14 19:18 UTC and 2026-11-14 20:19 UTC.
+New modules created between 2026-11-14 20:19 UTC and 2026-11-14 21:20 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-14T20-19-40-441044Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-14T21-20-31-631882Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-14 19:56:29 | [shiyi/brickbot](https://jsr.io/shiyi/brickbot) | 0.2.1 | 17 |  |
+| 2026-11-14 20:27:07 | [umi-time/umi-time](https://jsr.io/umi-time/umi-time) | 1.0.0 | 88 | Umi‑Time: a JavaScript library implementing the Umi‑Time standard — a locally a… |
 
 ## Data source
 
