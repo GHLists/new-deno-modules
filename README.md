@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 19:18 UTC
+## Latest list — 2026-11-14 20:19 UTC
 
-New modules created between 2026-11-14 18:19 UTC and 2026-11-14 19:18 UTC.
+New modules created between 2026-11-14 19:18 UTC and 2026-11-14 20:19 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-14T19-18-56-42743Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-14T20-19-40-441044Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-14 18:47:07 | [shiyi/ldraw-brick-engine](https://jsr.io/shiyi/ldraw-brick-engine) | 0.2.0 | 17 |  |
+| 2026-11-14 19:56:29 | [shiyi/brickbot](https://jsr.io/shiyi/brickbot) | 0.2.1 | 17 |  |
 
 ## Data source
 
