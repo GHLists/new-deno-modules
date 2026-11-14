@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 21:20 UTC
+## Latest list — 2026-11-14 23:19 UTC
 
-New modules created between 2026-11-14 20:19 UTC and 2026-11-14 21:20 UTC.
+New modules created between 2026-11-14 22:20 UTC and 2026-11-14 23:19 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-14T21-20-31-631882Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-14T23-19-36-72256Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-14 20:27:07 | [umi-time/umi-time](https://jsr.io/umi-time/umi-time) | 1.0.0 | 88 | Umi‑Time: a JavaScript library implementing the Umi‑Time standard — a locally a… |
+| 2026-11-14 22:44:31 | [pinta365/bytepeel](https://jsr.io/pinta365/bytepeel) | 0.1.1 | 70 | Peel layers of encoding off binary data: hex, base64, PEM, JWT, gzip/zstd, DER,… |
 
 ## Data source
 

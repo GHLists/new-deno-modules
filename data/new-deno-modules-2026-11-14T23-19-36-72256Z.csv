@@ -1,0 +1,2 @@
+created_at,package,version,score,description
+2026-11-14T22:44:31.904452Z,pinta365/bytepeel,0.1.1,70,"Peel layers of encoding off binary data: hex, base64, PEM, JWT, gzip/zstd, DER, CBOR, MessagePack and schemaless protobuf. JSON output, edits, and an MCP server for AI agents."
