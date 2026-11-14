@@ -13,16 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 16:19 UTC
+## Latest list — 2026-11-14 17:21 UTC
 
-New modules created between 2026-11-14 15:21 UTC and 2026-11-14 16:19 UTC.
+New modules created between 2026-11-14 16:19 UTC and 2026-11-14 17:21 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-14T16-19-57-800213Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-14T17-21-58-686689Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-14 16:01:58 | [codexa/sdk](https://jsr.io/codexa/sdk) |  |  |  |
-| 2026-11-14 16:05:45 | [logixia/logixia](https://jsr.io/logixia/logixia) |  |  | TypeScript-first logger for Node.js and NestJS: structured JSON, trace IDs thro… |
+| 2026-11-14 17:04:38 | [codexa/cli](https://jsr.io/codexa/cli) | 1.0.0 | 70 | Codexa CLI for installing plugins and generating typed SDKs from OpenAPI. |
 
 ## Data source
 

@@ -1,0 +1,2 @@
+created_at,package,version,score,description
+2026-11-14T17:04:38.257876Z,codexa/cli,1.0.0,70,Codexa CLI for installing plugins and generating typed SDKs from OpenAPI.
