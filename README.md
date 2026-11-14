@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 23:20 UTC
+## Latest list — 2026-11-14 04:21 UTC
 
-New modules created between 2026-11-13 22:22 UTC and 2026-11-13 23:20 UTC.
+New modules created between 2026-11-14 03:19 UTC and 2026-11-14 04:21 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-13T23-20-38-541762Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-14T04-21-26-194131Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-13 22:29:55 | [codexa/openapi](https://jsr.io/codexa/openapi) | 1.0.1 | 70 | OpenAPI document generation from Codexa HTTP route metadata. |
+| 2026-11-14 04:06:11 | [lukax/llms-ink](https://jsr.io/lukax/llms-ink) | 0.1.0 | 82 |  |
 
 ## Data source
 
