@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 23:19 UTC
+## Latest list — 2026-11-15 05:22 UTC
 
-New modules created between 2026-11-14 22:20 UTC and 2026-11-14 23:19 UTC.
+New modules created between 2026-11-15 04:21 UTC and 2026-11-15 05:22 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-14T23-19-36-72256Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-15T05-22-14-303958Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-14 22:44:31 | [pinta365/bytepeel](https://jsr.io/pinta365/bytepeel) | 0.1.1 | 70 | Peel layers of encoding off binary data: hex, base64, PEM, JWT, gzip/zstd, DER,… |
+| 2026-11-15 04:41:46 | [todd/toddstack-accounts](https://jsr.io/todd/toddstack-accounts) | 0.1.0 | 82 |  |
 
 ## Data source
 
