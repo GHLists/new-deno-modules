@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 20:19 UTC
+## Latest list — 2026-11-15 21:20 UTC
 
-New modules created between 2026-11-15 19:21 UTC and 2026-11-15 20:19 UTC.
+New modules created between 2026-11-15 20:19 UTC and 2026-11-15 21:20 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-15T20-19-40-09882Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-15T21-20-57-00942Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-15 19:38:16 | [midroni/midroni](https://jsr.io/midroni/midroni) | 0.1.0 | 76 |  |
+| 2026-11-15 20:52:10 | [grawlich/comics-components-svelte-test](https://jsr.io/grawlich/comics-components-svelte-test) |  |  |  |
 
 ## Data source
 
