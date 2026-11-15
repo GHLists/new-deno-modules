@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 05:22 UTC
+## Latest list — 2026-11-15 07:21 UTC
 
-New modules created between 2026-11-15 04:21 UTC and 2026-11-15 05:22 UTC.
+New modules created between 2026-11-15 06:21 UTC and 2026-11-15 07:21 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-15T05-22-14-303958Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-15T07-21-30-490582Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-15 04:41:46 | [todd/toddstack-accounts](https://jsr.io/todd/toddstack-accounts) | 0.1.0 | 82 |  |
+| 2026-11-15 06:24:50 | [kaede/zetajs](https://jsr.io/kaede/zetajs) | 0.1.0 | 82 | An unofficial client for zeta. |
 
 ## Data source
 
