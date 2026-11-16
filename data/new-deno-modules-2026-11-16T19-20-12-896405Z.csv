@@ -1,0 +1,13 @@
+created_at,package,version,score,description
+2026-11-16T18:19:52.109054Z,forgesworn/qr,0.3.1,94,"Dependency-free QR encoder and decoder for TypeScript, browsers, workers and Node, with optional WebAssembly and tracked camera scanning."
+2026-11-16T18:53:44.839629Z,nuxt-atelier/core,,,The Nuxt CMS with a visual builder for your own components
+2026-11-16T18:55:46.725855Z,nuxt-atelier/editor,,,Visual editor for Nuxt Atelier
+2026-11-16T18:56:49.262763Z,nuxt-atelier/layer,,,"Optional starter layer for Nuxt Atelier: the module and the admin, with admin pages to make your own"
+2026-11-16T18:58:05.160361Z,nuxt-atelier/admin,,,Headless admin composables and the default admin kit (crystal-neuo) for Nuxt Atelier
+2026-11-16T18:58:50.649656Z,nuxt-atelier/devtools,,,"Nuxt DevTools panels for Nuxt Atelier: schema, migrations, jobs and the admin"
+2026-11-16T19:01:23.039723Z,nuxt-atelier/i18n-micro,,,nuxt-i18n-micro adapter for Nuxt Atelier
+2026-11-16T19:02:25.475408Z,nuxt-atelier/i18n-nuxtjs,,,@nuxtjs/i18n adapter for Nuxt Atelier
+2026-11-16T19:03:06.390377Z,nuxt-atelier/auth-better-auth,,,Better Auth adapter for Nuxt Atelier
+2026-11-16T19:03:55.720624Z,nuxt-atelier/ai,,,Provider-agnostic AI assist adapter for Nuxt Atelier
+2026-11-16T19:05:14.660194Z,nuxt-atelier/storage-s3,,,S3-compatible and R2 media storage driver for Nuxt Atelier
+2026-11-16T19:06:12.495104Z,nuxt-atelier/storage-vercel-blob,,,Vercel Blob media storage driver for Nuxt Atelier
