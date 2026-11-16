@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 16:19 UTC
+## Latest list — 2026-11-16 18:19 UTC
 
-New modules created between 2026-11-16 15:18 UTC and 2026-11-16 16:19 UTC.
+New modules created between 2026-11-16 17:18 UTC and 2026-11-16 18:19 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-16T16-19-45-679624Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-16T18-19-10-680976Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-16 16:14:39 | [goldpjs/pseudocordjs](https://jsr.io/goldpjs/pseudocordjs) |  |  |  |
+| 2026-11-16 17:42:05 | [defense-exploration/crypto-api-ng](https://jsr.io/defense-exploration/crypto-api-ng) | 1.2.1 | 82 | Hashing library for JavaScript with no dependencies: a maintained port of crypt… |
 
 ## Data source
 

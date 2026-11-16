@@ -1,0 +1,2 @@
+created_at,package,version,score,description
+2026-11-16T17:42:05.007697Z,defense-exploration/crypto-api-ng,1.2.1,82,"Hashing library for JavaScript with no dependencies: a maintained port of crypto-api 0.8.5 (Aleksandr Mogilnikov, ""nf404"") whose compression functions run as Zig-compiled WebAssembly."
