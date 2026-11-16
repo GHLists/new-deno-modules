@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 00:21 UTC
+## Latest list — 2026-11-16 02:20 UTC
 
-New modules created between 2026-11-15 23:19 UTC and 2026-11-16 00:21 UTC.
+New modules created between 2026-11-16 01:19 UTC and 2026-11-16 02:20 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-16T00-21-26-668363Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-16T02-20-54-611324Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-16 00:04:56 | [haaku/haaku-ts](https://jsr.io/haaku/haaku-ts) | 0.1.0 | 47 | The official package for interacting with the Haaku.tv API |
+| 2026-11-16 02:00:21 | [phocks/deploy](https://jsr.io/phocks/deploy) | 0.0.1 | 82 |  |
 
 ## Data source
 
