@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 04:22 UTC
+## Latest list — 2026-11-16 05:21 UTC
 
-New modules created between 2026-11-16 03:21 UTC and 2026-11-16 04:22 UTC.
+New modules created between 2026-11-16 04:22 UTC and 2026-11-16 05:21 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-16T04-22-12-549484Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-16T05-21-03-224133Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-16 03:35:33 | [temelj/audio](https://jsr.io/temelj/audio) | 0.1.0 | 76 |  |
+| 2026-11-16 04:53:56 | [whitebox/cem-generator-plugin](https://jsr.io/whitebox/cem-generator-plugin) | 0.1.0 | 100 | CEM Generator plugin for Whitebox |
 
 ## Data source
 
