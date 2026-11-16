@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 10:20 UTC
+## Latest list — 2026-11-16 11:19 UTC
 
-New modules created between 2026-11-16 09:22 UTC and 2026-11-16 10:20 UTC.
+New modules created between 2026-11-16 10:20 UTC and 2026-11-16 11:19 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-16T10-20-22-352658Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-16T11-19-18-464864Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-16 09:58:39 | [kamil-bartczak-dev/aurum-sentry](https://jsr.io/kamil-bartczak-dev/aurum-sentry) |  |  |  |
+| 2026-11-16 10:36:46 | [upyo/cloudflare](https://jsr.io/upyo/cloudflare) |  |  | "Cloudflare Email Service transport for Upyo email library |
 
 ## Data source
 
