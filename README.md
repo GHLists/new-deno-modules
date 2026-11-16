@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 02:20 UTC
+## Latest list — 2026-11-16 03:21 UTC
 
-New modules created between 2026-11-16 01:19 UTC and 2026-11-16 02:20 UTC.
+New modules created between 2026-11-16 02:20 UTC and 2026-11-16 03:21 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-16T02-20-54-611324Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-16T03-21-44-963529Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-16 02:00:21 | [phocks/deploy](https://jsr.io/phocks/deploy) | 0.0.1 | 82 |  |
+| 2026-11-16 02:55:07 | [reububble/web-test](https://jsr.io/reububble/web-test) | 0.1.0 | 70 | WIP. A puppeteer workspace runner. |
 
 ## Data source
 
