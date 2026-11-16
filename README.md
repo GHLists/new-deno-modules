@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 14:20 UTC
+## Latest list — 2026-11-16 16:19 UTC
 
-New modules created between 2026-11-16 13:20 UTC and 2026-11-16 14:20 UTC.
+New modules created between 2026-11-16 15:18 UTC and 2026-11-16 16:19 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-16T14-20-56-032301Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-16T16-19-45-679624Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-16 13:56:49 | [cplieger/httpwire](https://jsr.io/cplieger/httpwire) |  |  | Typed error envelope, cursor pages and idempotency keys for the cplieger web AP… |
+| 2026-11-16 16:14:39 | [goldpjs/pseudocordjs](https://jsr.io/goldpjs/pseudocordjs) |  |  |  |
 
 ## Data source
 
