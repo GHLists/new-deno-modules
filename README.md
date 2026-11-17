@@ -13,17 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 00:18 UTC
+## Latest list — 2026-11-17 02:20 UTC
 
-New modules created between 2026-11-16 23:19 UTC and 2026-11-17 00:18 UTC.
+New modules created between 2026-11-17 01:18 UTC and 2026-11-17 02:20 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-17T00-18-48-979646Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-17T02-20-37-936712Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-16 23:24:24 | [yananlee/aiwhiteboard-video-svg](https://jsr.io/yananlee/aiwhiteboard-video-svg) | 0.1.0 | 47 |  |
-| 2026-11-16 23:29:38 | [yananlee/sparkmeld-storyboard-svg](https://jsr.io/yananlee/sparkmeld-storyboard-svg) | 0.1.0 | 47 |  |
-| 2026-11-16 23:31:13 | [yananlee/tokmeme-caption-svg](https://jsr.io/yananlee/tokmeme-caption-svg) | 0.1.0 | 47 |  |
+| 2026-11-17 01:47:41 | [remix-kbn/apple-ui](https://jsr.io/remix-kbn/apple-ui) | 0.1.0 | 100 | Latest Apple SwiftUI components for remix3 |
 
 ## Data source
 
