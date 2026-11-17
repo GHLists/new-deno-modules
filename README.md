@@ -13,16 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 10:19 UTC
+## Latest list — 2026-11-17 12:21 UTC
 
-New modules created between 2026-11-17 09:19 UTC and 2026-11-17 10:19 UTC.
+New modules created between 2026-11-17 11:21 UTC and 2026-11-17 12:21 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-17T10-19-02-987697Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-17T12-21-32-793621Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-17 09:31:02 | [komga-plugin-bridge/plugin-api](https://jsr.io/komga-plugin-bridge/plugin-api) | 0.1.0 | 70 | Types for writing Komga plugins: hooks, settings, storage and Komga data access… |
-| 2026-11-17 09:37:41 | [komga-plugin-bridge/test-runner](https://jsr.io/komga-plugin-bridge/test-runner) | 0.1.1 | 47 | Runs a Komga plugin against stand-ins for Komga, with no Komga needed. Not affi… |
+| 2026-11-17 11:28:35 | [leverprice/sdk](https://jsr.io/leverprice/sdk) | 0.3.0 | 58 |  |
 
 ## Data source
 
