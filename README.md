@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 16:19 UTC
+## Latest list — 2026-11-17 19:21 UTC
 
-New modules created between 2026-11-17 15:18 UTC and 2026-11-17 16:19 UTC.
+New modules created between 2026-11-17 18:20 UTC and 2026-11-17 19:21 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-17T16-19-17-776991Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-17T19-21-45-563547Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-17 15:36:48 | [texasroyaltybrokers/royalty-calc](https://jsr.io/texasroyaltybrokers/royalty-calc) | 1.0.0 | 76 |  |
+| 2026-11-17 18:39:16 | [erbium/ui](https://jsr.io/erbium/ui) |  |  |  |
 
 ## Data source
 
