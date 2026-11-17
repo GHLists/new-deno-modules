@@ -13,15 +13,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 05:18 UTC
+## Latest list — 2026-11-17 07:19 UTC
 
-New modules created between 2026-11-17 04:19 UTC and 2026-11-17 05:18 UTC.
+New modules created between 2026-11-17 06:21 UTC and 2026-11-17 07:19 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-17T05-18-53-929525Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-17T07-19-27-437751Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-17 05:01:42 | [sekhmet/workflow](https://jsr.io/sekhmet/workflow) |  |  |  |
+| 2026-11-17 06:37:10 | [chojs/vendor-kafka](https://jsr.io/chojs/vendor-kafka) | 3.3.0 | 94 |  |
+| 2026-11-17 07:01:05 | [neurosama/api-types](https://jsr.io/neurosama/api-types) |  |  |  |
 
 ## Data source
 
