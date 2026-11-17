@@ -1,0 +1,3 @@
+created_at,package,version,score,description
+2026-11-17T09:31:02.529195Z,komga-plugin-bridge/plugin-api,0.1.0,70,"Types for writing Komga plugins: hooks, settings, storage and Komga data access. Not affiliated with the Komga project."
+2026-11-17T09:37:41.640125Z,komga-plugin-bridge/test-runner,0.1.1,47,"Runs a Komga plugin against stand-ins for Komga, with no Komga needed. Not affiliated with the Komga project."
