@@ -13,16 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 04:19 UTC
+## Latest list — 2026-11-17 05:18 UTC
 
-New modules created between 2026-11-17 03:21 UTC and 2026-11-17 04:19 UTC.
+New modules created between 2026-11-17 04:19 UTC and 2026-11-17 05:18 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-17T04-19-50-984411Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-17T05-18-53-929525Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-17 03:33:46 | [aurellis/jurassic](https://jsr.io/aurellis/jurassic) | 0.1.0 | 88 |  |
-| 2026-11-17 03:45:34 | [zsl2006819/agenttrace-sdk](https://jsr.io/zsl2006819/agenttrace-sdk) |  |  |  |
+| 2026-11-17 05:01:42 | [sekhmet/workflow](https://jsr.io/sekhmet/workflow) |  |  |  |
 
 ## Data source
 
