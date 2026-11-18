@@ -13,15 +13,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 19:21 UTC
+## Latest list — 2026-11-18 06:22 UTC
 
-New modules created between 2026-11-17 18:20 UTC and 2026-11-17 19:21 UTC.
+New modules created between 2026-11-18 05:19 UTC and 2026-11-18 06:22 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-17T19-21-45-563547Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-18T06-22-13-230365Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-17 18:39:16 | [erbium/ui](https://jsr.io/erbium/ui) |  |  |  |
+| 2026-11-18 06:14:36 | [nirvanacp/let](https://jsr.io/nirvanacp/let) |  |  |  |
+| 2026-11-18 06:15:18 | [nirvanacomputers/let](https://jsr.io/nirvanacomputers/let) |  |  |  |
 
 ## Data source
 
