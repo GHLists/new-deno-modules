@@ -13,16 +13,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 06:22 UTC
+## Latest list — 2026-11-18 09:19 UTC
 
-New modules created between 2026-11-18 05:19 UTC and 2026-11-18 06:22 UTC.
+New modules created between 2026-11-18 08:20 UTC and 2026-11-18 09:19 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-18T06-22-13-230365Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-18T09-19-13-310563Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-18 06:14:36 | [nirvanacp/let](https://jsr.io/nirvanacp/let) |  |  |  |
-| 2026-11-18 06:15:18 | [nirvanacomputers/let](https://jsr.io/nirvanacomputers/let) |  |  |  |
+| 2026-11-18 08:48:21 | [chojs/openapi](https://jsr.io/chojs/openapi) | 3.4.0 | 88 |  |
+| 2026-11-18 09:08:25 | [sodabase/edge](https://jsr.io/sodabase/edge) | 0.1.0 | 52 |  |
 
 ## Data source
 
