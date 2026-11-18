@@ -13,16 +13,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 09:19 UTC
+## Latest list — 2026-11-18 10:23 UTC
 
-New modules created between 2026-11-18 08:20 UTC and 2026-11-18 09:19 UTC.
+New modules created between 2026-11-18 09:19 UTC and 2026-11-18 10:23 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-18T09-19-13-310563Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-18T10-23-01-4059Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-18 08:48:21 | [chojs/openapi](https://jsr.io/chojs/openapi) | 3.4.0 | 88 |  |
-| 2026-11-18 09:08:25 | [sodabase/edge](https://jsr.io/sodabase/edge) | 0.1.0 | 52 |  |
+| 2026-11-18 09:26:54 | [ppz/simple-api](https://jsr.io/ppz/simple-api) | 1.0.0 | 70 | A little lib for http server. |
+| 2026-11-18 10:10:23 | [btr-protocol/sdk](https://jsr.io/btr-protocol/sdk) |  |  | BTR's official SDK to retrieve protocol data and metadata, build transactions (… |
 
 ## Data source
 
