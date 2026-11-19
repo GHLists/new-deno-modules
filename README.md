@@ -13,18 +13,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 19:19 UTC
+## Latest list — 2026-11-19 21:22 UTC
 
-New modules created between 2026-11-19 18:22 UTC and 2026-11-19 19:19 UTC.
+New modules created between 2026-11-19 20:21 UTC and 2026-11-19 21:22 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-19T19-19-07-695729Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-19T21-22-12-168181Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-19 18:34:03 | [wyattjoh/dexcom](https://jsr.io/wyattjoh/dexcom) | 0.1.0 | 88 |  |
-| 2026-11-19 18:34:12 | [wyattjoh/dexcom-mcp](https://jsr.io/wyattjoh/dexcom-mcp) | 0.1.0 | 88 |  |
-| 2026-11-19 18:50:50 | [zuccadev-labs/zenith](https://jsr.io/zuccadev-labs/zenith) | 0.1.0 | 70 |  |
-| 2026-11-19 18:51:22 | [zuccadev-labs/zenith-cli](https://jsr.io/zuccadev-labs/zenith-cli) | 0.2.0 | 70 |  |
+| 2026-11-19 20:48:40 | [karume/convert](https://jsr.io/karume/convert) |  |  |  |
+| 2026-11-19 20:48:49 | [karume/safetensors](https://jsr.io/karume/safetensors) |  |  |  |
 
 ## Data source
 
