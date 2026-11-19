@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 22:20 UTC
+## Latest list — 2026-11-19 17:22 UTC
 
-New modules created between 2026-11-18 21:19 UTC and 2026-11-18 22:20 UTC.
+New modules created between 2026-11-19 16:21 UTC and 2026-11-19 17:22 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-18T22-20-57-895176Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-19T17-22-15-883178Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-18 21:57:03 | [aricart/nats-bench](https://jsr.io/aricart/nats-bench) |  |  |  |
+| 2026-11-19 16:56:02 | [fomnn/trakteer](https://jsr.io/fomnn/trakteer) | 0.0.2 | 100 | Unofficial TypeScript client for Trakteer: public API (supporter balance, suppo… |
 
 ## Data source
 
