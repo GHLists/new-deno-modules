@@ -13,15 +13,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 17:22 UTC
+## Latest list — 2026-11-19 19:19 UTC
 
-New modules created between 2026-11-19 16:21 UTC and 2026-11-19 17:22 UTC.
+New modules created between 2026-11-19 18:22 UTC and 2026-11-19 19:19 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-19T17-22-15-883178Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-19T19-19-07-695729Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-19 16:56:02 | [fomnn/trakteer](https://jsr.io/fomnn/trakteer) | 0.0.2 | 100 | Unofficial TypeScript client for Trakteer: public API (supporter balance, suppo… |
+| 2026-11-19 18:34:03 | [wyattjoh/dexcom](https://jsr.io/wyattjoh/dexcom) | 0.1.0 | 88 |  |
+| 2026-11-19 18:34:12 | [wyattjoh/dexcom-mcp](https://jsr.io/wyattjoh/dexcom-mcp) | 0.1.0 | 88 |  |
+| 2026-11-19 18:50:50 | [zuccadev-labs/zenith](https://jsr.io/zuccadev-labs/zenith) | 0.1.0 | 70 |  |
+| 2026-11-19 18:51:22 | [zuccadev-labs/zenith-cli](https://jsr.io/zuccadev-labs/zenith-cli) | 0.2.0 | 70 |  |
 
 ## Data source
 
