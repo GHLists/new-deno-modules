@@ -13,16 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 21:22 UTC
+## Latest list — 2026-11-20 04:21 UTC
 
-New modules created between 2026-11-19 20:21 UTC and 2026-11-19 21:22 UTC.
+New modules created between 2026-11-20 03:20 UTC and 2026-11-20 04:21 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-19T21-22-12-168181Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-20T04-21-01-640996Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-19 20:48:40 | [karume/convert](https://jsr.io/karume/convert) |  |  |  |
-| 2026-11-19 20:48:49 | [karume/safetensors](https://jsr.io/karume/safetensors) |  |  |  |
+| 2026-11-20 03:28:58 | [kt3k/gawa](https://jsr.io/kt3k/gawa) |  |  | The shell around WebView |
 
 ## Data source
 
