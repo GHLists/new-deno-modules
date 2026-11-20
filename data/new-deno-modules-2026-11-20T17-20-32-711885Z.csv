@@ -1,0 +1,2 @@
+created_at,package,version,score,description
+2026-11-20T16:22:47.494439Z,arma/iri,3.1.11,47,"A parser/serialiser for IRIs (URLs, URNs). In contrast to standard URL parsers, this parser keeps URLs in their original Unicode form, which remains readable even for URLs with non-English characters."

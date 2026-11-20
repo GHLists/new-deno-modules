@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 14:20 UTC
+## Latest list — 2026-11-20 17:20 UTC
 
-New modules created between 2026-11-20 13:19 UTC and 2026-11-20 14:20 UTC.
+New modules created between 2026-11-20 16:19 UTC and 2026-11-20 17:20 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-20T14-20-53-547976Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-20T17-20-32-711885Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-20 13:56:26 | [unanimous/loki](https://jsr.io/unanimous/loki) | 0.1.0 | 94 | Loki is a AI powered coding agent. Made by developers for developers. |
+| 2026-11-20 16:22:47 | [arma/iri](https://jsr.io/arma/iri) | 3.1.11 | 47 | A parser/serialiser for IRIs (URLs, URNs). In contrast to standard URL parsers,… |
 
 ## Data source
 
