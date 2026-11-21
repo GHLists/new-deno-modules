@@ -13,16 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 15:19 UTC
+## Latest list — 2026-11-21 18:20 UTC
 
-New modules created between 2026-11-21 14:19 UTC and 2026-11-21 15:19 UTC.
+New modules created between 2026-11-21 17:20 UTC and 2026-11-21 18:20 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-21T15-19-04-371076Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-21T18-20-46-383744Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-21 14:43:37 | [peetklecha/bed](https://jsr.io/peetklecha/bed) | 0.1.0 | 47 |  |
-| 2026-11-21 15:16:53 | [custom-graphics/golf-cart-wrap-models](https://jsr.io/custom-graphics/golf-cart-wrap-models) | 1.0.0 | 88 | Public reference data for 34 golf cart models, body configurations, wrap finish… |
+| 2026-11-21 18:04:33 | [nodef/extra-fyers](https://jsr.io/nodef/extra-fyers) | 2.2.0 | 100 | A TypeScript/Javascript interface for FYERS API. |
 
 ## Data source
 
