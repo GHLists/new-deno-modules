@@ -13,16 +13,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 12:19 UTC
+## Latest list — 2026-11-21 15:19 UTC
 
-New modules created between 2026-11-21 11:21 UTC and 2026-11-21 12:19 UTC.
+New modules created between 2026-11-21 14:19 UTC and 2026-11-21 15:19 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-21T12-19-44-593213Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-21T15-19-04-371076Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-21 11:27:23 | [planetaryescape/epub-engine](https://jsr.io/planetaryescape/epub-engine) | 0.0.1 | 47 |  |
-| 2026-11-21 12:15:21 | [nodef/extra-regexp](https://jsr.io/nodef/extra-regexp) | 1.0.1 | 100 | A regular expression defines a pattern for matching text. |
+| 2026-11-21 14:43:37 | [peetklecha/bed](https://jsr.io/peetklecha/bed) | 0.1.0 | 47 |  |
+| 2026-11-21 15:16:53 | [custom-graphics/golf-cart-wrap-models](https://jsr.io/custom-graphics/golf-cart-wrap-models) | 1.0.0 | 88 | Public reference data for 34 golf cart models, body configurations, wrap finish… |
 
 ## Data source
 
