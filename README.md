@@ -13,15 +13,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 00:20 UTC
+## Latest list — 2026-11-21 12:19 UTC
 
-New modules created between 2026-11-20 23:20 UTC and 2026-11-21 00:20 UTC.
+New modules created between 2026-11-21 11:21 UTC and 2026-11-21 12:19 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-21T00-20-19-714714Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-21T12-19-44-593213Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-20 23:24:13 | [bates-solutions/payments-core](https://jsr.io/bates-solutions/payments-core) | 0.1.0 | 100 | Edge-safe primitives shared by the Bates Solutions payment libraries: WebCrypto… |
+| 2026-11-21 11:27:23 | [planetaryescape/epub-engine](https://jsr.io/planetaryescape/epub-engine) | 0.0.1 | 47 |  |
+| 2026-11-21 12:15:21 | [nodef/extra-regexp](https://jsr.io/nodef/extra-regexp) | 1.0.1 | 100 | A regular expression defines a pattern for matching text. |
 
 ## Data source
 
