@@ -1,0 +1,2 @@
+created_at,package,version,score,description
+2026-11-20T23:24:13.414999Z,bates-solutions/payments-core,0.1.0,100,"Edge-safe primitives shared by the Bates Solutions payment libraries: WebCrypto HMAC-SHA256, constant-time compare, encoding, idempotency keys and a base error class."

@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 17:20 UTC
+## Latest list — 2026-11-21 00:20 UTC
 
-New modules created between 2026-11-20 16:19 UTC and 2026-11-20 17:20 UTC.
+New modules created between 2026-11-20 23:20 UTC and 2026-11-21 00:20 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-20T17-20-32-711885Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-21T00-20-19-714714Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-20 16:22:47 | [arma/iri](https://jsr.io/arma/iri) | 3.1.11 | 47 | A parser/serialiser for IRIs (URLs, URNs). In contrast to standard URL parsers,… |
+| 2026-11-20 23:24:13 | [bates-solutions/payments-core](https://jsr.io/bates-solutions/payments-core) | 0.1.0 | 100 | Edge-safe primitives shared by the Bates Solutions payment libraries: WebCrypto… |
 
 ## Data source
 
