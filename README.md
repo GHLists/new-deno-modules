@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 08:20 UTC
+## Latest list — 2026-11-22 13:20 UTC
 
-New modules created between 2026-11-22 07:20 UTC and 2026-11-22 08:20 UTC.
+New modules created between 2026-11-22 12:18 UTC and 2026-11-22 13:20 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-22T08-20-22-100918Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-22T13-20-33-06929Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-22 08:11:05 | [antronic/line-sen-ui](https://jsr.io/antronic/line-sen-ui) | 0.1.0 | 64 |  |
+| 2026-11-22 13:05:13 | [stanguc/ai-clef](https://jsr.io/stanguc/ai-clef) | 0.1.0 | 100 | TanStack AI evaluate adapter for a self-hosted Clef server (SystemOne protocol)… |
 
 ## Data source
 
