@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 18:20 UTC
+## Latest list — 2026-11-22 08:20 UTC
 
-New modules created between 2026-11-21 17:20 UTC and 2026-11-21 18:20 UTC.
+New modules created between 2026-11-22 07:20 UTC and 2026-11-22 08:20 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-21T18-20-46-383744Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-22T08-20-22-100918Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-21 18:04:33 | [nodef/extra-fyers](https://jsr.io/nodef/extra-fyers) | 2.2.0 | 100 | A TypeScript/Javascript interface for FYERS API. |
+| 2026-11-22 08:11:05 | [antronic/line-sen-ui](https://jsr.io/antronic/line-sen-ui) | 0.1.0 | 64 |  |
 
 ## Data source
 
