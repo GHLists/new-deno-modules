@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 23:19 UTC
+## Latest list — 2026-11-23 00:19 UTC
 
-New modules created between 2026-11-22 22:20 UTC and 2026-11-22 23:19 UTC.
+New modules created between 2026-11-22 23:19 UTC and 2026-11-23 00:19 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-22T23-19-41-625533Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-23T00-19-45-092321Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-22 22:22:04 | [planetaryescape/opensound](https://jsr.io/planetaryescape/opensound) | 0.7.2 | 35 |  |
+| 2026-11-23 00:09:53 | [togos/s38s39](https://jsr.io/togos/s38s39) | 0.1.0 | 70 |  |
 
 ## Data source
 
