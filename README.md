@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 05:19 UTC
+## Latest list — 2026-11-23 07:21 UTC
 
-New modules created between 2026-11-23 04:19 UTC and 2026-11-23 05:19 UTC.
+New modules created between 2026-11-23 06:20 UTC and 2026-11-23 07:21 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-23T05-19-33-218967Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-23T07-21-58-931475Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-23 04:26:55 | [cohammo/vwc](https://jsr.io/cohammo/vwc) | 0.1.1 | 64 | The Vanilla Web Components (VWC) package is a library of web components made fr… |
+| 2026-11-23 06:46:00 | [setpdf/pdf-watermark-remover](https://jsr.io/setpdf/pdf-watermark-remover) | 0.1.0 | 82 |  |
 
 ## Data source
 
