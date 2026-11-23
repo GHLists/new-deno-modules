@@ -13,16 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 16:20 UTC
+## Latest list — 2026-11-23 19:21 UTC
 
-New modules created between 2026-11-23 15:19 UTC and 2026-11-23 16:20 UTC.
+New modules created between 2026-11-23 18:19 UTC and 2026-11-23 19:21 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-23T16-20-35-737362Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-23T19-21-45-919752Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-23 15:23:35 | [sherotree/image-to-pixel-art](https://jsr.io/sherotree/image-to-pixel-art) | 0.1.0 | 76 |  |
-| 2026-11-23 16:14:04 | [hzrd149/blossom-client](https://jsr.io/hzrd149/blossom-client) | 5.2.1 | 82 | A client for managing blobs on blossom servers |
+| 2026-11-23 19:14:57 | [gradienttim/hono-versioning](https://jsr.io/gradienttim/hono-versioning) | 0.1.2 | 76 | Type-safe API versioning for Hono - URI, header, and query strategies |
 
 ## Data source
 
