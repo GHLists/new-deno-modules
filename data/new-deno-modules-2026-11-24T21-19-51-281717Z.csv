@@ -1,0 +1,2 @@
+created_at,package,version,score,description
+2026-11-24T20:32:34.674785Z,fctb/bd,1.0.0,94,"Offline Food Composition Table for Bangladesh (FCTB) dataset with zero-runtime-dependency TypeScript helpers, JSON, CSV, and SQLite exports."
