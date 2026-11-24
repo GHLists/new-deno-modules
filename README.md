@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 19:21 UTC
+## Latest list — 2026-11-24 12:19 UTC
 
-New modules created between 2026-11-23 18:19 UTC and 2026-11-23 19:21 UTC.
+New modules created between 2026-11-24 11:22 UTC and 2026-11-24 12:19 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-23T19-21-45-919752Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-24T12-19-28-728638Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-23 19:14:57 | [gradienttim/hono-versioning](https://jsr.io/gradienttim/hono-versioning) | 0.1.2 | 76 | Type-safe API versioning for Hono - URI, header, and query strategies |
+| 2026-11-24 11:47:56 | [tksh/color-contrast](https://jsr.io/tksh/color-contrast) | 0.0.0 | 88 |  |
 
 ## Data source
 
