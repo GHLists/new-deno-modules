@@ -13,15 +13,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 12:19 UTC
+## Latest list — 2026-11-24 17:22 UTC
 
-New modules created between 2026-11-24 11:22 UTC and 2026-11-24 12:19 UTC.
+New modules created between 2026-11-24 16:19 UTC and 2026-11-24 17:22 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-24T12-19-28-728638Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-24T17-22-10-906056Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-24 11:47:56 | [tksh/color-contrast](https://jsr.io/tksh/color-contrast) | 0.0.0 | 88 |  |
+| 2026-11-24 16:33:58 | [sunasty/har-sanitizer](https://jsr.io/sunasty/har-sanitizer) | 1.0.0 | 52 |  |
+| 2026-11-24 16:34:02 | [sunasty/tournament-math](https://jsr.io/sunasty/tournament-math) | 1.0.0 | 52 |  |
+| 2026-11-24 16:34:05 | [sunasty/code128-svg](https://jsr.io/sunasty/code128-svg) | 1.0.0 | 52 |  |
+| 2026-11-24 16:35:04 | [sunasty/color-math](https://jsr.io/sunasty/color-math) | 1.0.0 | 52 |  |
+| 2026-11-24 16:35:07 | [sunasty/qr-payload](https://jsr.io/sunasty/qr-payload) | 1.0.0 | 52 |  |
 
 ## Data source
 
