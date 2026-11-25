@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 21:19 UTC
+## Latest list — 2026-11-25 06:20 UTC
 
-New modules created between 2026-11-24 20:19 UTC and 2026-11-24 21:19 UTC.
+New modules created between 2026-11-25 05:21 UTC and 2026-11-25 06:20 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-24T21-19-51-281717Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-25T06-20-51-405086Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-24 20:32:34 | [fctb/bd](https://jsr.io/fctb/bd) | 1.0.0 | 94 | Offline Food Composition Table for Bangladesh (FCTB) dataset with zero-runtime-… |
+| 2026-11-25 05:26:14 | [shevernitskiy/twitch-hermes](https://jsr.io/shevernitskiy/twitch-hermes) | 0.1.4 | 88 |  |
 
 ## Data source
 
