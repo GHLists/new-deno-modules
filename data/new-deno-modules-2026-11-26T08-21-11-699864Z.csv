@@ -1,0 +1,2 @@
+created_at,package,version,score,description
+2026-11-26T07:57:36.915362Z,mountfx/stripper,0.1.0,88,"Framework-agnostic engine that generates Tailwind-style 11-step color scales (50-950) from brand colors, with consistent-contrast ladders (APCA Lc, WCAG 2.2) built into the generation pipeline."

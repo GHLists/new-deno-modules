@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 15:19 UTC
+## Latest list — 2026-11-26 08:21 UTC
 
-New modules created between 2026-11-25 14:20 UTC and 2026-11-25 15:19 UTC.
+New modules created between 2026-11-26 07:19 UTC and 2026-11-26 08:21 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-25T15-19-43-907058Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-26T08-21-11-699864Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-25 14:21:35 | [epistemedeus/authority-letter](https://jsr.io/epistemedeus/authority-letter) | 0.1.0 | 76 |  |
+| 2026-11-26 07:57:36 | [mountfx/stripper](https://jsr.io/mountfx/stripper) | 0.1.0 | 88 | Framework-agnostic engine that generates Tailwind-style 11-step color scales (5… |
 
 ## Data source
 
