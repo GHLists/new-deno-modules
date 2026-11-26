@@ -13,16 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 13:20 UTC
+## Latest list — 2026-11-26 20:21 UTC
 
-New modules created between 2026-11-26 12:21 UTC and 2026-11-26 13:20 UTC.
+New modules created between 2026-11-26 19:21 UTC and 2026-11-26 20:21 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-26T13-20-24-990311Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-26T20-21-16-963648Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-26 12:22:36 | [visualcraft/dxf-geometry](https://jsr.io/visualcraft/dxf-geometry) | 0.1.0 | 82 |  |
-| 2026-11-26 12:56:02 | [shevernitskiy/twitch-eventsub](https://jsr.io/shevernitskiy/twitch-eventsub) | 0.1.1 | 100 | 📡 Twitch Eventsub websocket client |
+| 2026-11-26 19:38:03 | [ouba-studio/branching-story-mcp](https://jsr.io/ouba-studio/branching-story-mcp) | 1.0.0 | 23 |  |
 
 ## Data source
 
