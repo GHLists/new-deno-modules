@@ -13,15 +13,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 08:21 UTC
+## Latest list — 2026-11-26 13:20 UTC
 
-New modules created between 2026-11-26 07:19 UTC and 2026-11-26 08:21 UTC.
+New modules created between 2026-11-26 12:21 UTC and 2026-11-26 13:20 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-26T08-21-11-699864Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-26T13-20-24-990311Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-26 07:57:36 | [mountfx/stripper](https://jsr.io/mountfx/stripper) | 0.1.0 | 88 | Framework-agnostic engine that generates Tailwind-style 11-step color scales (5… |
+| 2026-11-26 12:22:36 | [visualcraft/dxf-geometry](https://jsr.io/visualcraft/dxf-geometry) | 0.1.0 | 82 |  |
+| 2026-11-26 12:56:02 | [shevernitskiy/twitch-eventsub](https://jsr.io/shevernitskiy/twitch-eventsub) | 0.1.1 | 100 | 📡 Twitch Eventsub websocket client |
 
 ## Data source
 
