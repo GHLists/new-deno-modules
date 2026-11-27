@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 16:19 UTC
+## Latest list — 2026-11-27 17:20 UTC
 
-New modules created between 2026-11-27 15:22 UTC and 2026-11-27 16:19 UTC.
+New modules created between 2026-11-27 16:19 UTC and 2026-11-27 17:20 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-27T16-19-55-265404Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-27T17-20-48-008912Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-27 16:03:28 | [chojs/asyncapi](https://jsr.io/chojs/asyncapi) | 3.9.0 | 88 |  |
+| 2026-11-27 16:39:03 | [logtape/cloudflare-workers](https://jsr.io/logtape/cloudflare-workers) |  |  | Cloudflare Workers console sink for LogTape |
 
 ## Data source
 
