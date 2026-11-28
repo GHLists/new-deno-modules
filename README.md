@@ -13,15 +13,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-28 01:19 UTC
+## Latest list — 2026-11-28 02:20 UTC
 
-New modules created between 2026-11-28 00:20 UTC and 2026-11-28 01:19 UTC.
+New modules created between 2026-11-28 01:19 UTC and 2026-11-28 02:20 UTC.
 
-[Full CSV](data/new-deno-modules-2026-11-28T01-19-21-618791Z.csv)
+[Full CSV](data/new-deno-modules-2026-11-28T02-20-25-28733Z.csv)
 
 | Created (UTC) | Package | Version | Score | Description |
 | :------------ | :------ | :------ | ----: | :---------- |
-| 2026-11-28 00:22:17 | [gmvjs/atmosfear](https://jsr.io/gmvjs/atmosfear) | 0.1.2 | 47 |  |
+| 2026-11-28 02:13:54 | [warpimage/core](https://jsr.io/warpimage/core) | 0.1.1 | 82 | Pure TypeScript warp engine for text, SVG and images — powers warpimage.com/dev |
 
 ## Data source
 
